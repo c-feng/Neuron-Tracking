@@ -1,0 +1,93 @@
+
+
+GT path:/media/jjx/Biology/logs/test_168_80_dsc_new_embseg/visual_results/01/
+test_168_80_dsc_new_embseg_ins_pred_merged:
+label:1(248), match:31(227), precision:1.0
+label:2(340), match:28(355), precision:0.9676470588235294
+label:3(91), match:30(98), precision:1.0
+label:4(547), match:27(546), precision:1.0
+label:5(291), match:25(761), precision:1.0
+label:7(2100), match:3(692), precision:0.23952380952380953
+label:9(237), match:11(707), precision:1.0
+label:10(83), match:19(651), precision:1.0
+label:14(27), match:29(116), precision:1.0
+label:15(56), match:36(204), precision:1.0
+label:17(75), match:36(204), precision:1.0
+label:18(311), match:24(689), precision:1.0
+label:20(309), match:26(306), precision:1.0
+label:22(78), match:19(651), precision:1.0
+label:23(333), match:24(689), precision:0.8018018018018018
+label:35(212), match:19(651), precision:1.0
+label:37(450), match:2(829), precision:1.0
+label:38(79), match:20(581), precision:1.0
+label:39(580), match:35(577), precision:1.0
+label:41(385), match:7(427), precision:1.0
+label:52(408), match:2(829), precision:0.6544117647058824
+label:54(508), match:9(346), precision:0.5728346456692913
+label:55(261), match:14(536), precision:0.9118773946360154
+label:58(72), match:20(581), precision:1.0
+label:64(167), match:12(470), precision:1.0
+label:69(793), match:33(423), precision:0.5271122320302648
+label:73(228), match:19(651), precision:1.0
+label:76(95), match:21(116), precision:0.9894736842105263
+label:80(317), match:13(395), precision:0.7728706624605678
+label:85(42), match:9(346), precision:1.0
+label:86(402), match:10(397), precision:1.0
+label:94(60), match:3(692), precision:0.5666666666666667
+label:95(33), match:3(692), precision:1.0
+label:101(141), match:11(707), precision:1.0
+label:102(185), match:8(541), precision:0.7945945945945946
+label:108(75), match:12(470), precision:1.0
+label:112(173), match:17(175), precision:1.0
+label:113(66), match:16(240), precision:1.0
+label:114(22), match:16(240), precision:1.0
+label:115(131), match:4(118), precision:1.0
+label:117(26), match:6(173), precision:1.0
+label:119(46), match:6(173), precision:1.0
+label:125(49), match:8(541), precision:1.0
+label:128(89), match:3(692), precision:1.0
+label:131(76), match:12(470), precision:1.0
+label:134(256), match:13(395), precision:0.5625
+label:135(62), match:18(98), precision:1.0
+label:136(93), match:16(240), precision:1.0
+label:139(58), match:6(173), precision:1.0
+label:148(30), match:16(240), precision:1.0
+Precision:0.927226286302459
+label:2(829), match:37(450), recall:0.5078407720144753
+label:3(692), match:7(2100), recall:0.7167630057803468
+label:4(118), match:115(131), recall:1.0
+label:5(89), match:None(0), recall:0
+label:6(173), match:139(58), recall:0.31213872832369943
+label:7(427), match:41(385), recall:0.8501170960187353
+label:8(541), match:69(793), recall:0.3345656192236599
+label:9(346), match:54(508), recall:0.8179190751445087
+label:10(397), match:86(402), recall:1.0
+label:11(707), match:7(2100), recall:0.4073550212164074
+label:12(470), match:64(167), recall:0.3553191489361702
+label:13(395), match:80(317), recall:0.6177215189873417
+label:14(536), match:7(2100), recall:0.46828358208955223
+label:15(255), match:7(2100), recall:0.6196078431372549
+label:16(240), match:136(93), recall:0.35
+label:17(175), match:112(173), recall:0.9885714285714285
+label:18(98), match:135(62), recall:0.6326530612244898
+label:19(651), match:73(228), recall:0.33640552995391704
+label:20(581), match:7(2100), recall:0.6299483648881239
+label:21(116), match:76(95), recall:0.7931034482758621
+label:24(689), match:18(311), recall:0.4107402031930334
+label:25(761), match:7(2100), recall:0.5269382391590013
+label:26(306), match:20(309), recall:1.0
+label:27(546), match:4(547), recall:1.0
+label:28(355), match:2(340), recall:0.9267605633802817
+label:29(116), match:14(27), recall:0.23275862068965517
+label:30(98), match:3(91), recall:0.8673469387755102
+label:31(227), match:1(248), recall:0.8237885462555066
+label:32(210), match:54(508), recall:1.0
+label:33(423), match:69(793), recall:0.9598108747044918
+label:34(86), match:7(2100), recall:0.6162790697674418
+label:35(577), match:39(580), recall:0.9566724436741768
+label:36(204), match:17(75), recall:0.36764705882352944
+Recall:0.6493047212790485
+
+
+Average Precision:0.927226286302459
+Average Recall:0.6493047212790485

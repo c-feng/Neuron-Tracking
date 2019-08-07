@@ -1,0 +1,4344 @@
+5700_35350_4150_1_ins_0_2:
+label:99(45), match:4(241), tp ratio:1.0
+label:100(51), match:2(247), tp ratio:1.0
+label:2(247), match:100(51), fp ratio:0.0
+label:4(241), match:99(45), fp ratio:0.0
+5700_35350_4150_1_ins_0_2 precision: 1.0
+
+5700_35350_4150_10_ins_0_1:
+label:4(48), match:1(260), tp ratio:1.0
+label:56(49), match:2(246), tp ratio:1.0
+label:1(260), match:4(48), fp ratio:0.0
+label:2(246), match:56(49), fp ratio:0.0
+5700_35350_4150_10_ins_0_1 precision: 1.0
+
+5700_35350_4150_11_ins_0_1:
+label:47(40), match:1(495), tp ratio:1.0
+label:49(5), match:1(495), tp ratio:1.0
+label:72(49), match:1(495), tp ratio:1.0
+label:1(495), match:72(49), fp ratio:0.39191919191919194
+5700_35350_4150_11_ins_0_1 precision: 0.0
+
+5700_35350_4150_12_ins_0_1:
+label:79(35), match:1(181), tp ratio:1.0
+label:1(181), match:79(35), fp ratio:0.0
+5700_35350_4150_12_ins_0_1 precision: 1.0
+
+5700_35350_4150_13_ins_0_2:
+label:26(30), match:4(151), tp ratio:1.0
+label:44(74), match:6(208), tp ratio:0.6621621621621622
+label:2(136), match:44(74), fp ratio:0.0
+label:4(151), match:26(30), fp ratio:0.0
+label:5(33), match:44(74), fp ratio:0.0
+label:6(208), match:44(74), fp ratio:0.0
+5700_35350_4150_13_ins_0_2 precision: 0.5
+
+5700_35350_4150_14_ins_0_2:
+label:92(52), match:4(260), tp ratio:1.0
+label:94(47), match:2(249), tp ratio:1.0
+label:2(249), match:94(47), fp ratio:0.0
+label:4(260), match:92(52), fp ratio:0.0
+5700_35350_4150_14_ins_0_2 precision: 1.0
+
+5700_35350_4150_15_ins_0_1:
+label:26(13), match:3(68), tp ratio:1.0
+label:44(72), match:1(330), tp ratio:0.9583333333333334
+label:1(330), match:44(72), fp ratio:0.0
+label:3(68), match:26(13), fp ratio:0.0
+label:6(36), match:44(72), fp ratio:0.0
+5700_35350_4150_15_ins_0_1 precision: 1.0
+
+5700_35350_4150_16_ins_0_2:
+label:44(69), match:3(230), tp ratio:0.8115942028985508
+label:105(35), match:4(104), tp ratio:0.7428571428571429
+label:2(121), match:44(69), fp ratio:0.0
+label:3(230), match:44(69), fp ratio:0.0
+label:4(104), match:105(35), fp ratio:0.0
+label:5(74), match:105(35), fp ratio:0.02702702702702703
+5700_35350_4150_16_ins_0_2 precision: 0.0
+
+5700_35350_4150_17_ins_0_3:
+label:62(72), match:3(244), tp ratio:0.7083333333333334
+label:3(244), match:62(72), fp ratio:0.0
+label:4(123), match:62(72), fp ratio:0.0
+5700_35350_4150_17_ins_0_3 precision: 0.0
+
+5700_35350_4150_18_ins_0_2:
+label:3(47), match:2(240), tp ratio:1.0
+label:56(50), match:4(250), tp ratio:1.0
+label:2(240), match:3(47), fp ratio:0.0
+label:4(250), match:56(50), fp ratio:0.0
+5700_35350_4150_18_ins_0_2 precision: 1.0
+
+5700_35350_4150_19_ins_0_1:
+label:42(24), match:2(128), tp ratio:1.0
+label:100(65), match:1(332), tp ratio:1.0
+label:1(332), match:100(65), fp ratio:0.0
+label:2(128), match:42(24), fp ratio:0.015625
+5700_35350_4150_19_ins_0_1 precision: 1.0
+
+5700_35350_4150_2_ins_0_2:
+label:62(108), match:2(806), tp ratio:0.9444444444444444
+label:66(10), match:2(806), tp ratio:1.0
+label:100(49), match:2(806), tp ratio:1.0
+label:2(806), match:62(108), fp ratio:0.3362282878411911
+label:10(34), match:62(108), fp ratio:0.0
+label:11(40), match:62(108), fp ratio:0.0
+5700_35350_4150_2_ins_0_2 precision: 0.0
+
+5700_35350_4150_20_ins_0_2:
+label:62(44), match:3(246), tp ratio:1.0
+label:72(49), match:2(229), tp ratio:1.0
+label:2(229), match:72(49), fp ratio:0.0
+label:3(246), match:62(44), fp ratio:0.0
+5700_35350_4150_20_ins_0_2 precision: 1.0
+
+5700_35350_4150_21_ins_0_1:
+label:62(123), match:5(441), tp ratio:0.7560975609756098
+label:66(10), match:1(49), tp ratio:1.0
+label:87(45), match:10(296), tp ratio:1.0
+label:100(51), match:2(192), tp ratio:0.8235294117647058
+label:1(49), match:66(10), fp ratio:0.0
+label:2(192), match:100(51), fp ratio:0.0
+label:4(83), match:100(51), fp ratio:0.0
+label:5(441), match:62(123), fp ratio:0.0
+label:6(136), match:62(123), fp ratio:0.0
+label:10(296), match:87(45), fp ratio:0.10472972972972973
+5700_35350_4150_21_ins_0_1 precision: 0.25
+
+5700_35350_4150_22_ins_0_1:
+label:6(45), match:1(249), tp ratio:1.0
+label:90(55), match:3(272), tp ratio:1.0
+label:1(249), match:6(45), fp ratio:0.0
+label:3(272), match:90(55), fp ratio:0.0
+5700_35350_4150_22_ins_0_1 precision: 1.0
+
+5700_35350_4150_23_ins_0_3:
+label:44(24), match:5(421), tp ratio:1.0
+label:57(57), match:5(421), tp ratio:1.0
+label:5(421), match:57(57), fp ratio:0.25415676959619954
+5700_35350_4150_23_ins_0_3 precision: 0.0
+
+5700_35350_4150_24_ins_0_2:
+label:85(44), match:2(251), tp ratio:1.0
+label:86(13), match:3(50), tp ratio:1.0
+label:2(251), match:85(44), fp ratio:0.0
+label:3(50), match:86(13), fp ratio:0.0
+5700_35350_4150_24_ins_0_2 precision: 1.0
+
+5700_35350_4150_25_ins_0_2:
+label:30(41), match:2(248), tp ratio:1.0
+label:105(52), match:3(231), tp ratio:1.0
+label:2(248), match:30(41), fp ratio:0.0
+label:3(231), match:105(52), fp ratio:0.0
+5700_35350_4150_25_ins_0_2 precision: 1.0
+
+5700_35350_4150_26_ins_0_2:
+label:62(61), match:2(188), tp ratio:0.6885245901639344
+label:2(188), match:62(61), fp ratio:0.0
+label:3(123), match:62(61), fp ratio:0.0
+5700_35350_4150_26_ins_0_2 precision: 0.0
+
+5700_35350_4150_27_ins_0_2:
+label:26(46), match:4(250), tp ratio:1.0
+label:78(26), match:3(128), tp ratio:1.0
+label:88(44), match:2(226), tp ratio:1.0
+label:2(226), match:88(44), fp ratio:0.0
+label:3(128), match:78(26), fp ratio:0.0
+label:4(250), match:26(46), fp ratio:0.0
+5700_35350_4150_27_ins_0_2 precision: 1.0
+
+5700_35350_4150_28_ins_0_2:
+label:22(76), match:2(404), tp ratio:1.0
+label:2(404), match:22(76), fp ratio:0.0
+5700_35350_4150_28_ins_0_2 precision: 1.0
+
+5700_35350_4150_29_ins_0_3:
+label:9(55), match:3(282), tp ratio:1.0
+label:3(282), match:9(55), fp ratio:0.0
+5700_35350_4150_29_ins_0_3 precision: 1.0
+
+5700_35350_4150_3_ins_0_3:
+label:29(38), match:3(375), tp ratio:1.0
+label:88(50), match:3(375), tp ratio:0.8
+label:3(375), match:29(38), fp ratio:0.3253333333333333
+label:7(71), match:88(50), fp ratio:0.0
+5700_35350_4150_3_ins_0_3 precision: 0.0
+
+5700_35350_4150_30_ins_0_1:
+label:26(54), match:1(283), tp ratio:1.0
+label:44(48), match:4(238), tp ratio:1.0
+label:1(283), match:26(54), fp ratio:0.0
+label:4(238), match:44(48), fp ratio:0.0
+5700_35350_4150_30_ins_0_1 precision: 1.0
+
+5700_35350_4150_31_ins_0_2:
+label:106(81), match:3(423), tp ratio:1.0
+label:3(423), match:106(81), fp ratio:0.0
+5700_35350_4150_31_ins_0_2 precision: 1.0
+
+5700_35350_4150_32_ins_0_1:
+label:19(25), match:3(138), tp ratio:1.0
+label:32(57), match:1(291), tp ratio:1.0
+label:1(291), match:32(57), fp ratio:0.0
+label:3(138), match:19(25), fp ratio:0.0
+5700_35350_4150_32_ins_0_1 precision: 1.0
+
+5700_35350_4150_33_ins_0_1:
+label:4(46), match:2(250), tp ratio:1.0
+label:85(26), match:1(125), tp ratio:1.0
+label:1(125), match:85(26), fp ratio:0.0
+label:2(250), match:4(46), fp ratio:0.0
+5700_35350_4150_33_ins_0_1 precision: 1.0
+
+5700_35350_4150_34_ins_0_3:
+label:57(47), match:4(268), tp ratio:1.0
+label:73(62), match:3(195), tp ratio:0.8548387096774194
+label:3(195), match:73(62), fp ratio:0.0
+label:4(268), match:57(47), fp ratio:0.0
+label:5(44), match:73(62), fp ratio:0.0
+label:6(52), match:73(62), fp ratio:0.0
+5700_35350_4150_34_ins_0_3 precision: 0.5
+
+5700_35350_4150_35_ins_0_1:
+label:62(88), match:4(318), tp ratio:0.7840909090909091
+label:87(50), match:5(259), tp ratio:1.0
+label:2(75), match:62(88), fp ratio:0.0
+label:3(79), match:62(88), fp ratio:0.0
+label:4(318), match:62(88), fp ratio:0.0
+label:5(259), match:87(50), fp ratio:0.0
+5700_35350_4150_35_ins_0_1 precision: 0.5
+
+5700_35350_4150_36_ins_0_1:
+label:79(53), match:1(301), tp ratio:1.0
+label:81(3), match:1(301), tp ratio:1.0
+label:1(301), match:79(53), fp ratio:0.0
+5700_35350_4150_36_ins_0_1 precision: 0.5
+
+5700_35350_4150_37_ins_0_2:
+label:55(51), match:5(270), tp ratio:1.0
+label:100(57), match:2(286), tp ratio:1.0
+label:2(286), match:100(57), fp ratio:0.0
+label:5(270), match:55(51), fp ratio:0.0
+5700_35350_4150_37_ins_0_2 precision: 1.0
+
+5700_35350_4150_38_ins_0_2:
+label:90(46), match:2(506), tp ratio:1.0
+label:91(50), match:2(506), tp ratio:1.0
+label:2(506), match:90(46), fp ratio:0.383399209486166
+5700_35350_4150_38_ins_0_2 precision: 0.0
+
+5700_35350_4150_39_ins_0_1:
+label:30(41), match:2(240), tp ratio:1.0
+label:62(51), match:1(238), tp ratio:1.0
+label:1(238), match:62(51), fp ratio:0.0
+label:2(240), match:30(41), fp ratio:0.004166666666666667
+5700_35350_4150_39_ins_0_1 precision: 1.0
+
+5700_35350_4150_4_ins_0_1:
+label:4(54), match:1(286), tp ratio:1.0
+label:87(48), match:2(240), tp ratio:1.0
+label:1(286), match:4(54), fp ratio:0.0
+label:2(240), match:87(48), fp ratio:0.0
+5700_35350_4150_4_ins_0_1 precision: 1.0
+
+5700_35350_4150_5_ins_0_3:
+label:73(47), match:3(243), tp ratio:1.0
+label:105(49), match:5(247), tp ratio:1.0
+label:3(243), match:73(47), fp ratio:0.0
+label:5(247), match:105(49), fp ratio:0.0
+5700_35350_4150_5_ins_0_3 precision: 1.0
+
+5700_35350_4150_6_ins_0_2:
+label:4(42), match:2(226), tp ratio:1.0
+label:97(50), match:3(242), tp ratio:1.0
+label:2(226), match:4(42), fp ratio:0.0
+label:3(242), match:97(50), fp ratio:0.0
+5700_35350_4150_6_ins_0_2 precision: 1.0
+
+5700_35350_4150_7_ins_0_2:
+label:44(89), match:6(229), tp ratio:0.7078651685393258
+label:105(50), match:3(227), tp ratio:1.0
+label:2(250), match:44(89), fp ratio:0.0
+label:3(227), match:105(50), fp ratio:0.0
+label:6(229), match:44(89), fp ratio:0.0
+5700_35350_4150_7_ins_0_2 precision: 0.5
+
+5700_35350_4150_8_ins_0_2:
+label:56(75), match:2(391), tp ratio:1.0
+label:2(391), match:56(75), fp ratio:0.0
+5700_35350_4150_8_ins_0_2 precision: 1.0
+
+5700_35350_4150_9_ins_0_1:
+label:26(34), match:1(458), tp ratio:1.0
+label:78(3), match:1(458), tp ratio:1.0
+label:88(51), match:1(458), tp ratio:1.0
+label:1(458), match:88(51), fp ratio:0.32751091703056767
+5700_35350_4150_9_ins_0_1 precision: 0.0
+
+5700_35600_4150_1_ins_0_1:
+label:67(44), match:1(305), tp ratio:1.0
+label:72(14), match:1(305), tp ratio:1.0
+label:1(305), match:67(44), fp ratio:0.08524590163934426
+5700_35600_4150_1_ins_0_1 precision: 0.5
+
+5700_35600_4150_10_ins_0_3:
+label:69(55), match:3(355), tp ratio:1.0
+label:71(12), match:3(355), tp ratio:1.0
+label:3(355), match:69(55), fp ratio:0.036619718309859155
+5700_35600_4150_10_ins_0_3 precision: 0.5
+
+5700_35600_4150_11_ins_0_1:
+label:81(31), match:10(95), tp ratio:0.7419354838709677
+label:94(88), match:1(328), tp ratio:0.8295454545454546
+label:1(328), match:94(88), fp ratio:0.0
+label:2(56), match:94(88), fp ratio:0.0
+label:4(38), match:94(88), fp ratio:0.0
+label:6(72), match:94(88), fp ratio:0.0
+label:7(42), match:81(31), fp ratio:0.0
+label:10(95), match:81(31), fp ratio:0.0
+5700_35600_4150_11_ins_0_1 precision: 0.0
+
+5700_35600_4150_12_ins_0_2:
+label:3(46), match:3(391), tp ratio:1.0
+label:88(73), match:3(391), tp ratio:0.6027397260273972
+label:2(124), match:88(73), fp ratio:0.0
+label:3(391), match:3(46), fp ratio:0.32225063938618925
+label:7(102), match:88(73), fp ratio:0.0
+5700_35600_4150_12_ins_0_2 precision: 0.0
+
+5700_35600_4150_13_ins_0_1:
+label:81(79), match:9(268), tp ratio:0.6962025316455697
+label:94(68), match:5(268), tp ratio:0.7941176470588235
+label:1(127), match:94(68), fp ratio:0.0
+label:5(268), match:94(68), fp ratio:0.0
+label:6(123), match:81(79), fp ratio:0.0
+label:9(268), match:81(79), fp ratio:0.0
+5700_35600_4150_13_ins_0_1 precision: 0.0
+
+5700_35600_4150_14_ins_0_1:
+label:101(72), match:1(373), tp ratio:1.0
+label:1(373), match:101(72), fp ratio:0.0
+5700_35600_4150_14_ins_0_1 precision: 1.0
+
+5700_35600_4150_15_ins_0_1:
+label:50(38), match:2(245), tp ratio:1.0
+label:76(34), match:1(119), tp ratio:0.8529411764705882
+label:1(119), match:76(34), fp ratio:0.0
+label:2(245), match:50(38), fp ratio:0.0653061224489796
+5700_35600_4150_15_ins_0_1 precision: 0.5
+
+5700_35600_4150_16_ins_0_2:
+label:2(50), match:2(271), tp ratio:1.0
+label:100(49), match:3(252), tp ratio:1.0
+label:2(271), match:2(50), fp ratio:0.0
+label:3(252), match:100(49), fp ratio:0.0
+5700_35600_4150_16_ins_0_2 precision: 1.0
+
+5700_35600_4150_17_ins_0_1:
+label:8(22), match:1(304), tp ratio:1.0
+label:10(3), match:1(304), tp ratio:1.0
+label:40(31), match:1(304), tp ratio:1.0
+label:1(304), match:40(31), fp ratio:0.3881578947368421
+5700_35600_4150_17_ins_0_1 precision: 0.0
+
+5700_35600_4150_18_ins_0_1:
+label:94(73), match:1(404), tp ratio:1.0
+label:1(404), match:94(73), fp ratio:0.0
+5700_35600_4150_18_ins_0_1 precision: 1.0
+
+5700_35600_4150_19_ins_0_2:
+label:40(59), match:2(314), tp ratio:1.0
+label:2(314), match:40(59), fp ratio:0.0
+5700_35600_4150_19_ins_0_2 precision: 1.0
+
+5700_35600_4150_2_ins_0_1:
+label:1(51), match:1(272), tp ratio:1.0
+label:4(50), match:2(237), tp ratio:1.0
+label:1(272), match:1(51), fp ratio:0.0
+label:2(237), match:4(50), fp ratio:0.0
+5700_35600_4150_2_ins_0_1 precision: 1.0
+
+5700_35600_4150_20_ins_0_1:
+label:50(23), match:1(287), tp ratio:1.0
+label:76(34), match:1(287), tp ratio:1.0
+label:1(287), match:76(34), fp ratio:0.3344947735191638
+5700_35600_4150_20_ins_0_1 precision: 0.0
+
+5700_35600_4150_21_ins_0_1:
+label:94(49), match:1(280), tp ratio:1.0
+label:1(280), match:94(49), fp ratio:0.0
+5700_35600_4150_21_ins_0_1 precision: 1.0
+
+5700_35600_4150_22_ins_0_1:
+label:18(102), match:1(285), tp ratio:0.6274509803921569
+label:1(285), match:18(102), fp ratio:0.0
+label:4(240), match:18(102), fp ratio:0.0
+5700_35600_4150_22_ins_0_1 precision: 0.0
+
+5700_35600_4150_23_ins_0_1:
+label:30(39), match:1(234), tp ratio:1.0
+label:59(50), match:5(377), tp ratio:0.62
+label:82(48), match:5(377), tp ratio:1.0
+label:1(234), match:30(39), fp ratio:0.017094017094017096
+label:2(86), match:59(50), fp ratio:0.0
+label:5(377), match:82(48), fp ratio:0.26525198938992045
+5700_35600_4150_23_ins_0_1 precision: 0.3333333333333333
+
+5700_35600_4150_24_ins_0_1:
+label:57(35), match:3(216), tp ratio:1.0
+label:84(46), match:1(194), tp ratio:1.0
+label:1(194), match:84(46), fp ratio:0.0
+label:3(216), match:57(35), fp ratio:0.032407407407407406
+5700_35600_4150_24_ins_0_1 precision: 1.0
+
+5700_35600_4150_25_ins_0_2:
+label:59(36), match:2(383), tp ratio:1.0
+label:101(53), match:2(383), tp ratio:0.8301886792452831
+label:2(383), match:101(53), fp ratio:0.3263707571801567
+label:6(82), match:101(53), fp ratio:0.0
+5700_35600_4150_25_ins_0_2 precision: 0.0
+
+5700_35600_4150_26_ins_0_2:
+label:59(56), match:2(228), tp ratio:0.8928571428571429
+label:82(33), match:4(138), tp ratio:0.9393939393939394
+label:2(228), match:59(56), fp ratio:0.0
+label:4(138), match:82(33), fp ratio:0.0
+label:5(29), match:82(33), fp ratio:0.0
+label:6(52), match:59(56), fp ratio:0.0
+5700_35600_4150_26_ins_0_2 precision: 0.5
+
+5700_35600_4150_27_ins_0_1:
+label:69(50), match:1(425), tp ratio:1.0
+label:88(30), match:1(425), tp ratio:1.0
+label:1(425), match:69(50), fp ratio:0.2188235294117647
+5700_35600_4150_27_ins_0_1 precision: 0.0
+
+5700_35600_4150_28_ins_0_1:
+label:77(53), match:1(307), tp ratio:1.0
+label:79(3), match:1(307), tp ratio:1.0
+label:1(307), match:77(53), fp ratio:0.0
+5700_35600_4150_28_ins_0_1 precision: 0.5
+
+5700_35600_4150_29_ins_0_3:
+label:13(37), match:4(329), tp ratio:1.0
+label:14(28), match:4(329), tp ratio:1.0
+label:4(329), match:13(37), fp ratio:0.2674772036474164
+5700_35600_4150_29_ins_0_3 precision: 0.0
+
+5700_35600_4150_3_ins_0_1:
+label:48(47), match:1(237), tp ratio:1.0
+label:101(54), match:3(282), tp ratio:1.0
+label:1(237), match:48(47), fp ratio:0.0
+label:3(282), match:101(54), fp ratio:0.0
+5700_35600_4150_3_ins_0_1 precision: 1.0
+
+5700_35600_4150_30_ins_0_1:
+label:90(28), match:1(207), tp ratio:1.0
+label:91(12), match:1(207), tp ratio:1.0
+label:1(207), match:90(28), fp ratio:0.10144927536231885
+5700_35600_4150_30_ins_0_1 precision: 0.0
+
+5700_35600_4150_31_ins_0_1:
+label:43(48), match:1(396), tp ratio:1.0
+label:47(30), match:1(396), tp ratio:1.0
+label:1(396), match:43(48), fp ratio:0.31565656565656564
+5700_35600_4150_31_ins_0_1 precision: 0.0
+
+5700_35600_4150_32_ins_0_2:
+label:2(50), match:2(271), tp ratio:1.0
+label:100(49), match:3(252), tp ratio:1.0
+label:2(271), match:2(50), fp ratio:0.0
+label:3(252), match:100(49), fp ratio:0.0
+5700_35600_4150_32_ins_0_2 precision: 1.0
+
+5700_35600_4150_33_ins_0_3:
+label:13(37), match:4(329), tp ratio:1.0
+label:14(28), match:4(329), tp ratio:1.0
+label:4(329), match:13(37), fp ratio:0.2674772036474164
+5700_35600_4150_33_ins_0_3 precision: 0.0
+
+5700_35600_4150_4_ins_0_1:
+label:50(41), match:5(239), tp ratio:1.0
+label:94(49), match:3(142), tp ratio:0.6530612244897959
+label:1(80), match:94(49), fp ratio:0.0
+label:3(142), match:94(49), fp ratio:0.0
+label:5(239), match:50(41), fp ratio:0.0
+5700_35600_4150_4_ins_0_1 precision: 0.5
+
+5700_35600_4150_5_ins_0_1:
+label:66(50), match:1(551), tp ratio:1.0
+label:101(56), match:1(551), tp ratio:1.0
+label:1(551), match:101(56), fp ratio:0.3738656987295826
+5700_35600_4150_5_ins_0_1 precision: 0.0
+
+5700_35600_4150_6_ins_0_3:
+label:59(77), match:3(394), tp ratio:1.0
+label:3(394), match:59(77), fp ratio:0.0
+5700_35600_4150_6_ins_0_3 precision: 1.0
+
+5700_35600_4150_7_ins_0_1:
+label:3(43), match:1(238), tp ratio:1.0
+label:69(45), match:2(221), tp ratio:1.0
+label:1(238), match:3(43), fp ratio:0.0
+label:2(221), match:69(45), fp ratio:0.0
+5700_35600_4150_7_ins_0_1 precision: 1.0
+
+5700_35600_4150_8_ins_0_3:
+label:49(53), match:4(272), tp ratio:1.0
+label:51(48), match:3(247), tp ratio:1.0
+label:3(247), match:51(48), fp ratio:0.0
+label:4(272), match:49(53), fp ratio:0.0
+5700_35600_4150_8_ins_0_3 precision: 1.0
+
+5700_35600_4150_9_ins_0_1:
+label:14(43), match:1(248), tp ratio:1.0
+label:16(28), match:3(118), tp ratio:1.0
+label:1(248), match:14(43), fp ratio:0.0
+label:3(118), match:16(28), fp ratio:0.0
+5700_35600_4150_9_ins_0_1 precision: 1.0
+
+5950_32100_3650_1_ins_0_1:
+label:10(33), match:1(215), tp ratio:1.0
+label:64(27), match:5(90), tp ratio:0.8518518518518519
+label:72(49), match:2(256), tp ratio:1.0
+label:1(215), match:10(33), fp ratio:0.009302325581395349
+label:2(256), match:72(49), fp ratio:0.0
+label:5(90), match:64(27), fp ratio:0.0
+5950_32100_3650_1_ins_0_1 precision: 0.6666666666666666
+
+5950_32100_3650_10_ins_0_3:
+label:59(58), match:5(338), tp ratio:0.5862068965517241
+label:63(41), match:5(338), tp ratio:1.0
+label:3(39), match:59(58), fp ratio:0.0
+label:5(338), match:63(41), fp ratio:0.32840236686390534
+label:8(142), match:59(58), fp ratio:0.0
+5950_32100_3650_10_ins_0_3 precision: 0.0
+
+5950_32100_3650_11_ins_0_4:
+label:13(88), match:7(459), tp ratio:1.0
+label:7(459), match:13(88), fp ratio:0.0
+5950_32100_3650_11_ins_0_4 precision: 1.0
+
+5950_32100_3650_12_ins_0_2:
+label:10(46), match:2(386), tp ratio:1.0
+label:88(29), match:2(386), tp ratio:1.0
+label:2(386), match:10(46), fp ratio:0.33678756476683935
+5950_32100_3650_12_ins_0_2 precision: 0.0
+
+5950_32100_3650_13_ins_0_1:
+label:59(42), match:1(468), tp ratio:1.0
+label:88(47), match:1(468), tp ratio:1.0
+label:113(19), match:6(90), tp ratio:1.0
+label:1(468), match:59(42), fp ratio:0.36324786324786323
+label:6(90), match:113(19), fp ratio:0.0
+5950_32100_3650_13_ins_0_1 precision: 0.3333333333333333
+
+5950_32100_3650_14_ins_0_1:
+label:115(78), match:1(407), tp ratio:1.0
+label:1(407), match:115(78), fp ratio:0.0
+5950_32100_3650_14_ins_0_1 precision: 1.0
+
+5950_32100_3650_15_ins_0_2:
+label:72(76), match:2(391), tp ratio:1.0
+label:2(391), match:72(76), fp ratio:0.0
+5950_32100_3650_15_ins_0_2 precision: 1.0
+
+5950_32100_3650_16_ins_0_1:
+label:11(79), match:5(320), tp ratio:0.7341772151898734
+label:38(46), match:2(195), tp ratio:0.9347826086956522
+label:55(75), match:3(391), tp ratio:0.96
+label:1(123), match:11(79), fp ratio:0.0
+label:2(195), match:38(46), fp ratio:0.0
+label:3(391), match:55(75), fp ratio:0.0
+label:5(320), match:11(79), fp ratio:0.0
+label:7(47), match:55(75), fp ratio:0.0
+5950_32100_3650_16_ins_0_1 precision: 0.6666666666666666
+
+5950_32100_3650_17_ins_0_1:
+label:28(52), match:1(285), tp ratio:1.0
+label:103(41), match:2(208), tp ratio:1.0
+label:1(285), match:28(52), fp ratio:0.0
+label:2(208), match:103(41), fp ratio:0.0
+5950_32100_3650_17_ins_0_1 precision: 1.0
+
+5950_32100_3650_18_ins_0_1:
+label:18(52), match:5(299), tp ratio:1.0
+label:65(29), match:1(271), tp ratio:1.0
+label:75(75), match:7(206), tp ratio:0.68
+label:1(271), match:65(29), fp ratio:0.28044280442804426
+label:2(50), match:75(75), fp ratio:0.0
+label:5(299), match:18(52), fp ratio:0.0
+label:7(206), match:75(75), fp ratio:0.0
+5950_32100_3650_18_ins_0_1 precision: 0.3333333333333333
+
+5950_32100_3650_19_ins_0_2:
+label:39(44), match:2(230), tp ratio:1.0
+label:75(27), match:4(388), tp ratio:1.0
+label:99(49), match:4(388), tp ratio:1.0
+label:2(230), match:39(44), fp ratio:0.0
+label:4(388), match:99(49), fp ratio:0.3479381443298969
+5950_32100_3650_19_ins_0_2 precision: 0.3333333333333333
+
+5950_32100_3650_2_ins_0_2:
+label:59(46), match:2(568), tp ratio:1.0
+label:61(36), match:2(568), tp ratio:1.0
+label:63(26), match:2(568), tp ratio:1.0
+label:2(568), match:59(46), fp ratio:0.38204225352112675
+5950_32100_3650_2_ins_0_2 precision: 0.0
+
+5950_32100_3650_20_ins_0_1:
+label:18(25), match:1(170), tp ratio:1.0
+label:34(45), match:3(200), tp ratio:0.9111111111111111
+label:1(170), match:18(25), fp ratio:0.16470588235294117
+label:3(200), match:34(45), fp ratio:0.0
+5950_32100_3650_20_ins_0_1 precision: 0.5
+
+5950_32100_3650_21_ins_0_2:
+label:10(38), match:7(125), tp ratio:0.5789473684210527
+label:97(24), match:4(243), tp ratio:0.625
+label:99(45), match:4(243), tp ratio:1.0
+label:2(90), match:10(38), fp ratio:0.0
+label:4(243), match:99(45), fp ratio:0.0
+label:7(125), match:10(38), fp ratio:0.0
+label:8(69), match:97(24), fp ratio:0.0
+label:9(38), match:97(24), fp ratio:0.0
+5950_32100_3650_21_ins_0_2 precision: 0.3333333333333333
+
+5950_32100_3650_22_ins_0_2:
+label:81(83), match:2(361), tp ratio:0.8072289156626506
+label:99(47), match:7(162), tp ratio:0.7872340425531915
+label:2(361), match:81(83), fp ratio:0.0
+label:6(71), match:99(47), fp ratio:0.0
+label:7(162), match:99(47), fp ratio:0.0
+label:8(95), match:81(83), fp ratio:0.0
+5950_32100_3650_22_ins_0_2 precision: 0.0
+
+5950_32100_3650_23_ins_0_5:
+label:12(63), match:6(327), tp ratio:1.0
+label:6(327), match:12(63), fp ratio:0.0
+5950_32100_3650_23_ins_0_5 precision: 1.0
+
+5950_32100_3650_24_ins_0_2:
+label:59(14), match:2(75), tp ratio:1.0
+label:83(66), match:4(255), tp ratio:0.8484848484848485
+label:2(75), match:59(14), fp ratio:0.0
+label:3(88), match:83(66), fp ratio:0.0
+label:4(255), match:83(66), fp ratio:0.0
+5950_32100_3650_24_ins_0_2 precision: 0.5
+
+5950_32100_3650_25_ins_0_1:
+label:28(42), match:1(247), tp ratio:1.0
+label:43(59), match:2(282), tp ratio:1.0
+label:1(247), match:28(42), fp ratio:0.008097165991902834
+label:2(282), match:43(59), fp ratio:0.0
+5950_32100_3650_25_ins_0_1 precision: 1.0
+
+5950_32100_3650_26_ins_0_1:
+label:109(76), match:1(404), tp ratio:1.0
+label:1(404), match:109(76), fp ratio:0.0
+5950_32100_3650_26_ins_0_1 precision: 1.0
+
+5950_32100_3650_27_ins_0_3:
+label:43(72), match:4(253), tp ratio:0.7638888888888888
+label:3(117), match:43(72), fp ratio:0.0
+label:4(253), match:43(72), fp ratio:0.0
+5950_32100_3650_27_ins_0_3 precision: 0.0
+
+5950_32100_3650_28_ins_0_2:
+label:18(51), match:8(148), tp ratio:0.5882352941176471
+label:55(81), match:7(286), tp ratio:0.6666666666666666
+label:111(6), match:7(286), tp ratio:1.0
+label:2(175), match:55(81), fp ratio:0.0
+label:7(286), match:55(81), fp ratio:0.0
+label:8(148), match:18(51), fp ratio:0.0
+label:12(129), match:18(51), fp ratio:0.0
+5950_32100_3650_28_ins_0_2 precision: 0.0
+
+5950_32100_3650_29_ins_0_3:
+label:10(41), match:3(467), tp ratio:1.0
+label:63(49), match:3(467), tp ratio:1.0
+label:3(467), match:63(49), fp ratio:0.3490364025695932
+5950_32100_3650_29_ins_0_3 precision: 0.0
+
+5950_32100_3650_3_ins_0_2:
+label:55(53), match:2(417), tp ratio:1.0
+label:117(25), match:2(417), tp ratio:1.0
+label:2(417), match:55(53), fp ratio:0.2541966426858513
+5950_32100_3650_3_ins_0_2 precision: 0.0
+
+5950_32100_3650_30_ins_0_2:
+label:59(43), match:3(241), tp ratio:1.0
+label:88(8), match:2(33), tp ratio:1.0
+label:113(52), match:4(251), tp ratio:1.0
+label:2(33), match:88(8), fp ratio:0.0
+label:3(241), match:59(43), fp ratio:0.0
+label:4(251), match:113(52), fp ratio:0.0
+5950_32100_3650_30_ins_0_2 precision: 1.0
+
+5950_32100_3650_31_ins_0_2:
+label:10(50), match:2(415), tp ratio:1.0
+label:55(28), match:2(415), tp ratio:1.0
+label:2(415), match:10(50), fp ratio:0.3204819277108434
+5950_32100_3650_31_ins_0_2 precision: 0.0
+
+5950_32100_3650_32_ins_0_4:
+label:5(50), match:6(469), tp ratio:1.0
+label:55(36), match:6(469), tp ratio:1.0
+label:6(469), match:5(50), fp ratio:0.3304904051172708
+5950_32100_3650_32_ins_0_4 precision: 0.0
+
+5950_32100_3650_33_ins_0_1:
+label:11(49), match:1(282), tp ratio:1.0
+label:38(46), match:2(123), tp ratio:0.6521739130434783
+label:55(73), match:6(217), tp ratio:0.6438356164383562
+label:1(282), match:11(49), fp ratio:0.0
+label:2(123), match:38(46), fp ratio:0.0
+label:3(40), match:55(73), fp ratio:0.0
+label:4(122), match:55(73), fp ratio:0.0
+label:6(217), match:55(73), fp ratio:0.0
+label:7(123), match:38(46), fp ratio:0.008130081300813009
+5950_32100_3650_33_ins_0_1 precision: 0.3333333333333333
+
+5950_32100_3650_34_ins_0_1:
+label:37(33), match:1(294), tp ratio:1.0
+label:90(25), match:1(294), tp ratio:1.0
+label:1(294), match:37(33), fp ratio:0.3843537414965986
+5950_32100_3650_34_ins_0_1 precision: 0.0
+
+5950_32100_3650_35_ins_0_3:
+label:13(45), match:3(567), tp ratio:1.0
+label:16(63), match:3(567), tp ratio:1.0
+label:3(567), match:16(63), fp ratio:0.3350970017636684
+5950_32100_3650_35_ins_0_3 precision: 0.0
+
+5950_32100_3650_36_ins_0_2:
+label:38(48), match:2(231), tp ratio:1.0
+label:41(45), match:3(239), tp ratio:1.0
+label:2(231), match:38(48), fp ratio:0.0
+label:3(239), match:41(45), fp ratio:0.0
+5950_32100_3650_36_ins_0_2 precision: 1.0
+
+5950_32100_3650_37_ins_0_2:
+label:72(43), match:4(246), tp ratio:1.0
+label:99(50), match:2(242), tp ratio:1.0
+label:2(242), match:99(50), fp ratio:0.0
+label:4(246), match:72(43), fp ratio:0.0
+5950_32100_3650_37_ins_0_2 precision: 1.0
+
+5950_32100_3650_38_ins_0_2:
+label:55(57), match:2(681), tp ratio:1.0
+label:94(68), match:2(681), tp ratio:1.0
+label:2(681), match:94(68), fp ratio:0.3964757709251101
+5950_32100_3650_38_ins_0_2 precision: 0.0
+
+5950_32100_3650_39_ins_0_1:
+label:5(49), match:1(267), tp ratio:1.0
+label:108(53), match:2(277), tp ratio:1.0
+label:1(267), match:5(49), fp ratio:0.0
+label:2(277), match:108(53), fp ratio:0.0
+5950_32100_3650_39_ins_0_1 precision: 1.0
+
+5950_32100_3650_4_ins_0_1:
+label:97(37), match:1(366), tp ratio:1.0
+label:99(27), match:1(366), tp ratio:1.0
+label:1(366), match:97(37), fp ratio:0.28415300546448086
+5950_32100_3650_4_ins_0_1 precision: 0.0
+
+5950_32100_3650_40_ins_0_1:
+label:100(69), match:1(385), tp ratio:1.0
+label:1(385), match:100(69), fp ratio:0.0
+5950_32100_3650_40_ins_0_1 precision: 1.0
+
+5950_32100_3650_41_ins_0_1:
+label:61(49), match:1(254), tp ratio:1.0
+label:64(26), match:4(201), tp ratio:0.8461538461538461
+label:74(51), match:4(201), tp ratio:0.7254901960784313
+label:1(254), match:61(49), fp ratio:0.0
+label:2(53), match:74(51), fp ratio:0.0
+label:4(201), match:64(26), fp ratio:0.2537313432835821
+label:5(43), match:64(26), fp ratio:0.0
+label:8(114), match:74(51), fp ratio:0.0
+5950_32100_3650_41_ins_0_1 precision: 0.3333333333333333
+
+5950_32100_3650_42_ins_0_1:
+label:18(40), match:2(483), tp ratio:1.0
+label:65(23), match:3(99), tp ratio:0.8695652173913043
+label:75(56), match:2(483), tp ratio:1.0
+label:1(35), match:65(23), fp ratio:0.0
+label:2(483), match:75(56), fp ratio:0.3830227743271222
+label:3(99), match:65(23), fp ratio:0.0
+5950_32100_3650_42_ins_0_1 precision: 0.0
+
+5950_32100_3650_43_ins_0_2:
+label:38(71), match:2(634), tp ratio:1.0
+label:53(48), match:2(634), tp ratio:1.0
+label:2(634), match:38(71), fp ratio:0.18454258675078863
+5950_32100_3650_43_ins_0_2 precision: 0.0
+
+5950_32100_3650_44_ins_0_1:
+label:26(41), match:1(427), tp ratio:1.0
+label:41(43), match:1(427), tp ratio:1.0
+label:1(427), match:26(41), fp ratio:0.3583138173302108
+5950_32100_3650_44_ins_0_1 precision: 0.0
+
+5950_32100_3650_45_ins_0_4:
+label:24(47), match:5(200), tp ratio:0.8936170212765957
+label:55(14), match:11(94), tp ratio:1.0
+label:83(63), match:4(325), tp ratio:1.0
+label:111(37), match:9(121), tp ratio:0.7837837837837838
+label:4(325), match:83(63), fp ratio:0.0
+label:5(200), match:24(47), fp ratio:0.0
+label:8(46), match:24(47), fp ratio:0.0
+label:9(121), match:111(37), fp ratio:0.0
+label:10(44), match:111(37), fp ratio:0.0
+label:11(94), match:55(14), fp ratio:0.0
+5950_32100_3650_45_ins_0_4 precision: 0.5
+
+5950_32100_3650_46_ins_0_1:
+label:88(58), match:1(306), tp ratio:1.0
+label:1(306), match:88(58), fp ratio:0.0
+5950_32100_3650_46_ins_0_1 precision: 1.0
+
+5950_32100_3650_47_ins_0_1:
+label:81(77), match:2(151), tp ratio:0.4935064935064935
+label:99(46), match:3(344), tp ratio:1.0
+label:1(45), match:81(77), fp ratio:0.0
+label:2(151), match:81(77), fp ratio:0.0
+label:3(344), match:99(46), fp ratio:0.27325581395348836
+label:6(118), match:81(77), fp ratio:0.0
+5950_32100_3650_47_ins_0_1 precision: 0.0
+
+5950_32100_3650_48_ins_0_3:
+label:43(49), match:3(510), tp ratio:1.0
+label:90(48), match:3(510), tp ratio:1.0
+label:3(510), match:43(49), fp ratio:0.3392156862745098
+5950_32100_3650_48_ins_0_3 precision: 0.0
+
+5950_32100_3650_49_ins_0_5:
+label:104(33), match:5(321), tp ratio:1.0
+label:107(29), match:5(321), tp ratio:1.0
+label:5(321), match:104(33), fp ratio:0.3395638629283489
+5950_32100_3650_49_ins_0_5 precision: 0.0
+
+5950_32100_3650_5_ins_0_1:
+label:55(78), match:1(412), tp ratio:1.0
+label:1(412), match:55(78), fp ratio:0.0
+5950_32100_3650_5_ins_0_1 precision: 1.0
+
+5950_32100_3650_50_ins_0_1:
+label:38(79), match:1(409), tp ratio:1.0
+label:1(409), match:38(79), fp ratio:0.0
+5950_32100_3650_50_ins_0_1 precision: 1.0
+
+5950_32100_3650_51_ins_0_2:
+label:38(45), match:2(306), tp ratio:1.0
+label:59(43), match:3(230), tp ratio:0.9302325581395349
+label:83(62), match:4(186), tp ratio:0.6290322580645161
+label:2(306), match:38(45), fp ratio:0.0
+label:3(230), match:59(43), fp ratio:0.013043478260869565
+label:4(186), match:83(62), fp ratio:0.0
+label:12(91), match:83(62), fp ratio:0.02197802197802198
+5950_32100_3650_51_ins_0_2 precision: 0.6666666666666666
+
+5950_32100_3650_52_ins_0_2:
+label:10(38), match:6(175), tp ratio:0.8421052631578947
+label:97(41), match:5(246), tp ratio:0.8536585365853658
+label:99(28), match:5(246), tp ratio:0.9285714285714286
+label:2(73), match:10(38), fp ratio:0.0821917808219178
+label:5(246), match:97(41), fp ratio:0.13821138211382114
+label:6(175), match:10(38), fp ratio:0.0
+label:7(69), match:97(41), fp ratio:0.0
+5950_32100_3650_52_ins_0_2 precision: 0.0
+
+5950_32100_3650_53_ins_0_1:
+label:18(72), match:1(402), tp ratio:1.0
+label:1(402), match:18(72), fp ratio:0.0
+5950_32100_3650_53_ins_0_1 precision: 1.0
+
+5950_32100_3650_54_ins_0_1:
+label:6(49), match:1(645), tp ratio:1.0
+label:18(72), match:1(645), tp ratio:1.0
+label:1(645), match:18(72), fp ratio:0.3364341085271318
+5950_32100_3650_54_ins_0_1 precision: 0.0
+
+5950_32100_3650_55_ins_0_1:
+label:61(47), match:3(150), tp ratio:0.723404255319149
+label:64(20), match:1(315), tp ratio:1.0
+label:74(45), match:1(315), tp ratio:1.0
+label:1(315), match:74(45), fp ratio:0.17777777777777778
+label:2(121), match:61(47), fp ratio:0.2809917355371901
+label:3(150), match:61(47), fp ratio:0.0
+5950_32100_3650_55_ins_0_1 precision: 0.0
+
+5950_32100_3650_56_ins_0_1:
+label:10(17), match:1(48), tp ratio:0.8823529411764706
+label:55(83), match:2(505), tp ratio:1.0
+label:94(51), match:4(248), tp ratio:1.0
+label:1(48), match:10(17), fp ratio:0.0
+label:2(505), match:55(83), fp ratio:0.015841584158415842
+label:4(248), match:94(51), fp ratio:0.0
+5950_32100_3650_56_ins_0_1 precision: 0.6666666666666666
+
+5950_32100_3650_57_ins_0_1:
+label:11(47), match:1(383), tp ratio:0.6808510638297872
+label:53(45), match:1(383), tp ratio:1.0
+label:1(383), match:53(45), fp ratio:0.2924281984334204
+label:6(108), match:11(47), fp ratio:0.0
+5950_32100_3650_57_ins_0_1 precision: 0.0
+
+5950_32100_3650_58_ins_0_3:
+label:97(55), match:3(295), tp ratio:1.0
+label:99(49), match:4(249), tp ratio:1.0
+label:3(295), match:97(55), fp ratio:0.0
+label:4(249), match:99(49), fp ratio:0.0
+5950_32100_3650_58_ins_0_3 precision: 1.0
+
+5950_32100_3650_59_ins_0_2:
+label:74(86), match:2(453), tp ratio:1.0
+label:2(453), match:74(86), fp ratio:0.0
+5950_32100_3650_59_ins_0_2 precision: 1.0
+
+5950_32100_3650_6_ins_0_2:
+label:16(51), match:3(277), tp ratio:1.0
+label:108(48), match:2(269), tp ratio:1.0
+label:2(269), match:108(48), fp ratio:0.0
+label:3(277), match:16(51), fp ratio:0.0
+5950_32100_3650_6_ins_0_2 precision: 1.0
+
+5950_32100_3650_60_ins_0_3:
+label:83(73), match:3(251), tp ratio:0.7397260273972602
+label:3(251), match:83(73), fp ratio:0.0
+label:5(118), match:83(73), fp ratio:0.0
+5950_32100_3650_60_ins_0_3 precision: 0.0
+
+5950_32100_3650_61_ins_0_3:
+label:24(48), match:3(242), tp ratio:1.0
+label:3(242), match:24(48), fp ratio:0.0
+5950_32100_3650_61_ins_0_3 precision: 1.0
+
+5950_32100_3650_62_ins_0_2:
+label:83(38), match:2(250), tp ratio:1.0
+label:87(9), match:2(250), tp ratio:1.0
+label:2(250), match:83(38), fp ratio:0.08
+5950_32100_3650_62_ins_0_2 precision: 0.5
+
+5950_32100_3650_63_ins_0_3:
+label:24(47), match:5(244), tp ratio:1.0
+label:55(30), match:7(83), tp ratio:0.6
+label:83(48), match:3(246), tp ratio:1.0
+label:111(37), match:9(166), tp ratio:1.0
+label:3(246), match:83(48), fp ratio:0.0
+label:5(244), match:24(47), fp ratio:0.0
+label:7(83), match:55(30), fp ratio:0.0
+label:9(166), match:111(37), fp ratio:0.0
+label:12(91), match:55(30), fp ratio:0.0
+5950_32100_3650_63_ins_0_3 precision: 0.75
+
+5950_32100_3650_64_ins_0_4:
+label:10(47), match:6(277), tp ratio:1.0
+label:55(62), match:4(291), tp ratio:1.0
+label:4(291), match:55(62), fp ratio:0.0
+label:6(277), match:10(47), fp ratio:0.0
+5950_32100_3650_64_ins_0_4 precision: 1.0
+
+5950_32100_3650_65_ins_0_2:
+label:13(57), match:3(275), tp ratio:1.0
+label:43(55), match:2(350), tp ratio:1.0
+label:46(6), match:2(350), tp ratio:1.0
+label:2(350), match:43(55), fp ratio:0.005714285714285714
+label:3(275), match:13(57), fp ratio:0.0
+5950_32100_3650_65_ins_0_2 precision: 0.6666666666666666
+
+5950_32100_3650_66_ins_0_1:
+label:18(77), match:1(410), tp ratio:1.0
+label:1(410), match:18(77), fp ratio:0.0
+5950_32100_3650_66_ins_0_1 precision: 1.0
+
+5950_32100_3650_67_ins_0_1:
+label:26(44), match:1(251), tp ratio:1.0
+label:111(56), match:2(266), tp ratio:1.0
+label:1(251), match:26(44), fp ratio:0.0
+label:2(266), match:111(56), fp ratio:0.0
+5950_32100_3650_67_ins_0_1 precision: 1.0
+
+5950_32100_3650_68_ins_0_2:
+label:26(47), match:4(238), tp ratio:1.0
+label:109(49), match:3(248), tp ratio:1.0
+label:3(248), match:109(49), fp ratio:0.0
+label:4(238), match:26(47), fp ratio:0.0
+5950_32100_3650_68_ins_0_2 precision: 1.0
+
+5950_32100_3650_69_ins_0_2:
+label:53(71), match:5(366), tp ratio:1.0
+label:5(366), match:53(71), fp ratio:0.0
+5950_32100_3650_69_ins_0_2 precision: 1.0
+
+5950_32100_3650_7_ins_0_2:
+label:6(49), match:2(271), tp ratio:1.0
+label:111(51), match:3(255), tp ratio:1.0
+label:2(271), match:6(49), fp ratio:0.0
+label:3(255), match:111(51), fp ratio:0.0
+5950_32100_3650_7_ins_0_2 precision: 1.0
+
+5950_32100_3650_70_ins_0_2:
+label:38(30), match:2(124), tp ratio:0.5666666666666667
+label:59(42), match:5(205), tp ratio:0.9761904761904762
+label:83(36), match:9(123), tp ratio:0.6944444444444444
+label:2(124), match:38(30), fp ratio:0.06451612903225806
+label:4(135), match:38(30), fp ratio:0.21481481481481482
+label:5(205), match:59(42), fp ratio:0.0
+label:9(123), match:83(36), fp ratio:0.0
+5950_32100_3650_70_ins_0_2 precision: 0.3333333333333333
+
+5950_32100_3650_8_ins_0_1:
+label:1(67), match:1(354), tp ratio:1.0
+label:1(354), match:1(67), fp ratio:0.0
+5950_32100_3650_8_ins_0_1 precision: 1.0
+
+5950_32100_3650_9_ins_0_1:
+label:59(50), match:1(401), tp ratio:1.0
+label:119(45), match:1(401), tp ratio:0.6666666666666666
+label:1(401), match:59(50), fp ratio:0.18952618453865336
+label:5(123), match:119(45), fp ratio:0.0
+5950_32100_3650_9_ins_0_1 precision: 0.0
+
+5950_32850_4150_1_ins_0_1:
+label:35(48), match:3(246), tp ratio:1.0
+label:62(49), match:1(248), tp ratio:1.0
+label:1(248), match:62(49), fp ratio:0.0
+label:3(246), match:35(48), fp ratio:0.0
+5950_32850_4150_1_ins_0_1 precision: 1.0
+
+5950_32850_4150_10_ins_0_1:
+label:53(46), match:1(302), tp ratio:1.0
+label:54(12), match:1(302), tp ratio:1.0
+label:1(302), match:53(46), fp ratio:0.06291390728476821
+5950_32850_4150_10_ins_0_1 precision: 0.5
+
+5950_32850_4150_11_ins_0_1:
+label:18(49), match:1(703), tp ratio:1.0
+label:84(85), match:1(703), tp ratio:1.0
+label:1(703), match:84(85), fp ratio:0.29871977240398295
+5950_32850_4150_11_ins_0_1 precision: 0.0
+
+5950_32850_4150_12_ins_0_1:
+label:32(39), match:1(311), tp ratio:1.0
+label:33(16), match:1(311), tp ratio:1.0
+label:1(311), match:32(39), fp ratio:0.12218649517684887
+5950_32850_4150_12_ins_0_1 precision: 0.0
+
+5950_32850_4150_13_ins_0_1:
+label:35(72), match:1(371), tp ratio:1.0
+label:1(371), match:35(72), fp ratio:0.0
+5950_32850_4150_13_ins_0_1 precision: 1.0
+
+5950_32850_4150_14_ins_0_1:
+label:25(49), match:1(153), tp ratio:0.5510204081632653
+label:76(54), match:2(270), tp ratio:1.0
+label:1(153), match:25(49), fp ratio:0.0
+label:2(270), match:76(54), fp ratio:0.0
+label:4(113), match:25(49), fp ratio:0.0
+5950_32850_4150_14_ins_0_1 precision: 0.5
+
+5950_32850_4150_15_ins_0_1:
+label:62(13), match:3(54), tp ratio:1.0
+label:70(80), match:2(386), tp ratio:0.975
+label:1(47), match:70(80), fp ratio:0.0
+label:2(386), match:70(80), fp ratio:0.0
+label:3(54), match:62(13), fp ratio:0.0
+5950_32850_4150_15_ins_0_1 precision: 1.0
+
+5950_32850_4150_16_ins_0_1:
+label:70(77), match:1(266), tp ratio:0.7402597402597403
+label:1(266), match:70(77), fp ratio:0.0
+label:4(130), match:70(77), fp ratio:0.0
+5950_32850_4150_16_ins_0_1 precision: 0.0
+
+5950_32850_4150_17_ins_0_1:
+label:35(82), match:1(428), tp ratio:1.0
+label:1(428), match:35(82), fp ratio:0.0
+5950_32850_4150_17_ins_0_1 precision: 1.0
+
+5950_32850_4150_18_ins_0_1:
+label:35(49), match:2(290), tp ratio:1.0
+label:62(32), match:1(150), tp ratio:1.0
+label:1(150), match:62(32), fp ratio:0.0
+label:2(290), match:35(49), fp ratio:0.0
+5950_32850_4150_18_ins_0_1 precision: 1.0
+
+5950_32850_4150_19_ins_0_1:
+label:62(50), match:2(262), tp ratio:1.0
+label:70(58), match:1(229), tp ratio:0.8448275862068966
+label:1(229), match:70(58), fp ratio:0.0
+label:2(262), match:62(50), fp ratio:0.0
+label:6(83), match:70(58), fp ratio:0.0
+5950_32850_4150_19_ins_0_1 precision: 0.5
+
+5950_32850_4150_2_ins_0_1:
+label:27(61), match:1(316), tp ratio:1.0
+label:1(316), match:27(61), fp ratio:0.0
+5950_32850_4150_2_ins_0_1 precision: 1.0
+
+5950_32850_4150_20_ins_0_1:
+label:35(45), match:1(282), tp ratio:1.0
+label:50(11), match:1(282), tp ratio:1.0
+label:1(282), match:35(45), fp ratio:0.06382978723404255
+5950_32850_4150_20_ins_0_1 precision: 0.5
+
+5950_32850_4150_21_ins_0_2:
+label:75(80), match:5(234), tp ratio:0.6625
+label:3(196), match:75(80), fp ratio:0.0
+label:5(234), match:75(80), fp ratio:0.0
+5950_32850_4150_21_ins_0_2 precision: 0.0
+
+5950_32850_4150_22_ins_0_1:
+label:23(45), match:2(248), tp ratio:1.0
+label:35(69), match:1(362), tp ratio:1.0
+label:1(362), match:35(69), fp ratio:0.0
+label:2(248), match:23(45), fp ratio:0.0
+5950_32850_4150_22_ins_0_1 precision: 1.0
+
+5950_32850_4150_23_ins_0_1:
+label:58(50), match:1(406), tp ratio:1.0
+label:90(25), match:1(406), tp ratio:1.0
+label:1(406), match:58(50), fp ratio:0.270935960591133
+5950_32850_4150_23_ins_0_1 precision: 0.0
+
+5950_32850_4150_24_ins_0_1:
+label:35(34), match:1(184), tp ratio:1.0
+label:45(13), match:3(52), tp ratio:1.0
+label:1(184), match:35(34), fp ratio:0.0
+label:3(52), match:45(13), fp ratio:0.0
+5950_32850_4150_24_ins_0_1 precision: 1.0
+
+5950_32850_4150_25_ins_0_3:
+label:58(75), match:3(407), tp ratio:1.0
+label:3(407), match:58(75), fp ratio:0.0
+5950_32850_4150_25_ins_0_3 precision: 1.0
+
+5950_32850_4150_26_ins_0_1:
+label:32(44), match:1(285), tp ratio:1.0
+label:34(12), match:1(285), tp ratio:1.0
+label:1(285), match:32(44), fp ratio:0.09473684210526316
+5950_32850_4150_26_ins_0_1 precision: 0.5
+
+5950_32850_4150_3_ins_0_2:
+label:79(45), match:2(244), tp ratio:1.0
+label:81(50), match:3(234), tp ratio:1.0
+label:2(244), match:79(45), fp ratio:0.0
+label:3(234), match:81(50), fp ratio:0.0
+5950_32850_4150_3_ins_0_2 precision: 1.0
+
+5950_32850_4150_4_ins_0_1:
+label:35(79), match:1(436), tp ratio:1.0
+label:1(436), match:35(79), fp ratio:0.0
+5950_32850_4150_4_ins_0_1 precision: 1.0
+
+5950_32850_4150_5_ins_0_1:
+label:18(47), match:2(270), tp ratio:1.0
+label:30(39), match:5(333), tp ratio:1.0
+label:35(58), match:5(333), tp ratio:0.603448275862069
+label:1(145), match:35(58), fp ratio:0.0
+label:2(270), match:18(47), fp ratio:0.0
+label:5(333), match:30(39), fp ratio:0.2882882882882883
+5950_32850_4150_5_ins_0_1 precision: 0.3333333333333333
+
+5950_32850_4150_6_ins_0_2:
+label:62(108), match:2(556), tp ratio:1.0
+label:2(556), match:62(108), fp ratio:0.0
+5950_32850_4150_6_ins_0_2 precision: 1.0
+
+5950_32850_4150_7_ins_0_1:
+label:27(59), match:1(310), tp ratio:1.0
+label:82(26), match:2(123), tp ratio:1.0
+label:1(310), match:27(59), fp ratio:0.0
+label:2(123), match:82(26), fp ratio:0.0
+5950_32850_4150_7_ins_0_1 precision: 1.0
+
+5950_32850_4150_8_ins_0_2:
+label:15(24), match:6(121), tp ratio:1.0
+label:18(48), match:4(240), tp ratio:1.0
+label:4(240), match:18(48), fp ratio:0.0
+label:6(121), match:15(24), fp ratio:0.0
+5950_32850_4150_8_ins_0_2 precision: 1.0
+
+5950_32850_4150_9_ins_0_2:
+label:36(55), match:2(292), tp ratio:1.0
+label:2(292), match:36(55), fp ratio:0.0
+5950_32850_4150_9_ins_0_2 precision: 1.0
+
+5950_33350_3900_1_ins_0_1:
+label:54(47), match:1(686), tp ratio:1.0
+label:56(81), match:1(686), tp ratio:1.0
+label:1(686), match:56(81), fp ratio:0.29008746355685133
+5950_33350_3900_1_ins_0_1 precision: 0.0
+
+5950_33350_3900_10_ins_0_2:
+label:14(46), match:2(241), tp ratio:1.0
+label:57(52), match:3(258), tp ratio:1.0
+label:2(241), match:14(46), fp ratio:0.0
+label:3(258), match:57(52), fp ratio:0.0
+5950_33350_3900_10_ins_0_2 precision: 1.0
+
+5950_33350_3900_11_ins_0_1:
+label:47(73), match:1(373), tp ratio:1.0
+label:1(373), match:47(73), fp ratio:0.0
+5950_33350_3900_11_ins_0_1 precision: 1.0
+
+5950_33350_3900_12_ins_0_1:
+label:11(75), match:1(398), tp ratio:1.0
+label:1(398), match:11(75), fp ratio:0.0
+5950_33350_3900_12_ins_0_1 precision: 1.0
+
+5950_33350_3900_13_ins_0_1:
+label:4(80), match:2(294), tp ratio:0.825
+label:1(116), match:4(80), fp ratio:0.0
+label:2(294), match:4(80), fp ratio:0.0
+5950_33350_3900_13_ins_0_1 precision: 0.0
+
+5950_33350_3900_14_ins_0_1:
+label:31(47), match:1(234), tp ratio:1.0
+label:1(234), match:31(47), fp ratio:0.0
+5950_33350_3900_14_ins_0_1 precision: 1.0
+
+5950_33350_3900_15_ins_0_1:
+label:9(74), match:1(384), tp ratio:1.0
+label:1(384), match:9(74), fp ratio:0.0
+5950_33350_3900_15_ins_0_1 precision: 1.0
+
+5950_33350_3900_16_ins_0_1:
+label:23(49), match:1(260), tp ratio:1.0
+label:26(50), match:3(253), tp ratio:1.0
+label:1(260), match:23(49), fp ratio:0.0
+label:3(253), match:26(50), fp ratio:0.0
+5950_33350_3900_16_ins_0_1 precision: 1.0
+
+5950_33350_3900_17_ins_0_1:
+label:61(52), match:1(399), tp ratio:0.4807692307692308
+label:62(98), match:1(399), tp ratio:0.7040816326530612
+label:1(399), match:62(98), fp ratio:0.12280701754385964
+label:5(131), match:62(98), fp ratio:0.0
+label:7(88), match:61(52), fp ratio:0.0
+label:10(147), match:61(52), fp ratio:0.061224489795918366
+5950_33350_3900_17_ins_0_1 precision: 0.0
+
+5950_33350_3900_18_ins_0_2:
+label:29(69), match:2(275), tp ratio:0.4782608695652174
+label:65(28), match:2(275), tp ratio:1.0
+label:2(275), match:65(28), fp ratio:0.3927272727272727
+label:4(97), match:29(69), fp ratio:0.0
+label:5(130), match:29(69), fp ratio:0.0
+5950_33350_3900_18_ins_0_2 precision: 0.0
+
+5950_33350_3900_19_ins_0_2:
+label:14(56), match:2(283), tp ratio:1.0
+label:2(283), match:14(56), fp ratio:0.0
+5950_33350_3900_19_ins_0_2 precision: 1.0
+
+5950_33350_3900_2_ins_0_1:
+label:27(40), match:1(249), tp ratio:1.0
+label:28(9), match:1(249), tp ratio:1.0
+label:1(249), match:27(40), fp ratio:0.024096385542168676
+5950_33350_3900_2_ins_0_1 precision: 0.5
+
+5950_33350_3900_20_ins_0_1:
+label:23(66), match:1(338), tp ratio:1.0
+label:1(338), match:23(66), fp ratio:0.0
+5950_33350_3900_20_ins_0_1 precision: 1.0
+
+5950_33350_3900_21_ins_0_1:
+label:44(38), match:1(323), tp ratio:1.0
+label:46(25), match:1(323), tp ratio:1.0
+label:1(323), match:44(38), fp ratio:0.21052631578947367
+5950_33350_3900_21_ins_0_1 precision: 0.0
+
+5950_33350_3900_22_ins_0_1:
+label:3(50), match:1(440), tp ratio:1.0
+label:70(30), match:1(440), tp ratio:1.0
+label:1(440), match:3(50), fp ratio:0.30454545454545456
+5950_33350_3900_22_ins_0_1 precision: 0.0
+
+5950_33350_3900_3_ins_0_1:
+label:22(49), match:2(174), tp ratio:0.7959183673469388
+label:36(63), match:5(180), tp ratio:0.7142857142857143
+label:53(67), match:1(214), tp ratio:0.6268656716417911
+label:1(214), match:53(67), fp ratio:0.0
+label:2(174), match:22(49), fp ratio:0.0
+label:3(94), match:36(63), fp ratio:0.0
+label:4(45), match:36(63), fp ratio:0.0
+label:5(180), match:36(63), fp ratio:0.0
+label:6(80), match:22(49), fp ratio:0.0
+label:8(166), match:53(67), fp ratio:0.0
+5950_33350_3900_3_ins_0_1 precision: 0.0
+
+5950_33350_3900_4_ins_0_2:
+label:8(48), match:2(242), tp ratio:1.0
+label:48(52), match:3(267), tp ratio:1.0
+label:2(242), match:8(48), fp ratio:0.0
+label:3(267), match:48(52), fp ratio:0.0
+5950_33350_3900_4_ins_0_2 precision: 1.0
+
+5950_33350_3900_5_ins_0_2:
+label:48(102), match:2(329), tp ratio:0.6568627450980392
+label:2(329), match:48(102), fp ratio:0.0
+label:3(217), match:48(102), fp ratio:0.0
+5950_33350_3900_5_ins_0_2 precision: 0.0
+
+5950_33350_3900_6_ins_0_1:
+label:22(49), match:2(252), tp ratio:1.0
+label:36(55), match:4(253), tp ratio:0.9636363636363636
+label:53(57), match:1(347), tp ratio:1.0
+label:1(347), match:53(57), fp ratio:0.011527377521613832
+label:2(252), match:22(49), fp ratio:0.0
+label:4(253), match:36(55), fp ratio:0.0
+5950_33350_3900_6_ins_0_1 precision: 1.0
+
+5950_33350_3900_7_ins_0_1:
+label:14(43), match:2(233), tp ratio:1.0
+label:49(84), match:1(408), tp ratio:1.0
+label:1(408), match:49(84), fp ratio:0.0
+label:2(233), match:14(43), fp ratio:0.0
+5950_33350_3900_7_ins_0_1 precision: 1.0
+
+5950_33350_3900_8_ins_0_1:
+label:15(44), match:1(249), tp ratio:1.0
+label:17(13), match:2(50), tp ratio:1.0
+label:1(249), match:15(44), fp ratio:0.0
+label:2(50), match:17(13), fp ratio:0.0
+5950_33350_3900_8_ins_0_1 precision: 1.0
+
+5950_33350_3900_9_ins_0_1:
+label:61(68), match:7(233), tp ratio:0.6764705882352942
+label:62(99), match:2(311), tp ratio:0.6868686868686869
+label:1(135), match:62(99), fp ratio:0.0
+label:2(311), match:62(99), fp ratio:0.0
+label:5(40), match:62(99), fp ratio:0.0
+label:7(233), match:61(68), fp ratio:0.03862660944206009
+label:8(136), match:61(68), fp ratio:0.0
+5950_33350_3900_9_ins_0_1 precision: 0.0
+
+5950_33350_4150_1_ins_0_1:
+label:18(38), match:1(629), tp ratio:1.0
+label:42(84), match:1(629), tp ratio:1.0
+label:1(629), match:42(84), fp ratio:0.21303656597774245
+5950_33350_4150_1_ins_0_1 precision: 0.0
+
+5950_33350_4150_10_ins_0_1:
+label:31(50), match:1(269), tp ratio:1.0
+label:58(42), match:2(211), tp ratio:1.0
+label:1(269), match:31(50), fp ratio:0.0
+label:2(211), match:58(42), fp ratio:0.0
+5950_33350_4150_10_ins_0_1 precision: 1.0
+
+5950_33350_4150_11_ins_0_2:
+label:31(54), match:3(283), tp ratio:1.0
+label:58(24), match:5(130), tp ratio:1.0
+label:72(56), match:2(315), tp ratio:1.0
+label:2(315), match:72(56), fp ratio:0.0
+label:3(283), match:31(54), fp ratio:0.0
+label:5(130), match:58(24), fp ratio:0.0
+5950_33350_4150_11_ins_0_2 precision: 1.0
+
+5950_33350_4150_12_ins_0_1:
+label:31(72), match:1(362), tp ratio:1.0
+label:1(362), match:31(72), fp ratio:0.0
+5950_33350_4150_12_ins_0_1 precision: 1.0
+
+5950_33350_4150_13_ins_0_2:
+label:15(41), match:6(121), tp ratio:0.5853658536585366
+label:45(50), match:2(250), tp ratio:1.0
+label:2(250), match:45(50), fp ratio:0.0
+label:4(100), match:15(41), fp ratio:0.02
+label:6(121), match:15(41), fp ratio:0.0
+5950_33350_4150_13_ins_0_2 precision: 0.5
+
+5950_33350_4150_14_ins_0_1:
+label:31(58), match:1(294), tp ratio:1.0
+label:1(294), match:31(58), fp ratio:0.0
+5950_33350_4150_14_ins_0_1 precision: 1.0
+
+5950_33350_4150_15_ins_0_1:
+label:3(91), match:1(434), tp ratio:0.9560439560439561
+label:1(434), match:3(91), fp ratio:0.0
+label:2(54), match:3(91), fp ratio:0.0
+5950_33350_4150_15_ins_0_1 precision: 1.0
+
+5950_33350_4150_16_ins_0_2:
+label:58(72), match:4(403), tp ratio:1.0
+label:59(7), match:4(403), tp ratio:1.0
+label:4(403), match:58(72), fp ratio:0.0
+5950_33350_4150_16_ins_0_2 precision: 0.5
+
+5950_33350_4150_17_ins_0_1:
+label:4(53), match:5(147), tp ratio:0.6226415094339622
+label:40(49), match:2(250), tp ratio:1.0
+label:72(51), match:1(297), tp ratio:1.0
+label:1(297), match:72(51), fp ratio:0.006734006734006734
+label:2(250), match:40(49), fp ratio:0.0
+label:5(147), match:4(53), fp ratio:0.0
+label:6(118), match:4(53), fp ratio:0.0
+5950_33350_4150_17_ins_0_1 precision: 0.6666666666666666
+
+5950_33350_4150_18_ins_0_1:
+label:48(39), match:2(221), tp ratio:1.0
+label:84(54), match:1(268), tp ratio:1.0
+label:1(268), match:84(54), fp ratio:0.0
+label:2(221), match:48(39), fp ratio:0.0
+5950_33350_4150_18_ins_0_1 precision: 1.0
+
+5950_33350_4150_19_ins_0_1:
+label:1(43), match:1(477), tp ratio:1.0
+label:57(50), match:1(477), tp ratio:1.0
+label:1(477), match:57(50), fp ratio:0.39622641509433965
+5950_33350_4150_19_ins_0_1 precision: 0.0
+
+5950_33350_4150_2_ins_0_1:
+label:1(47), match:2(246), tp ratio:1.0
+label:13(49), match:1(248), tp ratio:1.0
+label:1(248), match:13(49), fp ratio:0.0
+label:2(246), match:1(47), fp ratio:0.0
+5950_33350_4150_2_ins_0_1 precision: 1.0
+
+5950_33350_4150_20_ins_0_2:
+label:27(54), match:2(272), tp ratio:1.0
+label:2(272), match:27(54), fp ratio:0.0
+5950_33350_4150_20_ins_0_2 precision: 1.0
+
+5950_33350_4150_21_ins_0_2:
+label:58(46), match:2(297), tp ratio:1.0
+label:59(12), match:2(297), tp ratio:1.0
+label:2(297), match:58(46), fp ratio:0.05723905723905724
+5950_33350_4150_21_ins_0_2 precision: 0.5
+
+5950_33350_4150_22_ins_0_1:
+label:35(56), match:2(171), tp ratio:0.6964285714285714
+label:36(27), match:3(149), tp ratio:1.0
+label:1(122), match:35(56), fp ratio:0.0
+label:2(171), match:35(56), fp ratio:0.0
+label:3(149), match:36(27), fp ratio:0.0
+5950_33350_4150_22_ins_0_1 precision: 0.5
+
+5950_33350_4150_23_ins_0_1:
+label:18(33), match:1(604), tp ratio:1.0
+label:42(84), match:1(604), tp ratio:1.0
+label:1(604), match:42(84), fp ratio:0.1804635761589404
+5950_33350_4150_23_ins_0_1 precision: 0.0
+
+5950_33350_4150_24_ins_0_1:
+label:1(43), match:1(477), tp ratio:1.0
+label:57(50), match:1(477), tp ratio:1.0
+label:1(477), match:57(50), fp ratio:0.39622641509433965
+5950_33350_4150_24_ins_0_1 precision: 0.0
+
+5950_33350_4150_25_ins_0_2:
+label:58(46), match:2(297), tp ratio:1.0
+label:59(12), match:2(297), tp ratio:1.0
+label:2(297), match:58(46), fp ratio:0.05723905723905724
+5950_33350_4150_25_ins_0_2 precision: 0.5
+
+5950_33350_4150_3_ins_0_1:
+label:4(61), match:3(246), tp ratio:0.9508196721311475
+label:40(49), match:2(189), tp ratio:0.8571428571428571
+label:72(56), match:1(182), tp ratio:0.5892857142857143
+label:1(182), match:72(56), fp ratio:0.005494505494505495
+label:2(189), match:40(49), fp ratio:0.0
+label:3(246), match:4(61), fp ratio:0.0
+label:4(57), match:4(61), fp ratio:0.0
+label:6(63), match:40(49), fp ratio:0.0
+label:9(160), match:72(56), fp ratio:0.0
+5950_33350_4150_3_ins_0_1 precision: 0.3333333333333333
+
+5950_33350_4150_4_ins_0_2:
+label:20(22), match:3(334), tp ratio:1.0
+label:41(40), match:3(334), tp ratio:1.0
+label:58(50), match:2(247), tp ratio:1.0
+label:2(247), match:58(50), fp ratio:0.0
+label:3(334), match:41(40), fp ratio:0.2874251497005988
+5950_33350_4150_4_ins_0_2 precision: 0.3333333333333333
+
+5950_33350_4150_5_ins_0_2:
+label:27(49), match:2(277), tp ratio:1.0
+label:88(51), match:3(248), tp ratio:1.0
+label:2(277), match:27(49), fp ratio:0.0
+label:3(248), match:88(51), fp ratio:0.0
+5950_33350_4150_5_ins_0_2 precision: 1.0
+
+5950_33350_4150_6_ins_0_1:
+label:27(78), match:2(252), tp ratio:0.7051282051282052
+label:1(150), match:27(78), fp ratio:0.0
+label:2(252), match:27(78), fp ratio:0.0
+5950_33350_4150_6_ins_0_1 precision: 0.0
+
+5950_33350_4150_7_ins_0_2:
+label:45(46), match:2(241), tp ratio:1.0
+label:87(51), match:3(266), tp ratio:1.0
+label:2(241), match:45(46), fp ratio:0.0
+label:3(266), match:87(51), fp ratio:0.0
+5950_33350_4150_7_ins_0_2 precision: 1.0
+
+5950_33350_4150_8_ins_0_2:
+label:50(52), match:4(275), tp ratio:1.0
+label:54(60), match:2(295), tp ratio:1.0
+label:2(295), match:54(60), fp ratio:0.0
+label:4(275), match:50(52), fp ratio:0.0
+5950_33350_4150_8_ins_0_2 precision: 1.0
+
+5950_33350_4150_9_ins_0_2:
+label:3(43), match:2(499), tp ratio:1.0
+label:48(51), match:2(499), tp ratio:1.0
+label:2(499), match:48(51), fp ratio:0.37675350701402804
+5950_33350_4150_9_ins_0_2 precision: 0.0
+
+5950_34100_4400_1_ins_0_1:
+label:61(38), match:1(317), tp ratio:0.868421052631579
+label:67(43), match:1(317), tp ratio:0.8837209302325582
+label:1(317), match:67(43), fp ratio:0.24290220820189273
+label:3(46), match:67(43), fp ratio:0.0
+label:5(55), match:61(38), fp ratio:0.0
+5950_34100_4400_1_ins_0_1 precision: 0.0
+
+5950_34100_4400_10_ins_0_1:
+label:38(72), match:1(367), tp ratio:1.0
+label:1(367), match:38(72), fp ratio:0.0
+5950_34100_4400_10_ins_0_1 precision: 1.0
+
+5950_34100_4400_11_ins_0_1:
+label:31(54), match:1(281), tp ratio:1.0
+label:1(281), match:31(54), fp ratio:0.0
+5950_34100_4400_11_ins_0_1 precision: 1.0
+
+5950_34100_4400_11_ins_0_2:
+label:8(32), match:4(121), tp ratio:0.6875
+label:67(40), match:5(256), tp ratio:1.0
+label:4(121), match:8(32), fp ratio:0.0
+label:5(256), match:67(40), fp ratio:0.13671875
+5950_34100_4400_11_ins_0_2 precision: 0.0
+
+5950_34100_4400_12_ins_0_2:
+label:22(72), match:2(371), tp ratio:1.0
+label:2(371), match:22(72), fp ratio:0.0
+5950_34100_4400_12_ins_0_2 precision: 1.0
+
+5950_34100_4400_13_ins_0_2:
+label:65(74), match:3(243), tp ratio:0.7027027027027027
+label:2(133), match:65(74), fp ratio:0.0
+label:3(243), match:65(74), fp ratio:0.0
+5950_34100_4400_13_ins_0_2 precision: 0.0
+
+5950_34100_4400_14_ins_0_1:
+label:43(56), match:1(282), tp ratio:1.0
+label:1(282), match:43(56), fp ratio:0.0
+5950_34100_4400_14_ins_0_1 precision: 1.0
+
+5950_34100_4400_15_ins_0_2:
+label:5(47), match:4(273), tp ratio:1.0
+label:48(29), match:5(127), tp ratio:0.9655172413793104
+label:4(273), match:5(47), fp ratio:0.0
+label:5(127), match:48(29), fp ratio:0.0
+5950_34100_4400_15_ins_0_2 precision: 1.0
+
+5950_34100_4400_2_ins_0_2:
+label:5(47), match:4(273), tp ratio:1.0
+label:48(29), match:5(127), tp ratio:0.9655172413793104
+label:4(273), match:5(47), fp ratio:0.0
+label:5(127), match:48(29), fp ratio:0.0
+5950_34100_4400_2_ins_0_2 precision: 1.0
+
+5950_34100_4400_3_ins_0_1:
+label:42(34), match:1(222), tp ratio:1.0
+label:45(52), match:6(268), tp ratio:1.0
+label:46(33), match:5(137), tp ratio:0.9393939393939394
+label:1(222), match:42(34), fp ratio:0.04054054054054054
+label:5(137), match:46(33), fp ratio:0.0
+label:6(268), match:45(52), fp ratio:0.0
+5950_34100_4400_3_ins_0_1 precision: 1.0
+
+5950_34100_4400_4_ins_0_1:
+label:25(28), match:1(293), tp ratio:1.0
+label:27(29), match:1(293), tp ratio:1.0
+label:1(293), match:25(28), fp ratio:0.3412969283276451
+5950_34100_4400_4_ins_0_1 precision: 0.0
+
+5950_34100_4400_5_ins_0_3:
+label:61(84), match:9(265), tp ratio:0.6428571428571429
+label:67(43), match:4(318), tp ratio:0.9069767441860465
+label:3(46), match:61(84), fp ratio:0.0
+label:4(318), match:67(43), fp ratio:0.24528301886792453
+label:6(41), match:67(43), fp ratio:0.0
+label:9(265), match:61(84), fp ratio:0.0
+5950_34100_4400_5_ins_0_3 precision: 0.0
+
+5950_34100_4400_6_ins_0_2:
+label:65(74), match:3(243), tp ratio:0.7027027027027027
+label:2(133), match:65(74), fp ratio:0.0
+label:3(243), match:65(74), fp ratio:0.0
+5950_34100_4400_6_ins_0_2 precision: 0.0
+
+5950_34100_4400_7_ins_0_1:
+label:8(34), match:1(677), tp ratio:1.0
+label:61(49), match:1(677), tp ratio:1.0
+label:77(48), match:1(677), tp ratio:1.0
+label:1(677), match:61(49), fp ratio:0.5465288035450517
+5950_34100_4400_7_ins_0_1 precision: 0.0
+
+5950_34100_4400_8_ins_0_1:
+label:10(58), match:1(296), tp ratio:1.0
+label:1(296), match:10(58), fp ratio:0.0
+5950_34100_4400_8_ins_0_1 precision: 1.0
+
+5950_34100_4400_9_ins_0_1:
+label:15(48), match:1(379), tp ratio:1.0
+label:20(22), match:1(379), tp ratio:1.0
+label:1(379), match:15(48), fp ratio:0.25065963060686014
+5950_34100_4400_9_ins_0_1 precision: 0.0
+
+5950_35100_3900_1_ins_0_2:
+label:41(57), match:5(290), tp ratio:0.8070175438596491
+label:57(48), match:3(161), tp ratio:0.6666666666666666
+label:59(52), match:7(242), tp ratio:1.0
+label:69(33), match:14(140), tp ratio:0.9393939393939394
+label:2(100), match:41(57), fp ratio:0.0
+label:3(161), match:57(48), fp ratio:0.0
+label:5(290), match:41(57), fp ratio:0.16896551724137931
+label:7(242), match:59(52), fp ratio:0.0
+label:13(55), match:69(33), fp ratio:0.0
+label:14(140), match:69(33), fp ratio:0.0
+5950_35100_3900_1_ins_0_2 precision: 0.5
+
+5950_35100_3900_10_ins_0_5:
+label:20(46), match:7(250), tp ratio:1.0
+label:54(52), match:5(257), tp ratio:1.0
+label:5(257), match:54(52), fp ratio:0.0
+label:7(250), match:20(46), fp ratio:0.0
+5950_35100_3900_10_ins_0_5 precision: 1.0
+
+5950_35100_3900_11_ins_0_1:
+label:46(46), match:1(234), tp ratio:1.0
+label:63(54), match:2(275), tp ratio:1.0
+label:1(234), match:46(46), fp ratio:0.0
+label:2(275), match:63(54), fp ratio:0.0
+5950_35100_3900_11_ins_0_1 precision: 1.0
+
+5950_35100_3900_12_ins_0_3:
+label:12(76), match:3(393), tp ratio:1.0
+label:3(393), match:12(76), fp ratio:0.0
+5950_35100_3900_12_ins_0_3 precision: 1.0
+
+5950_35100_3900_13_ins_0_5:
+label:12(25), match:8(374), tp ratio:1.0
+label:59(48), match:8(374), tp ratio:1.0
+label:8(374), match:59(48), fp ratio:0.28342245989304815
+5950_35100_3900_13_ins_0_5 precision: 0.0
+
+5950_35100_3900_14_ins_0_2:
+label:12(23), match:4(140), tp ratio:1.0
+label:13(3), match:4(140), tp ratio:1.0
+label:59(52), match:2(256), tp ratio:1.0
+label:2(256), match:59(52), fp ratio:0.0
+label:4(140), match:12(23), fp ratio:0.0
+5950_35100_3900_14_ins_0_2 precision: 0.6666666666666666
+
+5950_35100_3900_15_ins_0_1:
+label:41(44), match:1(374), tp ratio:1.0
+label:54(28), match:1(374), tp ratio:1.0
+label:1(374), match:41(44), fp ratio:0.28342245989304815
+5950_35100_3900_15_ins_0_1 precision: 0.0
+
+5950_35100_3900_16_ins_0_2:
+label:59(71), match:2(358), tp ratio:1.0
+label:2(358), match:59(71), fp ratio:0.0
+5950_35100_3900_16_ins_0_2 precision: 1.0
+
+5950_35100_3900_17_ins_0_5:
+label:42(73), match:7(364), tp ratio:1.0
+label:7(364), match:42(73), fp ratio:0.0
+5950_35100_3900_17_ins_0_5 precision: 1.0
+
+5950_35100_3900_18_ins_0_3:
+label:20(58), match:3(290), tp ratio:1.0
+label:3(290), match:20(58), fp ratio:0.0
+5950_35100_3900_18_ins_0_3 precision: 1.0
+
+5950_35100_3900_19_ins_0_1:
+label:4(53), match:3(305), tp ratio:0.6981132075471698
+label:92(39), match:3(305), tp ratio:0.7692307692307693
+label:1(124), match:4(53), fp ratio:0.0
+label:2(70), match:92(39), fp ratio:0.0
+label:3(305), match:4(53), fp ratio:0.22295081967213115
+5950_35100_3900_19_ins_0_1 precision: 0.0
+
+5950_35100_3900_2_ins_0_2:
+label:41(52), match:4(544), tp ratio:1.0
+label:57(30), match:2(166), tp ratio:1.0
+label:59(14), match:5(43), tp ratio:1.0
+label:69(48), match:4(544), tp ratio:1.0
+label:2(166), match:57(30), fp ratio:0.0
+label:4(544), match:41(52), fp ratio:0.3602941176470588
+label:5(43), match:59(14), fp ratio:0.0
+5950_35100_3900_2_ins_0_2 precision: 0.5
+
+5950_35100_3900_20_ins_0_3:
+label:62(77), match:4(264), tp ratio:0.7142857142857143
+label:3(138), match:62(77), fp ratio:0.0
+label:4(264), match:62(77), fp ratio:0.0
+5950_35100_3900_20_ins_0_3 precision: 0.0
+
+5950_35100_3900_21_ins_0_2:
+label:10(44), match:3(252), tp ratio:1.0
+label:57(51), match:2(239), tp ratio:1.0
+label:2(239), match:57(51), fp ratio:0.0
+label:3(252), match:10(44), fp ratio:0.0
+5950_35100_3900_21_ins_0_2 precision: 1.0
+
+5950_35100_3900_22_ins_0_4:
+label:17(56), match:7(500), tp ratio:1.0
+label:48(43), match:7(500), tp ratio:1.0
+label:7(500), match:17(56), fp ratio:0.358
+5950_35100_3900_22_ins_0_4 precision: 0.0
+
+5950_35100_3900_23_ins_0_1:
+label:4(52), match:1(154), tp ratio:0.7115384615384616
+label:92(46), match:2(227), tp ratio:0.8043478260869565
+label:1(154), match:4(52), fp ratio:0.0
+label:2(227), match:92(46), fp ratio:0.02643171806167401
+label:4(70), match:92(46), fp ratio:0.0
+label:5(72), match:4(52), fp ratio:0.0
+5950_35100_3900_23_ins_0_1 precision: 0.0
+
+5950_35100_3900_24_ins_0_1:
+label:30(75), match:1(381), tp ratio:1.0
+label:1(381), match:30(75), fp ratio:0.0
+5950_35100_3900_24_ins_0_1 precision: 1.0
+
+5950_35100_3900_25_ins_0_2:
+label:4(51), match:2(335), tp ratio:1.0
+label:5(13), match:2(335), tp ratio:1.0
+label:2(335), match:4(51), fp ratio:0.07462686567164178
+5950_35100_3900_25_ins_0_2 precision: 0.5
+
+5950_35100_3900_26_ins_0_2:
+label:12(88), match:2(449), tp ratio:1.0
+label:2(449), match:12(88), fp ratio:0.0
+5950_35100_3900_26_ins_0_2 precision: 1.0
+
+5950_35100_3900_27_ins_0_1:
+label:31(33), match:1(232), tp ratio:1.0
+label:32(12), match:1(232), tp ratio:1.0
+label:1(232), match:31(33), fp ratio:0.11206896551724138
+5950_35100_3900_27_ins_0_1 precision: 0.0
+
+5950_35100_3900_28_ins_0_1:
+label:74(71), match:1(364), tp ratio:1.0
+label:1(364), match:74(71), fp ratio:0.0
+5950_35100_3900_28_ins_0_1 precision: 1.0
+
+5950_35100_3900_29_ins_0_1:
+label:59(38), match:2(201), tp ratio:1.0
+label:86(50), match:1(252), tp ratio:1.0
+label:1(252), match:86(50), fp ratio:0.0
+label:2(201), match:59(38), fp ratio:0.0
+5950_35100_3900_29_ins_0_1 precision: 1.0
+
+5950_35100_3900_3_ins_0_1:
+label:91(41), match:1(231), tp ratio:0.6097560975609756
+label:92(50), match:1(231), tp ratio:0.68
+label:1(231), match:92(50), fp ratio:0.35064935064935066
+label:2(104), match:91(41), fp ratio:0.0
+label:4(126), match:92(50), fp ratio:0.0
+5950_35100_3900_3_ins_0_1 precision: 0.0
+
+5950_35100_3900_30_ins_0_3:
+label:20(41), match:6(208), tp ratio:1.0
+label:69(48), match:3(248), tp ratio:1.0
+label:3(248), match:69(48), fp ratio:0.0
+label:6(208), match:20(41), fp ratio:0.0
+5950_35100_3900_30_ins_0_3 precision: 1.0
+
+5950_35100_3900_31_ins_0_1:
+label:91(41), match:1(241), tp ratio:0.6097560975609756
+label:92(50), match:1(241), tp ratio:0.68
+label:1(241), match:92(50), fp ratio:0.3360995850622407
+label:2(104), match:91(41), fp ratio:0.0
+label:4(116), match:92(50), fp ratio:0.0
+5950_35100_3900_31_ins_0_1 precision: 0.0
+
+5950_35100_3900_32_ins_0_1:
+label:41(44), match:1(374), tp ratio:1.0
+label:54(28), match:1(374), tp ratio:1.0
+label:1(374), match:41(44), fp ratio:0.28342245989304815
+5950_35100_3900_32_ins_0_1 precision: 0.0
+
+5950_35100_3900_4_ins_0_2:
+label:20(44), match:5(232), tp ratio:1.0
+label:87(50), match:4(249), tp ratio:1.0
+label:4(249), match:87(50), fp ratio:0.0
+label:5(232), match:20(44), fp ratio:0.0
+5950_35100_3900_4_ins_0_2 precision: 1.0
+
+5950_35100_3900_5_ins_0_1:
+label:45(40), match:1(232), tp ratio:1.0
+label:73(51), match:5(123), tp ratio:0.5686274509803921
+label:1(232), match:45(40), fp ratio:0.0
+label:2(104), match:73(51), fp ratio:0.0
+label:5(123), match:73(51), fp ratio:0.0
+5950_35100_3900_5_ins_0_1 precision: 0.5
+
+5950_35100_3900_6_ins_0_3:
+label:20(71), match:3(123), tp ratio:0.4647887323943662
+label:54(26), match:5(130), tp ratio:1.0
+label:3(123), match:20(71), fp ratio:0.0
+label:4(125), match:20(71), fp ratio:0.0
+label:5(130), match:54(26), fp ratio:0.0
+label:6(127), match:20(71), fp ratio:0.0
+5950_35100_3900_6_ins_0_3 precision: 0.5
+
+5950_35100_3900_7_ins_0_2:
+label:59(44), match:2(282), tp ratio:1.0
+label:69(83), match:4(145), tp ratio:0.5783132530120482
+label:2(282), match:59(44), fp ratio:0.09574468085106383
+label:3(121), match:69(83), fp ratio:0.0
+label:4(145), match:69(83), fp ratio:0.0
+label:5(113), match:69(83), fp ratio:0.0
+5950_35100_3900_7_ins_0_2 precision: 0.5
+
+5950_35100_3900_8_ins_0_3:
+label:20(41), match:6(208), tp ratio:1.0
+label:69(48), match:3(248), tp ratio:1.0
+label:3(248), match:69(48), fp ratio:0.0
+label:6(208), match:20(41), fp ratio:0.0
+5950_35100_3900_8_ins_0_3 precision: 1.0
+
+5950_35100_3900_9_ins_0_1:
+label:30(47), match:2(282), tp ratio:1.0
+label:31(48), match:1(287), tp ratio:1.0
+label:34(11), match:1(287), tp ratio:1.0
+label:36(16), match:8(60), tp ratio:1.0
+label:1(287), match:31(48), fp ratio:0.09407665505226481
+label:2(282), match:30(47), fp ratio:0.0
+label:8(60), match:36(16), fp ratio:0.0
+5950_35100_3900_9_ins_0_1 precision: 0.75
+
+5950_35100_4150_1_ins_0_1:
+label:13(11), match:1(483), tp ratio:1.0
+label:21(81), match:1(483), tp ratio:1.0
+label:1(483), match:21(81), fp ratio:0.09937888198757763
+5950_35100_4150_1_ins_0_1 precision: 0.5
+
+5950_35100_4150_1_ins_0_3:
+label:84(78), match:6(403), tp ratio:1.0
+label:6(403), match:84(78), fp ratio:0.0
+5950_35100_4150_1_ins_0_3 precision: 1.0
+
+5950_35100_4150_10_ins_0_1:
+label:95(26), match:1(444), tp ratio:1.0
+label:101(55), match:1(444), tp ratio:1.0
+label:102(51), match:3(243), tp ratio:1.0
+label:1(444), match:101(55), fp ratio:0.2545045045045045
+label:3(243), match:102(51), fp ratio:0.0
+5950_35100_4150_10_ins_0_1 precision: 0.3333333333333333
+
+5950_35100_4150_11_ins_0_4:
+label:33(22), match:4(554), tp ratio:1.0
+label:47(85), match:4(554), tp ratio:1.0
+label:4(554), match:47(85), fp ratio:0.1624548736462094
+5950_35100_4150_11_ins_0_4 precision: 0.0
+
+5950_35100_4150_12_ins_0_3:
+label:70(68), match:3(343), tp ratio:1.0
+label:3(343), match:70(68), fp ratio:0.0
+5950_35100_4150_12_ins_0_3 precision: 1.0
+
+5950_35100_4150_13_ins_0_4:
+label:28(56), match:7(278), tp ratio:1.0
+label:41(44), match:9(234), tp ratio:1.0
+label:7(278), match:28(56), fp ratio:0.0
+label:9(234), match:41(44), fp ratio:0.0
+5950_35100_4150_13_ins_0_4 precision: 1.0
+
+5950_35100_4150_14_ins_0_1:
+label:15(71), match:1(368), tp ratio:1.0
+label:1(368), match:15(71), fp ratio:0.0
+5950_35100_4150_14_ins_0_1 precision: 1.0
+
+5950_35100_4150_14_ins_0_2:
+label:17(39), match:5(143), tp ratio:0.5897435897435898
+label:29(52), match:4(234), tp ratio:1.0
+label:4(234), match:29(52), fp ratio:0.0
+label:5(143), match:17(39), fp ratio:0.04195804195804196
+label:7(93), match:17(39), fp ratio:0.0
+5950_35100_4150_14_ins_0_2 precision: 0.5
+
+5950_35100_4150_15_ins_0_2:
+label:34(28), match:4(319), tp ratio:0.8571428571428571
+label:74(53), match:4(319), tp ratio:0.9056603773584906
+label:2(43), match:34(28), fp ratio:0.0
+label:3(44), match:74(53), fp ratio:0.0
+label:4(319), match:74(53), fp ratio:0.2884012539184953
+5950_35100_4150_15_ins_0_2 precision: 0.0
+
+5950_35100_4150_16_ins_0_1:
+label:2(31), match:1(336), tp ratio:0.8387096774193549
+label:46(49), match:1(336), tp ratio:0.9183673469387755
+label:1(336), match:46(49), fp ratio:0.2619047619047619
+label:3(39), match:2(31), fp ratio:0.0
+label:5(41), match:2(31), fp ratio:0.0
+5950_35100_4150_16_ins_0_1 precision: 0.0
+
+5950_35100_4150_17_ins_0_1:
+label:1(22), match:1(305), tp ratio:1.0
+label:50(36), match:1(305), tp ratio:1.0
+label:1(305), match:50(36), fp ratio:0.3114754098360656
+5950_35100_4150_17_ins_0_1 precision: 0.0
+
+5950_35100_4150_18_ins_0_1:
+label:88(75), match:1(255), tp ratio:0.7066666666666667
+label:1(255), match:88(75), fp ratio:0.0
+label:3(131), match:88(75), fp ratio:0.0
+5950_35100_4150_18_ins_0_1 precision: 0.0
+
+5950_35100_4150_19_ins_0_4:
+label:52(35), match:5(212), tp ratio:1.0
+label:73(55), match:7(248), tp ratio:1.0
+label:5(212), match:52(35), fp ratio:0.0
+label:7(248), match:73(55), fp ratio:0.0
+5950_35100_4150_19_ins_0_4 precision: 1.0
+
+5950_35100_4150_2_ins_0_1:
+label:88(95), match:1(527), tp ratio:1.0
+label:1(527), match:88(95), fp ratio:0.0
+5950_35100_4150_2_ins_0_1 precision: 1.0
+
+5950_35100_4150_20_ins_0_1:
+label:47(46), match:1(497), tp ratio:1.0
+label:84(50), match:1(497), tp ratio:1.0
+label:1(497), match:47(46), fp ratio:0.3682092555331992
+5950_35100_4150_20_ins_0_1 precision: 0.0
+
+5950_35100_4150_21_ins_0_1:
+label:32(39), match:5(203), tp ratio:1.0
+label:68(45), match:1(227), tp ratio:1.0
+label:1(227), match:68(45), fp ratio:0.0
+label:5(203), match:32(39), fp ratio:0.0
+5950_35100_4150_21_ins_0_1 precision: 1.0
+
+5950_35100_4150_22_ins_0_5:
+label:1(43), match:5(398), tp ratio:1.0
+label:87(34), match:5(398), tp ratio:1.0
+label:5(398), match:1(43), fp ratio:0.36180904522613067
+5950_35100_4150_22_ins_0_5 precision: 0.0
+
+5950_35100_4150_23_ins_0_2:
+label:46(59), match:2(311), tp ratio:1.0
+label:2(311), match:46(59), fp ratio:0.0
+5950_35100_4150_23_ins_0_2 precision: 1.0
+
+5950_35100_4150_24_ins_0_2:
+label:37(36), match:4(188), tp ratio:1.0
+label:60(50), match:2(238), tp ratio:1.0
+label:68(34), match:9(149), tp ratio:0.9411764705882353
+label:2(238), match:60(50), fp ratio:0.0
+label:4(188), match:37(36), fp ratio:0.0
+label:8(50), match:68(34), fp ratio:0.0
+label:9(149), match:68(34), fp ratio:0.0
+5950_35100_4150_24_ins_0_2 precision: 1.0
+
+5950_35100_4150_25_ins_0_2:
+label:13(38), match:2(182), tp ratio:0.7894736842105263
+label:21(69), match:3(206), tp ratio:0.6811594202898551
+label:2(182), match:13(38), fp ratio:0.0
+label:3(206), match:21(69), fp ratio:0.0
+label:5(76), match:13(38), fp ratio:0.07894736842105263
+label:6(116), match:21(69), fp ratio:0.0
+5950_35100_4150_25_ins_0_2 precision: 0.0
+
+5950_35100_4150_26_ins_0_1:
+label:60(40), match:2(207), tp ratio:1.0
+label:77(50), match:1(257), tp ratio:1.0
+label:1(257), match:77(50), fp ratio:0.0
+label:2(207), match:60(40), fp ratio:0.0
+5950_35100_4150_26_ins_0_1 precision: 1.0
+
+5950_35100_4150_27_ins_0_2:
+label:1(73), match:2(382), tp ratio:1.0
+label:2(382), match:1(73), fp ratio:0.0
+5950_35100_4150_27_ins_0_2 precision: 1.0
+
+5950_35100_4150_28_ins_0_1:
+label:17(38), match:1(218), tp ratio:1.0
+label:36(28), match:2(116), tp ratio:1.0
+label:1(218), match:17(38), fp ratio:0.0
+label:2(116), match:36(28), fp ratio:0.0
+5950_35100_4150_28_ins_0_1 precision: 1.0
+
+5950_35100_4150_29_ins_0_1:
+label:79(76), match:1(276), tp ratio:0.7368421052631579
+label:1(276), match:79(76), fp ratio:0.0
+label:3(124), match:79(76), fp ratio:0.0
+5950_35100_4150_29_ins_0_1 precision: 0.0
+
+5950_35100_4150_3_ins_0_1:
+label:88(40), match:1(458), tp ratio:1.0
+label:92(49), match:1(458), tp ratio:1.0
+label:1(458), match:92(49), fp ratio:0.27729257641921395
+5950_35100_4150_3_ins_0_1 precision: 0.0
+
+5950_35100_4150_30_ins_0_3:
+label:13(26), match:3(94), tp ratio:0.5769230769230769
+label:21(72), match:5(387), tp ratio:0.9444444444444444
+label:3(94), match:13(26), fp ratio:0.0
+label:4(46), match:21(72), fp ratio:0.0
+label:5(387), match:21(72), fp ratio:0.12403100775193798
+5950_35100_4150_30_ins_0_3 precision: 0.0
+
+5950_35100_4150_31_ins_0_1:
+label:20(44), match:2(245), tp ratio:1.0
+label:58(52), match:1(257), tp ratio:1.0
+label:1(257), match:58(52), fp ratio:0.0
+label:2(245), match:20(44), fp ratio:0.0
+5950_35100_4150_31_ins_0_1 precision: 1.0
+
+5950_35100_4150_32_ins_0_3:
+label:22(76), match:3(391), tp ratio:1.0
+label:3(391), match:22(76), fp ratio:0.0
+5950_35100_4150_32_ins_0_3 precision: 1.0
+
+5950_35100_4150_33_ins_0_5:
+label:22(24), match:8(367), tp ratio:1.0
+label:60(48), match:8(367), tp ratio:1.0
+label:8(367), match:60(48), fp ratio:0.2779291553133515
+5950_35100_4150_33_ins_0_5 precision: 0.0
+
+5950_35100_4150_34_ins_0_2:
+label:84(101), match:6(365), tp ratio:0.8217821782178217
+label:4(81), match:84(101), fp ratio:0.0
+label:5(69), match:84(101), fp ratio:0.0
+label:6(365), match:84(101), fp ratio:0.0
+5950_35100_4150_34_ins_0_2 precision: 0.0
+
+5950_35100_4150_35_ins_0_1:
+label:2(31), match:2(326), tp ratio:0.9032258064516129
+label:46(49), match:2(326), tp ratio:0.9387755102040817
+label:1(43), match:46(49), fp ratio:0.0
+label:2(326), match:46(49), fp ratio:0.12576687116564417
+label:4(41), match:2(31), fp ratio:0.0
+5950_35100_4150_35_ins_0_1 precision: 0.0
+
+5950_35100_4150_36_ins_0_1:
+label:12(42), match:1(488), tp ratio:1.0
+label:63(52), match:1(488), tp ratio:1.0
+label:1(488), match:63(52), fp ratio:0.3483606557377049
+5950_35100_4150_36_ins_0_1 precision: 0.0
+
+5950_35100_4150_4_ins_0_2:
+label:34(28), match:2(320), tp ratio:0.8214285714285714
+label:74(53), match:2(320), tp ratio:0.8867924528301887
+label:2(320), match:74(53), fp ratio:0.259375
+label:5(44), match:74(53), fp ratio:0.0
+label:6(46), match:34(28), fp ratio:0.0
+5950_35100_4150_4_ins_0_2 precision: 0.0
+
+5950_35100_4150_5_ins_0_3:
+label:42(68), match:3(348), tp ratio:1.0
+label:3(348), match:42(68), fp ratio:0.0
+5950_35100_4150_5_ins_0_3 precision: 1.0
+
+5950_35100_4150_6_ins_0_2:
+label:60(72), match:2(360), tp ratio:1.0
+label:2(360), match:60(72), fp ratio:0.0
+5950_35100_4150_6_ins_0_2 precision: 1.0
+
+5950_35100_4150_7_ins_0_2:
+label:22(88), match:2(446), tp ratio:1.0
+label:2(446), match:22(88), fp ratio:0.0
+5950_35100_4150_7_ins_0_2 precision: 1.0
+
+5950_35100_4150_8_ins_0_2:
+label:22(23), match:4(140), tp ratio:1.0
+label:23(3), match:4(140), tp ratio:1.0
+label:60(52), match:2(258), tp ratio:1.0
+label:2(258), match:60(52), fp ratio:0.0
+label:4(140), match:22(23), fp ratio:0.0
+5950_35100_4150_8_ins_0_2 precision: 0.6666666666666666
+
+5950_35100_4150_9_ins_0_1:
+label:37(50), match:1(502), tp ratio:1.0
+label:60(31), match:3(84), tp ratio:0.6774193548387096
+label:68(41), match:1(502), tp ratio:1.0
+label:1(502), match:37(50), fp ratio:0.3187250996015936
+label:3(84), match:60(31), fp ratio:0.0
+label:4(59), match:60(31), fp ratio:0.0
+5950_35100_4150_9_ins_0_1 precision: 0.0
+
+6200_32100_3650_1_ins_0_2:
+label:39(140), match:6(461), tp ratio:0.7071428571428572
+label:79(54), match:11(115), tp ratio:0.5185185185185185
+label:83(56), match:2(191), tp ratio:0.7678571428571429
+label:98(3), match:19(86), tp ratio:1.0
+label:2(191), match:83(56), fp ratio:0.0
+label:6(461), match:39(140), fp ratio:0.0
+label:10(106), match:79(54), fp ratio:0.0
+label:11(115), match:79(54), fp ratio:0.05217391304347826
+label:14(97), match:83(56), fp ratio:0.0
+label:15(88), match:79(54), fp ratio:0.0
+label:17(113), match:39(140), fp ratio:0.0
+label:18(87), match:39(140), fp ratio:0.0
+label:19(86), match:39(140), fp ratio:0.0
+6200_32100_3650_1_ins_0_2 precision: 0.0
+
+6200_32100_3650_10_ins_0_1:
+label:12(41), match:1(435), tp ratio:0.6341463414634146
+label:15(4), match:10(134), tp ratio:1.0
+label:17(18), match:1(435), tp ratio:1.0
+label:83(44), match:1(435), tp ratio:1.0
+label:1(435), match:83(44), fp ratio:0.35402298850574715
+label:10(134), match:12(41), fp ratio:0.0
+6200_32100_3650_10_ins_0_1 precision: 0.0
+
+6200_32100_3650_11_ins_0_1:
+label:8(79), match:1(406), tp ratio:1.0
+label:1(406), match:8(79), fp ratio:0.0
+6200_32100_3650_11_ins_0_1 precision: 1.0
+
+6200_32100_3650_12_ins_0_1:
+label:39(44), match:1(234), tp ratio:1.0
+label:70(50), match:2(241), tp ratio:1.0
+label:1(234), match:39(44), fp ratio:0.0
+label:2(241), match:70(50), fp ratio:0.0
+6200_32100_3650_12_ins_0_1 precision: 1.0
+
+6200_32100_3650_13_ins_0_1:
+label:12(41), match:1(407), tp ratio:1.0
+label:39(26), match:1(407), tp ratio:1.0
+label:92(42), match:6(83), tp ratio:0.6428571428571429
+label:1(407), match:12(41), fp ratio:0.32186732186732187
+label:2(87), match:92(42), fp ratio:0.0
+label:6(83), match:92(42), fp ratio:0.0
+6200_32100_3650_13_ins_0_1 precision: 0.0
+
+6200_32100_3650_14_ins_0_3:
+label:39(27), match:3(377), tp ratio:1.0
+label:79(47), match:3(377), tp ratio:1.0
+label:3(377), match:79(47), fp ratio:0.2891246684350133
+6200_32100_3650_14_ins_0_3 precision: 0.0
+
+6200_32100_3650_15_ins_0_1:
+label:19(48), match:1(271), tp ratio:0.8958333333333334
+label:25(10), match:7(80), tp ratio:1.0
+label:26(11), match:1(271), tp ratio:1.0
+label:1(271), match:19(48), fp ratio:0.0959409594095941
+label:7(80), match:25(10), fp ratio:0.1375
+6200_32100_3650_15_ins_0_1 precision: 0.0
+
+6200_32100_3650_16_ins_0_2:
+label:39(87), match:2(312), tp ratio:0.7931034482758621
+label:2(312), match:39(87), fp ratio:0.0
+label:4(61), match:39(87), fp ratio:0.0
+label:7(69), match:39(87), fp ratio:0.0
+6200_32100_3650_16_ins_0_2 precision: 0.0
+
+6200_32100_3650_17_ins_0_1:
+label:38(34), match:3(253), tp ratio:0.8529411764705882
+label:53(72), match:11(189), tp ratio:0.4444444444444444
+label:69(41), match:2(127), tp ratio:0.6097560975609756
+label:92(25), match:8(107), tp ratio:0.84
+label:1(141), match:53(72), fp ratio:0.0
+label:2(127), match:69(41), fp ratio:0.0
+label:3(253), match:38(34), fp ratio:0.21739130434782608
+label:5(62), match:53(72), fp ratio:0.0
+label:7(39), match:92(25), fp ratio:0.0
+label:8(107), match:92(25), fp ratio:0.009345794392523364
+label:11(189), match:53(72), fp ratio:0.005291005291005291
+6200_32100_3650_17_ins_0_1 precision: 0.0
+
+6200_32100_3650_18_ins_0_1:
+label:11(31), match:4(193), tp ratio:1.0
+label:30(131), match:8(157), tp ratio:0.31297709923664124
+label:1(78), match:30(131), fp ratio:0.0
+label:2(132), match:30(131), fp ratio:0.0
+label:4(193), match:11(31), fp ratio:0.0
+label:5(135), match:30(131), fp ratio:0.0
+label:7(85), match:30(131), fp ratio:0.0
+label:8(157), match:30(131), fp ratio:0.0
+label:9(60), match:30(131), fp ratio:0.0
+6200_32100_3650_18_ins_0_1 precision: 0.5
+
+6200_32100_3650_19_ins_0_4:
+label:8(42), match:5(258), tp ratio:1.0
+label:92(52), match:4(242), tp ratio:1.0
+label:4(242), match:92(52), fp ratio:0.0
+label:5(258), match:8(42), fp ratio:0.0
+6200_32100_3650_19_ins_0_4 precision: 1.0
+
+6200_32100_3650_2_ins_0_1:
+label:55(85), match:1(324), tp ratio:0.8235294117647058
+label:1(324), match:55(85), fp ratio:0.0
+label:3(71), match:55(85), fp ratio:0.0
+label:5(61), match:55(85), fp ratio:0.0
+6200_32100_3650_2_ins_0_1 precision: 0.0
+
+6200_32100_3650_20_ins_0_5:
+label:12(89), match:7(390), tp ratio:0.8202247191011236
+label:13(1), match:7(390), tp ratio:1.0
+label:16(4), match:10(108), tp ratio:1.0
+label:7(390), match:12(89), fp ratio:0.0
+label:10(108), match:12(89), fp ratio:0.0
+6200_32100_3650_20_ins_0_5 precision: 0.0
+
+6200_32100_3650_21_ins_0_1:
+label:19(44), match:4(281), tp ratio:1.0
+label:25(10), match:4(281), tp ratio:1.0
+label:26(11), match:3(58), tp ratio:1.0
+label:3(58), match:26(11), fp ratio:0.1896551724137931
+label:4(281), match:19(44), fp ratio:0.05338078291814947
+6200_32100_3650_21_ins_0_1 precision: 0.3333333333333333
+
+6200_32100_3650_22_ins_0_3:
+label:92(49), match:3(547), tp ratio:1.0
+label:93(49), match:3(547), tp ratio:1.0
+label:3(547), match:92(49), fp ratio:0.40585009140767825
+6200_32100_3650_22_ins_0_3 precision: 0.0
+
+6200_32100_3650_23_ins_0_2:
+label:12(40), match:2(132), tp ratio:0.55
+label:39(53), match:7(137), tp ratio:0.6037735849056604
+label:2(132), match:12(40), fp ratio:0.0
+label:3(122), match:39(53), fp ratio:0.0
+label:6(96), match:12(40), fp ratio:0.0
+label:7(137), match:39(53), fp ratio:0.0
+6200_32100_3650_23_ins_0_2 precision: 0.0
+
+6200_32100_3650_24_ins_0_2:
+label:5(49), match:2(516), tp ratio:1.0
+label:90(51), match:2(516), tp ratio:1.0
+label:2(516), match:5(49), fp ratio:0.3507751937984496
+6200_32100_3650_24_ins_0_2 precision: 0.0
+
+6200_32100_3650_25_ins_0_1:
+label:8(47), match:1(242), tp ratio:1.0
+label:82(49), match:2(242), tp ratio:1.0
+label:1(242), match:8(47), fp ratio:0.0
+label:2(242), match:82(49), fp ratio:0.0
+6200_32100_3650_25_ins_0_1 precision: 1.0
+
+6200_32100_3650_26_ins_0_2:
+label:2(81), match:2(452), tp ratio:1.0
+label:2(452), match:2(81), fp ratio:0.0
+6200_32100_3650_26_ins_0_2 precision: 1.0
+
+6200_32100_3650_27_ins_0_3:
+label:12(47), match:3(242), tp ratio:0.7872340425531915
+label:105(16), match:3(242), tp ratio:1.0
+label:3(242), match:12(47), fp ratio:0.09090909090909091
+label:5(77), match:12(47), fp ratio:0.0
+6200_32100_3650_27_ins_0_3 precision: 0.0
+
+6200_32100_3650_28_ins_0_1:
+label:38(39), match:10(143), tp ratio:0.6923076923076923
+label:53(66), match:11(234), tp ratio:0.6666666666666666
+label:69(41), match:4(126), tp ratio:0.6585365853658537
+label:92(58), match:1(329), tp ratio:1.0
+label:1(329), match:92(58), fp ratio:0.00303951367781155
+label:2(35), match:53(66), fp ratio:0.0
+label:3(72), match:69(41), fp ratio:0.0
+label:4(126), match:69(41), fp ratio:0.0
+label:6(62), match:53(66), fp ratio:0.0
+label:7(91), match:38(39), fp ratio:0.01098901098901099
+label:10(143), match:38(39), fp ratio:0.0
+label:11(234), match:53(66), fp ratio:0.0
+6200_32100_3650_28_ins_0_1 precision: 0.25
+
+6200_32100_3650_29_ins_0_1:
+label:12(29), match:1(266), tp ratio:1.0
+label:105(30), match:1(266), tp ratio:0.9
+label:1(266), match:12(29), fp ratio:0.15413533834586465
+label:3(44), match:105(30), fp ratio:0.0
+6200_32100_3650_29_ins_0_1 precision: 0.0
+
+6200_32100_3650_3_ins_0_1:
+label:39(103), match:8(77), tp ratio:0.39805825242718446
+label:79(58), match:12(207), tp ratio:0.8448275862068966
+label:83(41), match:1(169), tp ratio:0.9512195121951219
+label:98(6), match:15(132), tp ratio:1.0
+label:1(169), match:83(41), fp ratio:0.0
+label:3(67), match:39(103), fp ratio:0.0
+label:4(117), match:39(103), fp ratio:0.13675213675213677
+label:5(90), match:39(103), fp ratio:0.0
+label:8(77), match:39(103), fp ratio:0.0
+label:9(119), match:39(103), fp ratio:0.16806722689075632
+label:11(58), match:79(58), fp ratio:0.0
+label:12(207), match:79(58), fp ratio:0.0
+label:14(57), match:39(103), fp ratio:0.0
+label:15(132), match:39(103), fp ratio:0.015151515151515152
+6200_32100_3650_3_ins_0_1 precision: 0.25
+
+6200_32100_3650_30_ins_0_1:
+label:73(89), match:3(413), tp ratio:0.43820224719101125
+label:87(52), match:3(413), tp ratio:1.0
+label:1(40), match:73(89), fp ratio:0.0
+label:2(144), match:73(89), fp ratio:0.0
+label:3(413), match:87(52), fp ratio:0.2397094430992736
+label:7(165), match:73(89), fp ratio:0.0
+6200_32100_3650_30_ins_0_1 precision: 0.0
+
+6200_32100_3650_31_ins_0_1:
+label:19(55), match:1(306), tp ratio:1.0
+label:1(306), match:19(55), fp ratio:0.0
+6200_32100_3650_31_ins_0_1 precision: 1.0
+
+6200_32100_3650_32_ins_0_5:
+label:12(75), match:6(419), tp ratio:1.0
+label:16(4), match:6(419), tp ratio:1.0
+label:6(419), match:12(75), fp ratio:0.0
+6200_32100_3650_32_ins_0_5 precision: 0.5
+
+6200_32100_3650_33_ins_0_2:
+label:39(140), match:6(465), tp ratio:0.7285714285714285
+label:79(54), match:10(103), tp ratio:0.5185185185185185
+label:83(56), match:2(189), tp ratio:0.7678571428571429
+label:98(3), match:17(185), tp ratio:1.0
+label:2(189), match:83(56), fp ratio:0.0
+label:6(465), match:39(140), fp ratio:0.0
+label:9(126), match:79(54), fp ratio:0.031746031746031744
+label:10(103), match:79(54), fp ratio:0.019417475728155338
+label:14(92), match:83(56), fp ratio:0.0
+label:16(88), match:79(54), fp ratio:0.0
+label:17(185), match:39(140), fp ratio:0.0
+label:18(96), match:39(140), fp ratio:0.0
+6200_32100_3650_33_ins_0_2 precision: 0.0
+
+6200_32100_3650_34_ins_0_2:
+label:5(49), match:2(505), tp ratio:1.0
+label:90(49), match:2(505), tp ratio:1.0
+label:2(505), match:5(49), fp ratio:0.33663366336633666
+6200_32100_3650_34_ins_0_2 precision: 0.0
+
+6200_32100_3650_35_ins_0_1:
+label:73(89), match:3(408), tp ratio:0.43820224719101125
+label:87(52), match:3(408), tp ratio:1.0
+label:1(40), match:73(89), fp ratio:0.0
+label:2(149), match:73(89), fp ratio:0.0
+label:3(408), match:87(52), fp ratio:0.23039215686274508
+label:7(165), match:73(89), fp ratio:0.0
+6200_32100_3650_35_ins_0_1 precision: 0.0
+
+6200_32100_3650_36_ins_0_4:
+label:39(76), match:5(244), tp ratio:0.6973684210526315
+label:4(149), match:39(76), fp ratio:0.0
+label:5(244), match:39(76), fp ratio:0.0
+6200_32100_3650_36_ins_0_4 precision: 0.0
+
+6200_32100_3650_37_ins_0_2:
+label:39(129), match:16(196), tp ratio:0.3643410852713178
+label:79(55), match:6(129), tp ratio:0.509090909090909
+label:83(29), match:11(107), tp ratio:0.8620689655172413
+label:98(26), match:20(145), tp ratio:1.0
+label:5(83), match:39(129), fp ratio:0.0
+label:6(129), match:79(55), fp ratio:0.0
+label:7(108), match:79(55), fp ratio:0.06481481481481481
+label:8(127), match:39(129), fp ratio:0.0
+label:9(55), match:39(129), fp ratio:0.0
+label:10(98), match:39(129), fp ratio:0.0
+label:11(107), match:83(29), fp ratio:0.0
+label:13(76), match:79(55), fp ratio:0.0
+label:15(143), match:39(129), fp ratio:0.0
+label:16(196), match:39(129), fp ratio:0.0
+label:20(145), match:98(26), fp ratio:0.0
+6200_32100_3650_37_ins_0_2 precision: 0.25
+
+6200_32100_3650_38_ins_0_3:
+label:39(27), match:3(377), tp ratio:1.0
+label:79(47), match:3(377), tp ratio:1.0
+label:3(377), match:79(47), fp ratio:0.2891246684350133
+6200_32100_3650_38_ins_0_3 precision: 0.0
+
+6200_32100_3650_4_ins_0_1:
+label:39(111), match:5(207), tp ratio:0.44144144144144143
+label:79(57), match:1(554), tp ratio:0.8596491228070176
+label:83(67), match:1(554), tp ratio:1.0
+label:98(18), match:18(75), tp ratio:1.0
+label:1(554), match:83(67), fp ratio:0.27256317689530685
+label:5(207), match:39(111), fp ratio:0.0
+label:6(65), match:39(111), fp ratio:0.0
+label:9(84), match:39(111), fp ratio:0.0
+label:12(88), match:79(57), fp ratio:0.0
+label:14(116), match:39(111), fp ratio:0.0
+label:16(58), match:39(111), fp ratio:0.0
+label:17(64), match:39(111), fp ratio:0.0
+label:18(75), match:98(18), fp ratio:0.0
+6200_32100_3650_4_ins_0_1 precision: 0.25
+
+6200_32100_3650_5_ins_0_1:
+label:12(37), match:1(204), tp ratio:1.0
+label:87(40), match:2(205), tp ratio:1.0
+label:1(204), match:12(37), fp ratio:0.0
+label:2(205), match:87(40), fp ratio:0.0
+6200_32100_3650_5_ins_0_1 precision: 1.0
+
+6200_32100_3650_6_ins_0_2:
+label:30(23), match:9(119), tp ratio:1.0
+label:39(189), match:10(573), tp ratio:0.6666666666666666
+label:55(40), match:4(109), tp ratio:0.7
+label:66(29), match:10(573), tp ratio:1.0
+label:2(99), match:55(40), fp ratio:0.0
+label:4(109), match:55(40), fp ratio:0.0
+label:6(91), match:39(189), fp ratio:0.0
+label:7(38), match:39(189), fp ratio:0.0
+label:9(119), match:30(23), fp ratio:0.0
+label:10(573), match:39(189), fp ratio:0.12041884816753927
+label:12(107), match:39(189), fp ratio:0.0
+label:13(40), match:39(189), fp ratio:0.0
+label:17(182), match:39(189), fp ratio:0.0
+label:18(135), match:39(189), fp ratio:0.0
+6200_32100_3650_6_ins_0_2 precision: 0.25
+
+6200_32100_3650_7_ins_0_1:
+label:39(141), match:6(138), tp ratio:0.2907801418439716
+label:79(37), match:8(98), tp ratio:0.7567567567567568
+label:83(33), match:1(90), tp ratio:0.7272727272727273
+label:98(25), match:18(123), tp ratio:1.0
+label:1(90), match:83(33), fp ratio:0.0
+label:3(72), match:39(141), fp ratio:0.0
+label:5(85), match:39(141), fp ratio:0.0
+label:6(138), match:39(141), fp ratio:0.0
+label:8(98), match:79(37), fp ratio:0.0
+label:9(77), match:39(141), fp ratio:0.0
+label:11(104), match:83(33), fp ratio:0.009615384615384616
+label:12(81), match:79(37), fp ratio:0.0
+label:14(123), match:39(141), fp ratio:0.0
+label:15(139), match:39(141), fp ratio:0.0
+label:16(126), match:39(141), fp ratio:0.0
+label:18(123), match:98(25), fp ratio:0.0
+6200_32100_3650_7_ins_0_1 precision: 0.25
+
+6200_32100_3650_8_ins_0_2:
+label:37(31), match:2(177), tp ratio:1.0
+label:108(45), match:3(218), tp ratio:1.0
+label:2(177), match:37(31), fp ratio:0.0
+label:3(218), match:108(45), fp ratio:0.0
+6200_32100_3650_8_ins_0_2 precision: 1.0
+
+6200_32100_3650_9_ins_0_1:
+label:8(50), match:1(401), tp ratio:0.72
+label:36(54), match:1(401), tp ratio:0.7777777777777778
+label:1(401), match:8(50), fp ratio:0.38403990024937656
+label:4(179), match:8(50), fp ratio:0.3463687150837989
+6200_32100_3650_9_ins_0_1 precision: 0.0
+
+6200_32350_3400_1_ins_0_1:
+label:78(27), match:3(142), tp ratio:1.0
+label:79(58), match:1(293), tp ratio:1.0
+label:1(293), match:79(58), fp ratio:0.0
+label:3(142), match:78(27), fp ratio:0.0
+6200_32350_3400_1_ins_0_1 precision: 1.0
+
+6200_32350_3400_10_ins_0_2:
+label:5(44), match:5(244), tp ratio:1.0
+label:17(71), match:7(247), tp ratio:0.6901408450704225
+label:74(47), match:2(243), tp ratio:1.0
+label:2(243), match:74(47), fp ratio:0.0
+label:4(130), match:17(71), fp ratio:0.0
+label:5(244), match:5(44), fp ratio:0.0
+label:7(247), match:17(71), fp ratio:0.0
+6200_32350_3400_10_ins_0_2 precision: 0.6666666666666666
+
+6200_32350_3400_11_ins_0_1:
+label:17(159), match:1(451), tp ratio:0.6037735849056604
+label:1(451), match:17(159), fp ratio:0.0
+label:5(138), match:17(159), fp ratio:0.0
+label:10(259), match:17(159), fp ratio:0.0
+6200_32350_3400_11_ins_0_1 precision: 0.0
+
+6200_32350_3400_12_ins_0_1:
+label:74(45), match:2(264), tp ratio:1.0
+label:75(49), match:1(257), tp ratio:1.0
+label:1(257), match:75(49), fp ratio:0.0
+label:2(264), match:74(45), fp ratio:0.0
+6200_32350_3400_12_ins_0_1 precision: 1.0
+
+6200_32350_3400_13_ins_0_1:
+label:5(23), match:1(535), tp ratio:1.0
+label:17(80), match:1(535), tp ratio:1.0
+label:1(535), match:17(80), fp ratio:0.18130841121495328
+6200_32350_3400_13_ins_0_1 precision: 0.0
+
+6200_32350_3400_14_ins_0_2:
+label:17(78), match:5(408), tp ratio:1.0
+label:74(19), match:6(95), tp ratio:1.0
+label:5(408), match:17(78), fp ratio:0.0
+label:6(95), match:74(19), fp ratio:0.0
+6200_32350_3400_14_ins_0_2 precision: 1.0
+
+6200_32350_3400_15_ins_0_2:
+label:17(56), match:3(279), tp ratio:1.0
+label:71(25), match:2(131), tp ratio:1.0
+label:2(131), match:71(25), fp ratio:0.0
+label:3(279), match:17(56), fp ratio:0.0
+6200_32350_3400_15_ins_0_2 precision: 1.0
+
+6200_32350_3400_16_ins_0_1:
+label:5(29), match:1(442), tp ratio:1.0
+label:39(54), match:1(442), tp ratio:1.0
+label:1(442), match:39(54), fp ratio:0.27149321266968324
+6200_32350_3400_16_ins_0_1 precision: 0.0
+
+6200_32350_3400_17_ins_0_1:
+label:17(42), match:2(233), tp ratio:1.0
+label:30(52), match:1(249), tp ratio:1.0
+label:1(249), match:30(52), fp ratio:0.0
+label:2(233), match:17(42), fp ratio:0.0
+6200_32350_3400_17_ins_0_1 precision: 1.0
+
+6200_32350_3400_18_ins_0_3:
+label:5(24), match:3(371), tp ratio:1.0
+label:17(49), match:3(371), tp ratio:1.0
+label:3(371), match:17(49), fp ratio:0.2695417789757412
+6200_32350_3400_18_ins_0_3 precision: 0.0
+
+6200_32350_3400_19_ins_0_2:
+label:5(44), match:4(178), tp ratio:0.8181818181818182
+label:17(57), match:2(565), tp ratio:1.0
+label:74(51), match:2(565), tp ratio:1.0
+label:2(565), match:17(57), fp ratio:0.3752212389380531
+label:3(53), match:5(44), fp ratio:0.0
+label:4(178), match:5(44), fp ratio:0.0
+6200_32350_3400_19_ins_0_2 precision: 0.0
+
+6200_32350_3400_2_ins_0_2:
+label:17(87), match:2(450), tp ratio:1.0
+label:2(450), match:17(87), fp ratio:0.0
+6200_32350_3400_2_ins_0_2 precision: 1.0
+
+6200_32350_3400_20_ins_0_1:
+label:5(23), match:1(535), tp ratio:1.0
+label:17(80), match:1(535), tp ratio:1.0
+label:1(535), match:17(80), fp ratio:0.18130841121495328
+6200_32350_3400_20_ins_0_1 precision: 0.0
+
+6200_32350_3400_21_ins_0_1:
+label:74(46), match:2(267), tp ratio:1.0
+label:75(49), match:1(257), tp ratio:1.0
+label:1(257), match:75(49), fp ratio:0.0
+label:2(267), match:74(46), fp ratio:0.0
+6200_32350_3400_21_ins_0_1 precision: 1.0
+
+6200_32350_3400_3_ins_0_3:
+label:17(71), match:5(237), tp ratio:0.7464788732394366
+label:3(127), match:17(71), fp ratio:0.0
+label:5(237), match:17(71), fp ratio:0.0
+6200_32350_3400_3_ins_0_3 precision: 0.0
+
+6200_32350_3400_4_ins_0_1:
+label:39(50), match:1(551), tp ratio:1.0
+label:79(52), match:1(551), tp ratio:1.0
+label:1(551), match:39(50), fp ratio:0.3684210526315789
+6200_32350_3400_4_ins_0_1 precision: 0.0
+
+6200_32350_3400_5_ins_0_2:
+label:17(76), match:2(241), tp ratio:0.6842105263157895
+label:2(241), match:17(76), fp ratio:0.0
+label:4(147), match:17(76), fp ratio:0.0
+6200_32350_3400_5_ins_0_2 precision: 0.0
+
+6200_32350_3400_6_ins_0_1:
+label:17(132), match:9(110), tp ratio:0.3333333333333333
+label:39(62), match:2(126), tp ratio:0.5
+label:1(83), match:39(62), fp ratio:0.0
+label:2(126), match:39(62), fp ratio:0.0
+label:4(94), match:39(62), fp ratio:0.0
+label:5(120), match:17(132), fp ratio:0.0
+label:6(119), match:17(132), fp ratio:0.0
+label:7(142), match:17(132), fp ratio:0.0
+label:8(107), match:17(132), fp ratio:0.0
+label:9(110), match:17(132), fp ratio:0.0
+label:10(140), match:17(132), fp ratio:0.0
+6200_32350_3400_6_ins_0_1 precision: 0.0
+
+6200_32350_3400_7_ins_0_2:
+label:17(84), match:2(431), tp ratio:0.5714285714285714
+label:74(48), match:2(431), tp ratio:1.0
+label:2(431), match:74(48), fp ratio:0.29466357308584684
+label:4(51), match:17(84), fp ratio:0.0
+label:6(41), match:17(84), fp ratio:0.0
+label:9(36), match:17(84), fp ratio:0.0
+label:10(60), match:17(84), fp ratio:0.0
+label:12(80), match:17(84), fp ratio:0.0
+6200_32350_3400_7_ins_0_2 precision: 0.0
+
+6200_32350_3400_8_ins_0_2:
+label:39(45), match:3(242), tp ratio:1.0
+label:71(51), match:2(254), tp ratio:1.0
+label:2(254), match:71(51), fp ratio:0.0
+label:3(242), match:39(45), fp ratio:0.0
+6200_32350_3400_8_ins_0_2 precision: 1.0
+
+6200_32350_3400_9_ins_0_2:
+label:15(42), match:2(508), tp ratio:1.0
+label:78(57), match:2(508), tp ratio:1.0
+label:2(508), match:78(57), fp ratio:0.29133858267716534
+6200_32350_3400_9_ins_0_2 precision: 0.0
+
+6200_32350_3650_1_ins_0_2:
+label:44(102), match:4(278), tp ratio:0.6274509803921569
+label:2(245), match:44(102), fp ratio:0.0
+label:4(278), match:44(102), fp ratio:0.0
+6200_32350_3650_1_ins_0_2 precision: 0.0
+
+6200_32350_3650_10_ins_0_2:
+label:93(47), match:2(294), tp ratio:1.0
+label:94(9), match:2(294), tp ratio:1.0
+label:2(294), match:93(47), fp ratio:0.06802721088435375
+6200_32350_3650_10_ins_0_2 precision: 0.5
+
+6200_32350_3650_11_ins_0_1:
+label:11(45), match:1(285), tp ratio:1.0
+label:13(11), match:1(285), tp ratio:1.0
+label:1(285), match:11(45), fp ratio:0.0912280701754386
+6200_32350_3650_11_ins_0_1 precision: 0.5
+
+6200_32350_3650_12_ins_0_1:
+label:44(46), match:1(710), tp ratio:1.0
+label:55(57), match:1(710), tp ratio:0.8596491228070176
+label:100(49), match:1(710), tp ratio:0.9183673469387755
+label:1(710), match:100(49), fp ratio:0.5169014084507042
+label:2(46), match:100(49), fp ratio:0.0
+label:7(82), match:55(57), fp ratio:0.0
+6200_32350_3650_12_ins_0_1 precision: 0.0
+
+6200_32350_3650_13_ins_0_2:
+label:44(73), match:2(386), tp ratio:1.0
+label:2(386), match:44(73), fp ratio:0.0
+6200_32350_3650_13_ins_0_2 precision: 1.0
+
+6200_32350_3650_14_ins_0_2:
+label:10(52), match:5(168), tp ratio:0.6153846153846154
+label:32(78), match:2(236), tp ratio:0.6923076923076923
+label:44(1), match:6(128), tp ratio:1.0
+label:2(236), match:32(78), fp ratio:0.0
+label:5(168), match:10(52), fp ratio:0.0
+label:6(128), match:10(52), fp ratio:0.0
+label:10(151), match:32(78), fp ratio:0.0
+6200_32350_3650_14_ins_0_2 precision: 0.0
+
+6200_32350_3650_15_ins_0_3:
+label:22(44), match:3(244), tp ratio:1.0
+label:27(17), match:4(67), tp ratio:1.0
+label:3(244), match:22(44), fp ratio:0.0
+label:4(67), match:27(17), fp ratio:0.0
+6200_32350_3650_15_ins_0_3 precision: 1.0
+
+6200_32350_3650_16_ins_0_2:
+label:44(43), match:2(220), tp ratio:1.0
+label:2(220), match:44(43), fp ratio:0.0
+6200_32350_3650_16_ins_0_2 precision: 1.0
+
+6200_32350_3650_17_ins_0_3:
+label:44(73), match:5(377), tp ratio:1.0
+label:5(377), match:44(73), fp ratio:0.0
+6200_32350_3650_17_ins_0_3 precision: 1.0
+
+6200_32350_3650_18_ins_0_1:
+label:44(117), match:2(765), tp ratio:0.5811965811965812
+label:55(40), match:2(765), tp ratio:0.8
+label:100(67), match:2(765), tp ratio:1.0
+label:1(91), match:44(117), fp ratio:0.0
+label:2(765), match:100(67), fp ratio:0.39477124183006534
+label:3(115), match:44(117), fp ratio:0.0
+label:6(41), match:44(117), fp ratio:0.0
+label:9(121), match:44(117), fp ratio:0.0
+label:11(82), match:55(40), fp ratio:0.0
+6200_32350_3650_18_ins_0_1 precision: 0.0
+
+6200_32350_3650_19_ins_0_4:
+label:10(38), match:4(210), tp ratio:1.0
+label:44(51), match:7(245), tp ratio:1.0
+label:4(210), match:10(38), fp ratio:0.0
+label:7(245), match:44(51), fp ratio:0.0
+6200_32350_3650_19_ins_0_4 precision: 1.0
+
+6200_32350_3650_2_ins_0_1:
+label:44(68), match:2(184), tp ratio:0.5735294117647058
+label:55(64), match:8(91), tp ratio:0.359375
+label:100(50), match:4(134), tp ratio:0.6
+label:1(106), match:100(50), fp ratio:0.0
+label:2(184), match:44(68), fp ratio:0.0
+label:3(106), match:44(68), fp ratio:0.0
+label:4(134), match:100(50), fp ratio:0.007462686567164179
+label:5(86), match:55(64), fp ratio:0.0
+label:8(91), match:55(64), fp ratio:0.0
+label:9(100), match:44(68), fp ratio:0.07
+label:11(161), match:55(64), fp ratio:0.11180124223602485
+6200_32350_3650_2_ins_0_1 precision: 0.0
+
+6200_32350_3650_20_ins_0_2:
+label:44(49), match:2(262), tp ratio:1.0
+label:2(262), match:44(49), fp ratio:0.0
+6200_32350_3650_20_ins_0_2 precision: 1.0
+
+6200_32350_3650_21_ins_0_1:
+label:44(5), match:1(458), tp ratio:1.0
+label:79(24), match:1(458), tp ratio:1.0
+label:109(50), match:1(458), tp ratio:1.0
+label:1(458), match:109(50), fp ratio:0.30131004366812225
+6200_32350_3650_21_ins_0_1 precision: 0.0
+
+6200_32350_3650_22_ins_0_1:
+label:10(44), match:1(660), tp ratio:1.0
+label:44(142), match:1(660), tp ratio:0.6338028169014085
+label:1(660), match:44(142), fp ratio:0.2727272727272727
+label:7(85), match:44(142), fp ratio:0.0
+label:9(155), match:44(142), fp ratio:0.0
+label:10(56), match:44(142), fp ratio:0.0
+6200_32350_3650_22_ins_0_1 precision: 0.0
+
+6200_32350_3650_23_ins_0_2:
+label:44(117), match:2(374), tp ratio:0.7521367521367521
+label:2(374), match:44(117), fp ratio:0.0
+label:5(224), match:44(117), fp ratio:0.0
+6200_32350_3650_23_ins_0_2 precision: 0.0
+
+6200_32350_3650_24_ins_0_3:
+label:10(44), match:5(240), tp ratio:1.0
+label:44(51), match:4(267), tp ratio:1.0
+label:100(40), match:3(213), tp ratio:1.0
+label:3(213), match:100(40), fp ratio:0.0
+label:4(267), match:44(51), fp ratio:0.0
+label:5(240), match:10(44), fp ratio:0.0
+6200_32350_3650_24_ins_0_3 precision: 1.0
+
+6200_32350_3650_25_ins_0_3:
+label:10(36), match:3(118), tp ratio:0.6111111111111112
+label:44(84), match:6(244), tp ratio:0.6547619047619048
+label:3(118), match:10(36), fp ratio:0.0
+label:4(165), match:44(84), fp ratio:0.0
+label:5(77), match:10(36), fp ratio:0.0
+label:6(244), match:44(84), fp ratio:0.0
+6200_32350_3650_25_ins_0_3 precision: 0.0
+
+6200_32350_3650_26_ins_0_1:
+label:32(75), match:1(408), tp ratio:1.0
+label:1(408), match:32(75), fp ratio:0.0
+6200_32350_3650_26_ins_0_1 precision: 1.0
+
+6200_32350_3650_27_ins_0_1:
+label:35(72), match:1(374), tp ratio:1.0
+label:1(374), match:35(72), fp ratio:0.0
+6200_32350_3650_27_ins_0_1 precision: 1.0
+
+6200_32350_3650_28_ins_0_1:
+label:44(71), match:1(360), tp ratio:1.0
+label:1(360), match:44(71), fp ratio:0.0
+6200_32350_3650_28_ins_0_1 precision: 1.0
+
+6200_32350_3650_29_ins_0_1:
+label:44(41), match:1(480), tp ratio:1.0
+label:79(48), match:1(480), tp ratio:1.0
+label:109(45), match:5(260), tp ratio:1.0
+label:1(480), match:44(41), fp ratio:0.39375
+label:5(260), match:109(45), fp ratio:0.0
+6200_32350_3650_29_ins_0_1 precision: 0.3333333333333333
+
+6200_32350_3650_3_ins_0_1:
+label:23(42), match:1(574), tp ratio:1.0
+label:32(68), match:1(574), tp ratio:1.0
+label:1(574), match:32(68), fp ratio:0.3240418118466899
+6200_32350_3650_3_ins_0_1 precision: 0.0
+
+6200_32350_3650_30_ins_0_1:
+label:23(42), match:1(349), tp ratio:1.0
+label:64(25), match:1(349), tp ratio:1.0
+label:1(349), match:23(42), fp ratio:0.2492836676217765
+6200_32350_3650_30_ins_0_1 precision: 0.0
+
+6200_32350_3650_31_ins_0_1:
+label:3(42), match:1(265), tp ratio:1.0
+label:29(54), match:2(137), tp ratio:0.5740740740740741
+label:1(265), match:3(42), fp ratio:0.0
+label:2(137), match:29(54), fp ratio:0.0
+label:4(101), match:29(54), fp ratio:0.0
+6200_32350_3650_31_ins_0_1 precision: 0.5
+
+6200_32350_3650_32_ins_0_1:
+label:44(47), match:1(460), tp ratio:1.0
+label:110(41), match:1(460), tp ratio:1.0
+label:1(460), match:44(47), fp ratio:0.3239130434782609
+6200_32350_3650_32_ins_0_1 precision: 0.0
+
+6200_32350_3650_33_ins_0_3:
+label:44(51), match:3(280), tp ratio:1.0
+label:92(50), match:5(244), tp ratio:1.0
+label:3(280), match:44(51), fp ratio:0.0
+label:5(244), match:92(50), fp ratio:0.0
+6200_32350_3650_33_ins_0_3 precision: 1.0
+
+6200_32350_3650_34_ins_0_1:
+label:44(164), match:4(523), tp ratio:0.6646341463414634
+label:1(79), match:44(164), fp ratio:0.0
+label:2(113), match:44(164), fp ratio:0.0
+label:3(142), match:44(164), fp ratio:0.0
+label:4(523), match:44(164), fp ratio:0.0
+6200_32350_3650_34_ins_0_1 precision: 0.0
+
+6200_32350_3650_35_ins_0_1:
+label:18(47), match:1(247), tp ratio:1.0
+label:38(49), match:2(252), tp ratio:1.0
+label:1(247), match:18(47), fp ratio:0.0
+label:2(252), match:38(49), fp ratio:0.0
+6200_32350_3650_35_ins_0_1 precision: 1.0
+
+6200_32350_3650_36_ins_0_2:
+label:98(26), match:3(134), tp ratio:1.0
+label:99(31), match:2(163), tp ratio:1.0
+label:2(163), match:99(31), fp ratio:0.06134969325153374
+label:3(134), match:98(26), fp ratio:0.0
+6200_32350_3650_36_ins_0_2 precision: 1.0
+
+6200_32350_3650_37_ins_0_3:
+label:10(72), match:3(236), tp ratio:0.7083333333333334
+label:3(236), match:10(72), fp ratio:0.0
+label:5(142), match:10(72), fp ratio:0.0
+6200_32350_3650_37_ins_0_3 precision: 0.0
+
+6200_32350_3650_38_ins_0_2:
+label:11(29), match:2(216), tp ratio:1.0
+label:14(13), match:2(216), tp ratio:1.0
+label:2(216), match:11(29), fp ratio:0.14351851851851852
+6200_32350_3650_38_ins_0_2 precision: 0.0
+
+6200_32350_3650_39_ins_0_1:
+label:35(72), match:1(374), tp ratio:1.0
+label:1(374), match:35(72), fp ratio:0.0
+6200_32350_3650_39_ins_0_1 precision: 1.0
+
+6200_32350_3650_4_ins_0_2:
+label:10(44), match:4(164), tp ratio:0.75
+label:44(54), match:2(574), tp ratio:0.9259259259259259
+label:100(64), match:2(574), tp ratio:1.0
+label:2(574), match:100(64), fp ratio:0.3048780487804878
+label:3(61), match:10(44), fp ratio:0.0
+label:4(164), match:10(44), fp ratio:0.0
+label:9(61), match:44(54), fp ratio:0.0
+6200_32350_3650_4_ins_0_2 precision: 0.0
+
+6200_32350_3650_40_ins_0_3:
+label:22(44), match:3(234), tp ratio:1.0
+label:27(17), match:4(77), tp ratio:1.0
+label:3(234), match:22(44), fp ratio:0.0
+label:4(77), match:27(17), fp ratio:0.0
+6200_32350_3650_40_ins_0_3 precision: 1.0
+
+6200_32350_3650_5_ins_0_1:
+label:18(51), match:1(558), tp ratio:1.0
+label:44(53), match:1(558), tp ratio:1.0
+label:1(558), match:44(53), fp ratio:0.4032258064516129
+6200_32350_3650_5_ins_0_1 precision: 0.0
+
+6200_32350_3650_6_ins_0_1:
+label:44(56), match:3(591), tp ratio:0.7857142857142857
+label:55(44), match:3(591), tp ratio:1.0
+label:88(41), match:3(591), tp ratio:0.7804878048780488
+label:1(157), match:44(56), fp ratio:0.3375796178343949
+label:3(591), match:55(44), fp ratio:0.4890016920473773
+6200_32350_3650_6_ins_0_1 precision: 0.0
+
+6200_32350_3650_7_ins_0_2:
+label:44(71), match:2(358), tp ratio:1.0
+label:2(358), match:44(71), fp ratio:0.0
+6200_32350_3650_7_ins_0_2 precision: 1.0
+
+6200_32350_3650_8_ins_0_1:
+label:44(148), match:7(362), tp ratio:0.5608108108108109
+label:69(58), match:1(134), tp ratio:0.6206896551724138
+label:1(134), match:69(58), fp ratio:0.0
+label:4(49), match:69(58), fp ratio:0.0
+label:5(167), match:44(148), fp ratio:0.0
+label:6(98), match:69(58), fp ratio:0.0
+label:7(362), match:44(148), fp ratio:0.0
+label:8(150), match:44(148), fp ratio:0.0
+label:11(145), match:44(148), fp ratio:0.0
+6200_32350_3650_8_ins_0_1 precision: 0.0
+
+6200_32350_3650_9_ins_0_1:
+label:44(55), match:3(279), tp ratio:1.0
+label:90(50), match:1(253), tp ratio:1.0
+label:1(253), match:90(50), fp ratio:0.0
+label:3(279), match:44(55), fp ratio:0.0
+6200_32350_3650_9_ins_0_1 precision: 1.0
+
+6200_33100_4150_1_ins_0_1:
+label:28(32), match:1(605), tp ratio:1.0
+label:38(31), match:1(605), tp ratio:1.0
+label:64(49), match:1(605), tp ratio:1.0
+label:1(605), match:64(49), fp ratio:0.5140495867768595
+6200_33100_4150_1_ins_0_1 precision: 0.0
+
+6200_33100_4150_10_ins_0_3:
+label:62(46), match:4(179), tp ratio:0.8478260869565217
+label:68(47), match:8(244), tp ratio:1.0
+label:69(52), match:6(231), tp ratio:0.9807692307692307
+label:3(80), match:62(46), fp ratio:0.075
+label:4(179), match:62(46), fp ratio:0.0
+label:6(231), match:69(52), fp ratio:0.0
+label:8(244), match:68(47), fp ratio:0.0
+6200_33100_4150_10_ins_0_3 precision: 0.6666666666666666
+
+6200_33100_4150_11_ins_0_2:
+label:11(31), match:4(174), tp ratio:1.0
+label:46(50), match:2(235), tp ratio:1.0
+label:2(235), match:46(50), fp ratio:0.0
+label:4(174), match:11(31), fp ratio:0.0
+6200_33100_4150_11_ins_0_2 precision: 1.0
+
+6200_33100_4150_12_ins_0_1:
+label:19(23), match:1(372), tp ratio:1.0
+label:49(49), match:1(372), tp ratio:1.0
+label:1(372), match:49(49), fp ratio:0.25
+6200_33100_4150_12_ins_0_1 precision: 0.0
+
+6200_33100_4150_13_ins_0_1:
+label:3(53), match:2(264), tp ratio:1.0
+label:31(47), match:1(153), tp ratio:0.6595744680851063
+label:32(3), match:4(130), tp ratio:1.0
+label:1(153), match:31(47), fp ratio:0.0
+label:2(264), match:3(53), fp ratio:0.0
+label:4(130), match:31(47), fp ratio:0.0
+6200_33100_4150_13_ins_0_1 precision: 0.3333333333333333
+
+6200_33100_4150_14_ins_0_1:
+label:2(33), match:1(333), tp ratio:1.0
+label:3(33), match:1(333), tp ratio:1.0
+label:1(333), match:2(33), fp ratio:0.3033033033033033
+6200_33100_4150_14_ins_0_1 precision: 0.0
+
+6200_33100_4150_15_ins_0_2:
+label:55(30), match:3(167), tp ratio:1.0
+label:64(51), match:2(243), tp ratio:1.0
+label:2(243), match:64(51), fp ratio:0.0
+label:3(167), match:55(30), fp ratio:0.0
+6200_33100_4150_15_ins_0_2 precision: 1.0
+
+6200_33100_4150_16_ins_0_1:
+label:3(63), match:1(243), tp ratio:0.8253968253968254
+label:40(47), match:2(238), tp ratio:1.0
+label:1(243), match:3(63), fp ratio:0.0
+label:2(238), match:40(47), fp ratio:0.0
+label:7(84), match:3(63), fp ratio:0.0
+6200_33100_4150_16_ins_0_1 precision: 0.5
+
+6200_33100_4150_17_ins_0_2:
+label:42(44), match:2(282), tp ratio:1.0
+label:43(12), match:2(282), tp ratio:1.0
+label:2(282), match:42(44), fp ratio:0.09219858156028368
+6200_33100_4150_17_ins_0_2 precision: 0.5
+
+6200_33100_4150_18_ins_0_1:
+label:19(24), match:1(367), tp ratio:1.0
+label:49(48), match:1(367), tp ratio:1.0
+label:1(367), match:49(48), fp ratio:0.2098092643051771
+6200_33100_4150_18_ins_0_1 precision: 0.0
+
+6200_33100_4150_19_ins_0_1:
+label:56(81), match:1(286), tp ratio:0.7530864197530864
+label:1(286), match:56(81), fp ratio:0.0
+label:2(128), match:56(81), fp ratio:0.0
+6200_33100_4150_19_ins_0_1 precision: 0.0
+
+6200_33100_4150_2_ins_0_2:
+label:3(108), match:5(379), tp ratio:0.6944444444444444
+label:5(379), match:3(108), fp ratio:0.0
+label:6(93), match:3(108), fp ratio:0.0
+label:9(98), match:3(108), fp ratio:0.0
+6200_33100_4150_2_ins_0_2 precision: 0.0
+
+6200_33100_4150_20_ins_0_2:
+label:42(44), match:2(282), tp ratio:1.0
+label:43(12), match:2(282), tp ratio:1.0
+label:2(282), match:42(44), fp ratio:0.09219858156028368
+6200_33100_4150_20_ins_0_2 precision: 0.5
+
+6200_33100_4150_21_ins_0_1:
+label:2(33), match:1(333), tp ratio:1.0
+label:3(33), match:1(333), tp ratio:1.0
+label:1(333), match:2(33), fp ratio:0.3033033033033033
+6200_33100_4150_21_ins_0_1 precision: 0.0
+
+6200_33100_4150_3_ins_0_2:
+label:62(46), match:2(238), tp ratio:1.0
+label:68(28), match:8(87), tp ratio:0.7857142857142857
+label:69(54), match:4(216), tp ratio:0.9074074074074074
+label:2(238), match:62(46), fp ratio:0.0
+label:4(216), match:69(54), fp ratio:0.0
+label:6(46), match:69(54), fp ratio:0.0
+label:8(87), match:68(28), fp ratio:0.0
+label:9(56), match:68(28), fp ratio:0.0
+6200_33100_4150_3_ins_0_2 precision: 0.6666666666666666
+
+6200_33100_4150_4_ins_0_2:
+label:40(41), match:7(205), tp ratio:1.0
+label:53(49), match:5(250), tp ratio:1.0
+label:5(250), match:53(49), fp ratio:0.0
+label:7(205), match:40(41), fp ratio:0.0
+6200_33100_4150_4_ins_0_2 precision: 1.0
+
+6200_33100_4150_5_ins_0_1:
+label:49(55), match:1(151), tp ratio:0.6181818181818182
+label:1(151), match:49(55), fp ratio:0.0
+label:2(134), match:49(55), fp ratio:0.0
+6200_33100_4150_5_ins_0_1 precision: 0.0
+
+6200_33100_4150_6_ins_0_1:
+label:56(81), match:1(286), tp ratio:0.7530864197530864
+label:1(286), match:56(81), fp ratio:0.0
+label:2(128), match:56(81), fp ratio:0.0
+6200_33100_4150_6_ins_0_1 precision: 0.0
+
+6200_33100_4150_7_ins_0_1:
+label:3(66), match:1(625), tp ratio:1.0
+label:35(49), match:1(625), tp ratio:1.0
+label:36(3), match:1(625), tp ratio:1.0
+label:1(625), match:3(66), fp ratio:0.344
+6200_33100_4150_7_ins_0_1 precision: 0.0
+
+6200_33100_4150_8_ins_0_2:
+label:11(48), match:2(505), tp ratio:1.0
+label:30(50), match:2(505), tp ratio:1.0
+label:2(505), match:11(48), fp ratio:0.3445544554455445
+6200_33100_4150_8_ins_0_2 precision: 0.0
+
+6200_33100_4150_9_ins_0_1:
+label:59(72), match:1(242), tp ratio:0.7222222222222222
+label:1(242), match:59(72), fp ratio:0.0
+label:4(125), match:59(72), fp ratio:0.0
+6200_33100_4150_9_ins_0_1 precision: 0.0
+
+6200_34850_3900_1_ins_0_1:
+label:15(56), match:2(276), tp ratio:1.0
+label:75(49), match:1(275), tp ratio:1.0
+label:1(275), match:75(49), fp ratio:0.0
+label:2(276), match:15(56), fp ratio:0.0
+6200_34850_3900_1_ins_0_1 precision: 1.0
+
+6200_34850_3900_10_ins_0_1:
+label:15(50), match:3(184), tp ratio:0.82
+label:57(36), match:4(130), tp ratio:0.6666666666666666
+label:1(67), match:15(50), fp ratio:0.0
+label:2(70), match:57(36), fp ratio:0.0
+label:3(184), match:15(50), fp ratio:0.0
+label:4(130), match:57(36), fp ratio:0.0
+6200_34850_3900_10_ins_0_1 precision: 0.0
+
+6200_34850_3900_11_ins_0_1:
+label:15(77), match:1(398), tp ratio:1.0
+label:1(398), match:15(77), fp ratio:0.0
+6200_34850_3900_11_ins_0_1 precision: 1.0
+
+6200_34850_3900_12_ins_0_2:
+label:1(40), match:3(208), tp ratio:1.0
+label:92(83), match:6(268), tp ratio:0.6867469879518072
+label:2(165), match:92(83), fp ratio:0.0
+label:3(208), match:1(40), fp ratio:0.0
+label:6(268), match:92(83), fp ratio:0.0
+6200_34850_3900_12_ins_0_2 precision: 0.5
+
+6200_34850_3900_13_ins_0_1:
+label:15(74), match:3(326), tp ratio:0.8783783783783784
+label:46(15), match:4(69), tp ratio:1.0
+label:1(31), match:15(74), fp ratio:0.0
+label:2(61), match:15(74), fp ratio:0.0
+label:3(326), match:15(74), fp ratio:0.0
+label:4(69), match:46(15), fp ratio:0.0
+6200_34850_3900_13_ins_0_1 precision: 0.5
+
+6200_34850_3900_14_ins_0_1:
+label:29(74), match:1(239), tp ratio:0.7027027027027027
+label:1(239), match:29(74), fp ratio:0.0
+label:2(140), match:29(74), fp ratio:0.0
+6200_34850_3900_14_ins_0_1 precision: 0.0
+
+6200_34850_3900_15_ins_0_1:
+label:15(50), match:1(254), tp ratio:1.0
+label:1(254), match:15(50), fp ratio:0.0
+6200_34850_3900_15_ins_0_1 precision: 1.0
+
+6200_34850_3900_16_ins_0_1:
+label:1(59), match:5(123), tp ratio:0.576271186440678
+label:2(44), match:7(346), tp ratio:1.0
+label:102(4), match:4(73), tp ratio:1.0
+label:104(24), match:7(346), tp ratio:1.0
+label:2(140), match:1(59), fp ratio:0.05
+label:4(73), match:1(59), fp ratio:0.0
+label:5(123), match:1(59), fp ratio:0.056910569105691054
+label:7(346), match:2(44), fp ratio:0.24855491329479767
+6200_34850_3900_16_ins_0_1 precision: 0.0
+
+6200_34850_3900_17_ins_0_4:
+label:61(96), match:6(493), tp ratio:1.0
+label:6(493), match:61(96), fp ratio:0.0
+6200_34850_3900_17_ins_0_4 precision: 1.0
+
+6200_34850_3900_18_ins_0_1:
+label:15(36), match:1(336), tp ratio:1.0
+label:75(30), match:1(336), tp ratio:1.0
+label:1(336), match:15(36), fp ratio:0.3958333333333333
+6200_34850_3900_18_ins_0_1 precision: 0.0
+
+6200_34850_3900_19_ins_0_2:
+label:87(56), match:3(409), tp ratio:0.625
+label:98(50), match:3(409), tp ratio:1.0
+label:2(144), match:87(56), fp ratio:0.0
+label:3(409), match:98(50), fp ratio:0.3374083129584352
+6200_34850_3900_19_ins_0_2 precision: 0.0
+
+6200_34850_3900_2_ins_0_1:
+label:15(45), match:2(243), tp ratio:1.0
+label:70(50), match:1(256), tp ratio:1.0
+label:1(256), match:70(50), fp ratio:0.0
+label:2(243), match:15(45), fp ratio:0.0
+6200_34850_3900_2_ins_0_1 precision: 1.0
+
+6200_34850_3900_2_ins_0_2:
+label:29(7), match:5(241), tp ratio:1.0
+label:70(39), match:5(241), tp ratio:1.0
+label:5(241), match:70(39), fp ratio:0.0954356846473029
+6200_34850_3900_2_ins_0_2 precision: 0.5
+
+6200_34850_3900_20_ins_0_5:
+label:69(61), match:12(316), tp ratio:1.0
+label:12(316), match:69(61), fp ratio:0.0
+6200_34850_3900_20_ins_0_5 precision: 1.0
+
+6200_34850_3900_20_ins_0_3:
+label:15(48), match:5(571), tp ratio:1.0
+label:66(65), match:5(571), tp ratio:1.0
+label:5(571), match:66(65), fp ratio:0.3502626970227671
+6200_34850_3900_20_ins_0_3 precision: 0.0
+
+6200_34850_3900_21_ins_0_4:
+label:15(58), match:4(323), tp ratio:1.0
+label:52(4), match:4(323), tp ratio:1.0
+label:61(50), match:5(266), tp ratio:1.0
+label:4(323), match:15(58), fp ratio:0.0
+label:5(266), match:61(50), fp ratio:0.0
+6200_34850_3900_21_ins_0_4 precision: 0.6666666666666666
+
+6200_34850_3900_22_ins_0_3:
+label:29(41), match:3(244), tp ratio:1.0
+label:66(31), match:5(114), tp ratio:0.8387096774193549
+label:3(244), match:29(41), fp ratio:0.01639344262295082
+label:5(114), match:66(31), fp ratio:0.0
+6200_34850_3900_22_ins_0_3 precision: 0.5
+
+6200_34850_3900_23_ins_0_1:
+label:15(98), match:2(364), tp ratio:0.7959183673469388
+label:1(132), match:15(98), fp ratio:0.0
+label:2(364), match:15(98), fp ratio:0.0
+6200_34850_3900_23_ins_0_1 precision: 0.0
+
+6200_34850_3900_23_ins_0_2:
+label:15(62), match:6(319), tp ratio:1.0
+label:6(319), match:15(62), fp ratio:0.0
+6200_34850_3900_23_ins_0_2 precision: 1.0
+
+6200_34850_3900_24_ins_0_1:
+label:15(71), match:1(236), tp ratio:0.7323943661971831
+label:1(236), match:15(71), fp ratio:0.0
+label:4(121), match:15(71), fp ratio:0.0
+6200_34850_3900_24_ins_0_1 precision: 0.0
+
+6200_34850_3900_25_ins_0_1:
+label:85(50), match:3(279), tp ratio:1.0
+label:89(49), match:1(231), tp ratio:1.0
+label:1(231), match:89(49), fp ratio:0.0
+label:3(279), match:85(50), fp ratio:0.0
+6200_34850_3900_25_ins_0_1 precision: 1.0
+
+6200_34850_3900_26_ins_0_1:
+label:29(90), match:2(240), tp ratio:0.5888888888888889
+label:1(210), match:29(90), fp ratio:0.0
+label:2(240), match:29(90), fp ratio:0.0
+6200_34850_3900_26_ins_0_1 precision: 0.0
+
+6200_34850_3900_27_ins_0_2:
+label:1(83), match:2(447), tp ratio:0.6987951807228916
+label:102(25), match:2(447), tp ratio:1.0
+label:104(10), match:2(447), tp ratio:1.0
+label:2(447), match:1(83), fp ratio:0.28187919463087246
+label:8(46), match:1(83), fp ratio:0.0
+label:9(122), match:1(83), fp ratio:0.0
+6200_34850_3900_27_ins_0_2 precision: 0.0
+
+6200_34850_3900_28_ins_0_4:
+label:29(40), match:5(347), tp ratio:1.0
+label:66(58), match:5(347), tp ratio:0.6206896551724138
+label:4(143), match:66(58), fp ratio:0.0
+label:5(347), match:29(40), fp ratio:0.29394812680115273
+6200_34850_3900_28_ins_0_4 precision: 0.0
+
+6200_34850_3900_29_ins_0_4:
+label:61(44), match:12(298), tp ratio:1.0
+label:65(15), match:12(298), tp ratio:1.0
+label:12(298), match:61(44), fp ratio:0.14429530201342283
+6200_34850_3900_29_ins_0_4 precision: 0.0
+
+6200_34850_3900_3_ins_0_3:
+label:1(87), match:6(285), tp ratio:0.6666666666666666
+label:23(50), match:3(241), tp ratio:1.0
+label:3(241), match:23(50), fp ratio:0.0
+label:5(179), match:1(87), fp ratio:0.0
+label:6(285), match:1(87), fp ratio:0.0
+6200_34850_3900_3_ins_0_3 precision: 0.5
+
+6200_34850_3900_30_ins_0_1:
+label:15(78), match:3(238), tp ratio:0.6666666666666666
+label:1(164), match:15(78), fp ratio:0.0
+label:3(238), match:15(78), fp ratio:0.0
+6200_34850_3900_30_ins_0_1 precision: 0.0
+
+6200_34850_3900_31_ins_0_1:
+label:15(77), match:1(398), tp ratio:1.0
+label:1(398), match:15(77), fp ratio:0.0
+6200_34850_3900_31_ins_0_1 precision: 1.0
+
+6200_34850_3900_32_ins_0_4:
+label:61(44), match:11(298), tp ratio:1.0
+label:65(15), match:11(298), tp ratio:1.0
+label:11(298), match:61(44), fp ratio:0.14429530201342283
+6200_34850_3900_32_ins_0_4 precision: 0.0
+
+6200_34850_3900_33_ins_0_1:
+label:8(95), match:1(483), tp ratio:1.0
+label:1(483), match:8(95), fp ratio:0.0
+6200_34850_3900_33_ins_0_1 precision: 1.0
+
+6200_34850_3900_34_ins_0_4:
+label:61(96), match:5(493), tp ratio:1.0
+label:5(493), match:61(96), fp ratio:0.0
+6200_34850_3900_34_ins_0_4 precision: 1.0
+
+6200_34850_3900_35_ins_0_2:
+label:87(56), match:3(412), tp ratio:0.625
+label:98(50), match:3(412), tp ratio:1.0
+label:2(141), match:87(56), fp ratio:0.0
+label:3(412), match:98(50), fp ratio:0.33495145631067963
+6200_34850_3900_35_ins_0_2 precision: 0.0
+
+6200_34850_3900_36_ins_0_2:
+label:1(83), match:2(444), tp ratio:0.6987951807228916
+label:102(25), match:2(444), tp ratio:1.0
+label:104(10), match:2(444), tp ratio:1.0
+label:2(444), match:1(83), fp ratio:0.28378378378378377
+label:8(44), match:1(83), fp ratio:0.0
+label:9(127), match:1(83), fp ratio:0.0
+6200_34850_3900_36_ins_0_2 precision: 0.0
+
+6200_34850_3900_37_ins_0_1:
+label:15(45), match:1(265), tp ratio:1.0
+label:53(4), match:1(265), tp ratio:1.0
+label:1(265), match:15(45), fp ratio:0.0
+6200_34850_3900_37_ins_0_1 precision: 0.5
+
+6200_34850_3900_37_ins_0_3:
+label:28(47), match:6(243), tp ratio:1.0
+label:69(55), match:5(276), tp ratio:1.0
+label:5(276), match:69(55), fp ratio:0.0
+label:6(243), match:28(47), fp ratio:0.0
+6200_34850_3900_37_ins_0_3 precision: 1.0
+
+6200_34850_3900_38_ins_0_1:
+label:15(74), match:3(330), tp ratio:0.8783783783783784
+label:46(15), match:4(65), tp ratio:1.0
+label:1(31), match:15(74), fp ratio:0.0
+label:2(61), match:15(74), fp ratio:0.0
+label:3(330), match:15(74), fp ratio:0.0
+label:4(65), match:46(15), fp ratio:0.0
+6200_34850_3900_38_ins_0_1 precision: 0.5
+
+6200_34850_3900_4_ins_0_2:
+label:88(67), match:4(176), tp ratio:0.5522388059701493
+label:91(28), match:3(148), tp ratio:1.0
+label:2(174), match:88(67), fp ratio:0.0
+label:3(148), match:91(28), fp ratio:0.0
+label:4(176), match:88(67), fp ratio:0.0
+6200_34850_3900_4_ins_0_2 precision: 0.5
+
+6200_34850_3900_5_ins_0_1:
+label:15(44), match:1(258), tp ratio:1.0
+label:53(4), match:1(258), tp ratio:1.0
+label:1(258), match:15(44), fp ratio:0.0
+6200_34850_3900_5_ins_0_1 precision: 0.5
+
+6200_34850_3900_5_ins_0_3:
+label:28(47), match:7(253), tp ratio:1.0
+label:69(54), match:5(262), tp ratio:1.0
+label:5(262), match:69(54), fp ratio:0.0
+label:7(253), match:28(47), fp ratio:0.0
+6200_34850_3900_5_ins_0_3 precision: 1.0
+
+6200_34850_3900_6_ins_0_2:
+label:15(43), match:2(388), tp ratio:1.0
+label:61(33), match:2(388), tp ratio:1.0
+label:2(388), match:15(43), fp ratio:0.23195876288659795
+6200_34850_3900_6_ins_0_2 precision: 0.0
+
+6200_34850_3900_7_ins_0_1:
+label:15(61), match:1(394), tp ratio:1.0
+label:29(66), match:2(175), tp ratio:0.6363636363636364
+label:1(394), match:15(61), fp ratio:0.07868020304568528
+label:2(175), match:29(66), fp ratio:0.0
+label:6(86), match:29(66), fp ratio:0.0
+6200_34850_3900_7_ins_0_1 precision: 0.5
+
+6200_34850_3900_8_ins_0_1:
+label:15(181), match:1(526), tp ratio:0.6464088397790055
+label:1(526), match:15(181), fp ratio:0.0
+label:6(93), match:15(181), fp ratio:0.0
+label:7(85), match:15(181), fp ratio:0.0
+label:11(243), match:15(181), fp ratio:0.0
+6200_34850_3900_8_ins_0_1 precision: 0.0
+
+6200_34850_3900_9_ins_0_1:
+label:66(66), match:1(585), tp ratio:1.0
+label:69(74), match:1(585), tp ratio:0.7297297297297297
+label:1(585), match:66(66), fp ratio:0.38461538461538464
+label:6(144), match:69(74), fp ratio:0.0
+6200_34850_3900_9_ins_0_1 precision: 0.0
+
+6700_33350_4150_1_ins_0_2:
+label:78(47), match:2(484), tp ratio:1.0
+label:96(47), match:2(484), tp ratio:1.0
+label:2(484), match:96(47), fp ratio:0.3409090909090909
+6700_33350_4150_1_ins_0_2 precision: 0.0
+
+6700_33350_4150_10_ins_0_1:
+label:9(72), match:1(374), tp ratio:1.0
+label:1(374), match:9(72), fp ratio:0.0
+6700_33350_4150_10_ins_0_1 precision: 1.0
+
+6700_33350_4150_11_ins_0_1:
+label:39(43), match:1(282), tp ratio:1.0
+label:44(12), match:1(282), tp ratio:1.0
+label:45(1), match:1(282), tp ratio:1.0
+label:1(282), match:39(43), fp ratio:0.07446808510638298
+6700_33350_4150_11_ins_0_1 precision: 0.3333333333333333
+
+6700_33350_4150_12_ins_0_3:
+label:56(43), match:3(228), tp ratio:1.0
+label:57(10), match:5(44), tp ratio:1.0
+label:3(228), match:56(43), fp ratio:0.0
+label:5(44), match:57(10), fp ratio:0.0
+6700_33350_4150_12_ins_0_3 precision: 1.0
+
+6700_33350_4150_13_ins_0_2:
+label:80(43), match:5(237), tp ratio:1.0
+label:81(50), match:4(247), tp ratio:1.0
+label:4(247), match:81(50), fp ratio:0.0
+label:5(237), match:80(43), fp ratio:0.0
+6700_33350_4150_13_ins_0_2 precision: 1.0
+
+6700_33350_4150_14_ins_0_1:
+label:82(33), match:1(181), tp ratio:1.0
+label:86(49), match:3(246), tp ratio:1.0
+label:1(181), match:82(33), fp ratio:0.0
+label:3(246), match:86(49), fp ratio:0.0
+6700_33350_4150_14_ins_0_1 precision: 1.0
+
+6700_33350_4150_15_ins_0_1:
+label:38(70), match:1(386), tp ratio:1.0
+label:49(5), match:1(386), tp ratio:1.0
+label:1(386), match:38(70), fp ratio:0.0
+6700_33350_4150_15_ins_0_1 precision: 0.5
+
+6700_33350_4150_16_ins_0_1:
+label:52(73), match:1(378), tp ratio:1.0
+label:1(378), match:52(73), fp ratio:0.0
+6700_33350_4150_16_ins_0_1 precision: 1.0
+
+6700_33350_4150_2_ins_0_1:
+label:82(33), match:1(176), tp ratio:1.0
+label:86(49), match:3(251), tp ratio:1.0
+label:1(176), match:82(33), fp ratio:0.0
+label:3(251), match:86(49), fp ratio:0.0
+6700_33350_4150_2_ins_0_1 precision: 1.0
+
+6700_33350_4150_3_ins_0_1:
+label:52(73), match:1(378), tp ratio:1.0
+label:1(378), match:52(73), fp ratio:0.0
+6700_33350_4150_3_ins_0_1 precision: 1.0
+
+6700_33350_4150_4_ins_0_3:
+label:32(51), match:3(331), tp ratio:1.0
+label:34(11), match:3(331), tp ratio:1.0
+label:35(4), match:3(331), tp ratio:1.0
+label:3(331), match:32(51), fp ratio:0.0634441087613293
+6700_33350_4150_4_ins_0_3 precision: 0.3333333333333333
+
+6700_33350_4150_5_ins_0_2:
+label:39(83), match:2(436), tp ratio:1.0
+label:2(436), match:39(83), fp ratio:0.0
+6700_33350_4150_5_ins_0_2 precision: 1.0
+
+6700_33350_4150_6_ins_0_1:
+label:16(61), match:1(568), tp ratio:1.0
+label:91(47), match:1(568), tp ratio:1.0
+label:1(568), match:16(61), fp ratio:0.34330985915492956
+6700_33350_4150_6_ins_0_1 precision: 0.0
+
+6700_33350_4150_7_ins_0_2:
+label:6(49), match:3(274), tp ratio:1.0
+label:15(60), match:2(293), tp ratio:1.0
+label:2(293), match:15(60), fp ratio:0.0
+label:3(274), match:6(49), fp ratio:0.0
+6700_33350_4150_7_ins_0_2 precision: 1.0
+
+6700_33350_4150_8_ins_0_1:
+label:78(47), match:4(281), tp ratio:1.0
+label:87(47), match:1(358), tp ratio:1.0
+label:96(30), match:1(358), tp ratio:0.9
+label:1(358), match:87(47), fp ratio:0.18435754189944134
+label:4(281), match:78(47), fp ratio:0.0
+6700_33350_4150_8_ins_0_1 precision: 0.3333333333333333
+
+6700_33350_4150_9_ins_0_2:
+label:80(43), match:5(134), tp ratio:0.627906976744186
+label:81(50), match:4(252), tp ratio:1.0
+label:4(252), match:81(50), fp ratio:0.0
+label:5(134), match:80(43), fp ratio:0.0
+label:7(98), match:80(43), fp ratio:0.0
+6700_33350_4150_9_ins_0_2 precision: 0.5
+
+6700_34100_3900_1_ins_0_4:
+label:34(48), match:4(498), tp ratio:1.0
+label:42(49), match:4(498), tp ratio:1.0
+label:4(498), match:42(49), fp ratio:0.3453815261044177
+6700_34100_3900_1_ins_0_4 precision: 0.0
+
+6700_34100_3900_10_ins_0_3:
+label:12(82), match:6(451), tp ratio:1.0
+label:41(52), match:10(141), tp ratio:0.5576923076923077
+label:5(134), match:41(52), fp ratio:0.0
+label:6(451), match:12(82), fp ratio:0.0
+label:10(141), match:41(52), fp ratio:0.0
+6700_34100_3900_10_ins_0_3 precision: 0.5
+
+6700_34100_3900_11_ins_0_2:
+label:4(45), match:4(239), tp ratio:1.0
+label:22(52), match:2(270), tp ratio:1.0
+label:2(270), match:22(52), fp ratio:0.0
+label:4(239), match:4(45), fp ratio:0.0
+6700_34100_3900_11_ins_0_2 precision: 1.0
+
+6700_34100_3900_12_ins_0_1:
+label:74(34), match:1(314), tp ratio:1.0
+label:76(26), match:1(314), tp ratio:1.0
+label:1(314), match:74(34), fp ratio:0.3184713375796178
+6700_34100_3900_12_ins_0_1 precision: 0.0
+
+6700_34100_3900_13_ins_0_2:
+label:73(66), match:2(612), tp ratio:1.0
+label:74(51), match:2(612), tp ratio:1.0
+label:2(612), match:73(66), fp ratio:0.38235294117647056
+6700_34100_3900_13_ins_0_2 precision: 0.0
+
+6700_34100_3900_14_ins_0_1:
+label:47(44), match:1(576), tp ratio:1.0
+label:109(64), match:1(576), tp ratio:1.0
+label:1(576), match:109(64), fp ratio:0.3315972222222222
+6700_34100_3900_14_ins_0_1 precision: 0.0
+
+6700_34100_3900_15_ins_0_1:
+label:13(62), match:1(353), tp ratio:1.0
+label:76(50), match:2(234), tp ratio:1.0
+label:1(353), match:13(62), fp ratio:0.0
+label:2(234), match:76(50), fp ratio:0.0
+6700_34100_3900_15_ins_0_1 precision: 1.0
+
+6700_34100_3900_16_ins_0_3:
+label:24(45), match:3(275), tp ratio:1.0
+label:27(10), match:3(275), tp ratio:1.0
+label:3(275), match:24(45), fp ratio:0.06545454545454546
+6700_34100_3900_16_ins_0_3 precision: 0.5
+
+6700_34100_3900_17_ins_0_1:
+label:22(56), match:1(403), tp ratio:1.0
+label:23(17), match:1(403), tp ratio:1.0
+label:1(403), match:22(56), fp ratio:0.11662531017369727
+6700_34100_3900_17_ins_0_1 precision: 0.0
+
+6700_34100_3900_18_ins_0_1:
+label:47(49), match:1(413), tp ratio:1.0
+label:66(29), match:1(413), tp ratio:1.0
+label:1(413), match:47(49), fp ratio:0.34382566585956414
+6700_34100_3900_18_ins_0_1 precision: 0.0
+
+6700_34100_3900_19_ins_0_1:
+label:3(55), match:1(556), tp ratio:1.0
+label:36(49), match:1(556), tp ratio:1.0
+label:1(556), match:3(55), fp ratio:0.3830935251798561
+6700_34100_3900_19_ins_0_1 precision: 0.0
+
+6700_34100_3900_2_ins_0_2:
+label:10(46), match:2(237), tp ratio:1.0
+label:2(237), match:10(46), fp ratio:0.0
+6700_34100_3900_2_ins_0_2 precision: 1.0
+
+6700_34100_3900_20_ins_0_1:
+label:24(91), match:3(230), tp ratio:0.5824175824175825
+label:1(125), match:24(91), fp ratio:0.0
+label:2(121), match:24(91), fp ratio:0.0
+label:3(230), match:24(91), fp ratio:0.0
+6700_34100_3900_20_ins_0_1 precision: 0.0
+
+6700_34100_3900_21_ins_0_2:
+label:4(72), match:3(246), tp ratio:0.7361111111111112
+label:2(120), match:4(72), fp ratio:0.0
+label:3(246), match:4(72), fp ratio:0.0
+6700_34100_3900_21_ins_0_2 precision: 0.0
+
+6700_34100_3900_22_ins_0_1:
+label:47(96), match:1(420), tp ratio:0.8854166666666666
+label:1(420), match:47(96), fp ratio:0.0
+label:5(50), match:47(96), fp ratio:0.0
+label:6(46), match:47(96), fp ratio:0.0
+6700_34100_3900_22_ins_0_1 precision: 0.0
+
+6700_34100_3900_23_ins_0_2:
+label:22(45), match:4(245), tp ratio:1.0
+label:77(52), match:2(264), tp ratio:1.0
+label:2(264), match:77(52), fp ratio:0.0
+label:4(245), match:22(45), fp ratio:0.0
+6700_34100_3900_23_ins_0_2 precision: 1.0
+
+6700_34100_3900_24_ins_0_1:
+label:73(32), match:1(129), tp ratio:1.0
+label:74(48), match:2(401), tp ratio:1.0
+label:78(26), match:2(401), tp ratio:1.0
+label:1(129), match:73(32), fp ratio:0.0
+label:2(401), match:74(48), fp ratio:0.19201995012468828
+6700_34100_3900_24_ins_0_1 precision: 0.3333333333333333
+
+6700_34100_3900_25_ins_0_2:
+label:24(80), match:2(152), tp ratio:0.5
+label:2(152), match:24(80), fp ratio:0.0
+label:3(124), match:24(80), fp ratio:0.0
+label:4(123), match:24(80), fp ratio:0.0
+6700_34100_3900_25_ins_0_2 precision: 0.0
+
+6700_34100_3900_26_ins_0_2:
+label:9(46), match:3(256), tp ratio:1.0
+label:73(56), match:2(278), tp ratio:1.0
+label:2(278), match:73(56), fp ratio:0.0
+label:3(256), match:9(46), fp ratio:0.0
+6700_34100_3900_26_ins_0_2 precision: 1.0
+
+6700_34100_3900_27_ins_0_1:
+label:12(47), match:2(244), tp ratio:1.0
+label:79(53), match:1(272), tp ratio:1.0
+label:1(272), match:79(53), fp ratio:0.0
+label:2(244), match:12(47), fp ratio:0.0
+6700_34100_3900_27_ins_0_1 precision: 1.0
+
+6700_34100_3900_28_ins_0_3:
+label:39(58), match:3(306), tp ratio:1.0
+label:3(306), match:39(58), fp ratio:0.0
+6700_34100_3900_28_ins_0_3 precision: 1.0
+
+6700_34100_3900_29_ins_0_2:
+label:24(50), match:2(256), tp ratio:1.0
+label:63(2), match:2(256), tp ratio:1.0
+label:2(256), match:24(50), fp ratio:0.0
+6700_34100_3900_29_ins_0_2 precision: 0.5
+
+6700_34100_3900_3_ins_0_1:
+label:24(97), match:2(283), tp ratio:0.6701030927835051
+label:1(220), match:24(97), fp ratio:0.0
+label:2(283), match:24(97), fp ratio:0.0
+6700_34100_3900_3_ins_0_1 precision: 0.0
+
+6700_34100_3900_30_ins_0_1:
+label:13(45), match:1(294), tp ratio:1.0
+label:14(13), match:1(294), tp ratio:1.0
+label:1(294), match:13(45), fp ratio:0.07142857142857142
+6700_34100_3900_30_ins_0_1 precision: 0.5
+
+6700_34100_3900_4_ins_0_2:
+label:39(24), match:2(391), tp ratio:1.0
+label:81(53), match:2(391), tp ratio:1.0
+label:2(391), match:81(53), fp ratio:0.27877237851662406
+6700_34100_3900_4_ins_0_2 precision: 0.0
+
+6700_34100_3900_5_ins_0_1:
+label:36(41), match:2(228), tp ratio:0.7073170731707317
+label:46(40), match:1(207), tp ratio:0.7
+label:1(207), match:36(41), fp ratio:0.3526570048309179
+label:2(228), match:36(41), fp ratio:0.30701754385964913
+6700_34100_3900_5_ins_0_1 precision: 0.0
+
+6700_34100_3900_6_ins_0_4:
+label:21(48), match:4(271), tp ratio:1.0
+label:42(55), match:5(261), tp ratio:1.0
+label:4(271), match:21(48), fp ratio:0.0
+label:5(261), match:42(55), fp ratio:0.0
+6700_34100_3900_6_ins_0_4 precision: 1.0
+
+6700_34100_3900_7_ins_0_3:
+label:24(60), match:3(416), tp ratio:1.0
+label:63(24), match:3(416), tp ratio:1.0
+label:3(416), match:24(60), fp ratio:0.24519230769230768
+6700_34100_3900_7_ins_0_3 precision: 0.0
+
+6700_34100_3900_8_ins_0_2:
+label:24(49), match:2(328), tp ratio:1.0
+label:31(13), match:2(328), tp ratio:1.0
+label:2(328), match:24(49), fp ratio:0.10060975609756098
+6700_34100_3900_8_ins_0_2 precision: 0.0
+
+6700_34100_3900_9_ins_0_2:
+label:9(47), match:3(243), tp ratio:1.0
+label:78(50), match:2(273), tp ratio:1.0
+label:2(273), match:78(50), fp ratio:0.0
+label:3(243), match:9(47), fp ratio:0.0
+6700_34100_3900_9_ins_0_2 precision: 1.0
+
+6950_33100_4150_1_ins_0_1:
+label:34(26), match:2(325), tp ratio:1.0
+label:41(61), match:2(325), tp ratio:0.6885245901639344
+label:1(120), match:41(61), fp ratio:0.0
+label:2(325), match:41(61), fp ratio:0.2923076923076923
+6950_33100_4150_1_ins_0_1 precision: 0.0
+
+6950_33100_4150_10_ins_0_1:
+label:50(48), match:1(249), tp ratio:1.0
+label:62(39), match:2(123), tp ratio:0.5897435897435898
+label:81(52), match:8(139), tp ratio:0.6153846153846154
+label:1(249), match:50(48), fp ratio:0.040160642570281124
+label:2(123), match:62(39), fp ratio:0.016260162601626018
+label:3(127), match:81(52), fp ratio:0.0
+label:4(73), match:62(39), fp ratio:0.1232876712328767
+label:8(139), match:81(52), fp ratio:0.0
+6950_33100_4150_10_ins_0_1 precision: 0.3333333333333333
+
+6950_33100_4150_11_ins_0_1:
+label:26(65), match:1(614), tp ratio:1.0
+label:60(49), match:1(614), tp ratio:1.0
+label:1(614), match:26(65), fp ratio:0.28501628664495116
+6950_33100_4150_11_ins_0_1 precision: 0.0
+
+6950_33100_4150_12_ins_0_1:
+label:2(51), match:4(275), tp ratio:1.0
+label:20(28), match:2(197), tp ratio:1.0
+label:26(47), match:9(118), tp ratio:0.6170212765957447
+label:2(197), match:20(28), fp ratio:0.030456852791878174
+label:4(275), match:2(51), fp ratio:0.0
+label:7(69), match:26(47), fp ratio:0.0
+label:9(118), match:26(47), fp ratio:0.0
+6950_33100_4150_12_ins_0_1 precision: 0.6666666666666666
+
+6950_33100_4150_13_ins_0_1:
+label:20(74), match:1(383), tp ratio:1.0
+label:1(383), match:20(74), fp ratio:0.0
+6950_33100_4150_13_ins_0_1 precision: 1.0
+
+6950_33100_4150_14_ins_0_1:
+label:20(99), match:3(297), tp ratio:0.6161616161616161
+label:60(49), match:5(238), tp ratio:1.0
+label:2(191), match:20(99), fp ratio:0.0
+label:3(297), match:20(99), fp ratio:0.0
+label:5(238), match:60(49), fp ratio:0.0
+6950_33100_4150_14_ins_0_1 precision: 0.5
+
+6950_33100_4150_15_ins_0_1:
+label:1(45), match:2(239), tp ratio:1.0
+label:72(52), match:1(251), tp ratio:1.0
+label:1(251), match:72(52), fp ratio:0.0
+label:2(239), match:1(45), fp ratio:0.0
+6950_33100_4150_15_ins_0_1 precision: 1.0
+
+6950_33100_4150_16_ins_0_1:
+label:20(72), match:1(362), tp ratio:1.0
+label:1(362), match:20(72), fp ratio:0.0
+6950_33100_4150_16_ins_0_1 precision: 1.0
+
+6950_33100_4150_17_ins_0_1:
+label:35(23), match:1(388), tp ratio:1.0
+label:37(3), match:1(388), tp ratio:1.0
+label:38(5), match:1(388), tp ratio:1.0
+label:84(44), match:1(388), tp ratio:1.0
+label:1(388), match:84(44), fp ratio:0.30927835051546393
+6950_33100_4150_17_ins_0_1 precision: 0.0
+
+6950_33100_4150_18_ins_0_2:
+label:52(40), match:5(508), tp ratio:1.0
+label:61(59), match:5(508), tp ratio:1.0
+label:5(508), match:61(59), fp ratio:0.18110236220472442
+6950_33100_4150_18_ins_0_2 precision: 0.0
+
+6950_33100_4150_19_ins_0_1:
+label:6(102), match:2(417), tp ratio:0.8333333333333334
+label:1(43), match:6(102), fp ratio:0.0
+label:2(417), match:6(102), fp ratio:0.0
+label:4(86), match:6(102), fp ratio:0.0
+6950_33100_4150_19_ins_0_1 precision: 0.0
+
+6950_33100_4150_2_ins_0_2:
+label:61(65), match:4(262), tp ratio:0.7384615384615385
+label:79(49), match:2(233), tp ratio:1.0
+label:2(233), match:79(49), fp ratio:0.0
+label:4(262), match:61(65), fp ratio:0.007633587786259542
+label:8(91), match:61(65), fp ratio:0.0
+6950_33100_4150_2_ins_0_2 precision: 0.5
+
+6950_33100_4150_20_ins_0_2:
+label:35(38), match:2(391), tp ratio:0.9473684210526315
+label:84(43), match:2(391), tp ratio:1.0
+label:2(391), match:84(43), fp ratio:0.309462915601023
+label:5(36), match:35(38), fp ratio:0.0
+6950_33100_4150_20_ins_0_2 precision: 0.0
+
+6950_33100_4150_21_ins_0_2:
+label:67(51), match:2(273), tp ratio:1.0
+label:71(50), match:3(240), tp ratio:1.0
+label:2(273), match:67(51), fp ratio:0.0
+label:3(240), match:71(50), fp ratio:0.0
+6950_33100_4150_21_ins_0_2 precision: 1.0
+
+6950_33100_4150_22_ins_0_1:
+label:2(56), match:1(292), tp ratio:1.0
+label:1(292), match:2(56), fp ratio:0.0
+6950_33100_4150_22_ins_0_1 precision: 1.0
+
+6950_33100_4150_23_ins_0_2:
+label:68(47), match:4(249), tp ratio:1.0
+label:69(49), match:2(242), tp ratio:1.0
+label:2(242), match:69(49), fp ratio:0.0
+label:4(249), match:68(47), fp ratio:0.0
+6950_33100_4150_23_ins_0_2 precision: 1.0
+
+6950_33100_4150_24_ins_0_1:
+label:35(23), match:1(388), tp ratio:1.0
+label:37(3), match:1(388), tp ratio:1.0
+label:38(5), match:1(388), tp ratio:1.0
+label:84(44), match:1(388), tp ratio:1.0
+label:1(388), match:84(44), fp ratio:0.30927835051546393
+6950_33100_4150_24_ins_0_1 precision: 0.0
+
+6950_33100_4150_25_ins_0_1:
+label:2(51), match:2(280), tp ratio:1.0
+label:20(28), match:1(197), tp ratio:1.0
+label:26(47), match:8(118), tp ratio:0.6170212765957447
+label:1(197), match:20(28), fp ratio:0.030456852791878174
+label:2(280), match:2(51), fp ratio:0.0
+label:6(64), match:26(47), fp ratio:0.0
+label:8(118), match:26(47), fp ratio:0.0
+6950_33100_4150_25_ins_0_1 precision: 0.6666666666666666
+
+6950_33100_4150_26_ins_0_2:
+label:61(65), match:4(260), tp ratio:0.7230769230769231
+label:79(49), match:2(242), tp ratio:0.7755102040816326
+label:2(242), match:79(49), fp ratio:0.2975206611570248
+label:3(84), match:79(49), fp ratio:0.0
+label:4(260), match:61(65), fp ratio:0.007692307692307693
+6950_33100_4150_26_ins_0_2 precision: 0.0
+
+6950_33100_4150_3_ins_0_1:
+label:20(91), match:1(471), tp ratio:1.0
+label:1(471), match:20(91), fp ratio:0.0
+6950_33100_4150_3_ins_0_1 precision: 1.0
+
+6950_33100_4150_4_ins_0_1:
+label:50(48), match:5(121), tp ratio:0.6041666666666666
+label:62(39), match:2(142), tp ratio:0.8205128205128205
+label:81(52), match:1(219), tp ratio:0.8269230769230769
+label:1(219), match:81(52), fp ratio:0.0
+label:2(142), match:62(39), fp ratio:0.0
+label:3(231), match:50(48), fp ratio:0.36363636363636365
+label:5(121), match:50(48), fp ratio:0.0
+6950_33100_4150_4_ins_0_1 precision: 0.0
+
+6950_33100_4150_5_ins_0_1:
+label:41(45), match:1(377), tp ratio:1.0
+label:45(3), match:1(377), tp ratio:1.0
+label:89(25), match:1(377), tp ratio:1.0
+label:1(377), match:41(45), fp ratio:0.29973474801061006
+6950_33100_4150_5_ins_0_1 precision: 0.0
+
+6950_33100_4150_6_ins_0_1:
+label:2(17), match:6(88), tp ratio:1.0
+label:20(65), match:1(609), tp ratio:1.0
+label:26(51), match:1(609), tp ratio:1.0
+label:1(609), match:20(65), fp ratio:0.37110016420361247
+label:6(88), match:2(17), fp ratio:0.0
+6950_33100_4150_6_ins_0_1 precision: 0.3333333333333333
+
+6950_33100_4150_7_ins_0_1:
+label:2(59), match:1(308), tp ratio:1.0
+label:1(308), match:2(59), fp ratio:0.0
+6950_33100_4150_7_ins_0_1 precision: 1.0
+
+6950_33100_4150_8_ins_0_1:
+label:74(36), match:1(198), tp ratio:1.0
+label:78(41), match:3(197), tp ratio:1.0
+label:1(198), match:74(36), fp ratio:0.0
+label:3(197), match:78(41), fp ratio:0.0
+6950_33100_4150_8_ins_0_1 precision: 1.0
+
+6950_33100_4150_9_ins_0_1:
+label:61(51), match:1(278), tp ratio:1.0
+label:76(48), match:2(140), tp ratio:0.625
+label:1(278), match:61(51), fp ratio:0.0
+label:2(140), match:76(48), fp ratio:0.0
+label:5(96), match:76(48), fp ratio:0.0
+6950_33100_4150_9_ins_0_1 precision: 0.5
+
+6950_34350_4150_1_ins_0_1:
+label:13(4), match:3(455), tp ratio:1.0
+label:35(104), match:3(455), tp ratio:0.7788461538461539
+label:36(10), match:3(455), tp ratio:1.0
+label:1(35), match:35(104), fp ratio:0.0
+label:2(133), match:35(104), fp ratio:0.0
+label:3(455), match:35(104), fp ratio:0.02197802197802198
+6950_34350_4150_1_ins_0_1 precision: 0.0
+
+6950_34350_4150_10_ins_0_1:
+label:35(73), match:1(440), tp ratio:1.0
+label:36(10), match:1(440), tp ratio:1.0
+label:1(440), match:35(73), fp ratio:0.013636363636363636
+6950_34350_4150_10_ins_0_1 precision: 0.5
+
+6950_34350_4150_11_ins_0_1:
+label:11(23), match:1(116), tp ratio:1.0
+label:64(21), match:2(353), tp ratio:1.0
+label:71(49), match:2(353), tp ratio:1.0
+label:1(116), match:11(23), fp ratio:0.0
+label:2(353), match:71(49), fp ratio:0.24929178470254956
+6950_34350_4150_11_ins_0_1 precision: 0.3333333333333333
+
+6950_34350_4150_12_ins_0_2:
+label:35(63), match:7(116), tp ratio:0.5238095238095238
+label:60(43), match:2(335), tp ratio:1.0
+label:2(335), match:60(43), fp ratio:0.1582089552238806
+label:7(116), match:35(63), fp ratio:0.0
+label:9(100), match:35(63), fp ratio:0.0
+6950_34350_4150_12_ins_0_2 precision: 0.0
+
+6950_34350_4150_13_ins_0_1:
+label:14(44), match:2(232), tp ratio:1.0
+label:17(50), match:1(241), tp ratio:1.0
+label:1(241), match:17(50), fp ratio:0.0
+label:2(232), match:14(44), fp ratio:0.0
+6950_34350_4150_13_ins_0_1 precision: 1.0
+
+6950_34350_4150_14_ins_0_1:
+label:64(89), match:1(458), tp ratio:1.0
+label:1(458), match:64(89), fp ratio:0.0
+6950_34350_4150_14_ins_0_1 precision: 1.0
+
+6950_34350_4150_15_ins_0_3:
+label:60(50), match:5(279), tp ratio:1.0
+label:64(53), match:3(282), tp ratio:1.0
+label:3(282), match:64(53), fp ratio:0.0
+label:5(279), match:60(50), fp ratio:0.0
+6950_34350_4150_15_ins_0_3 precision: 1.0
+
+6950_34350_4150_16_ins_0_2:
+label:22(43), match:2(507), tp ratio:1.0
+label:25(52), match:2(507), tp ratio:1.0
+label:2(507), match:22(43), fp ratio:0.3905325443786982
+6950_34350_4150_16_ins_0_2 precision: 0.0
+
+6950_34350_4150_17_ins_0_2:
+label:76(93), match:2(286), tp ratio:0.6559139784946236
+label:2(286), match:76(93), fp ratio:0.0
+label:4(196), match:76(93), fp ratio:0.0
+6950_34350_4150_17_ins_0_2 precision: 0.0
+
+6950_34350_4150_18_ins_0_1:
+label:51(74), match:1(251), tp ratio:0.7162162162162162
+label:1(251), match:51(74), fp ratio:0.0
+label:2(129), match:51(74), fp ratio:0.0
+6950_34350_4150_18_ins_0_1 precision: 0.0
+
+6950_34350_4150_19_ins_0_1:
+label:71(21), match:1(454), tp ratio:1.0
+label:92(41), match:1(454), tp ratio:1.0
+label:93(26), match:1(454), tp ratio:1.0
+label:1(454), match:92(41), fp ratio:0.45374449339207046
+6950_34350_4150_19_ins_0_1 precision: 0.0
+
+6950_34350_4150_2_ins_0_1:
+label:73(69), match:1(356), tp ratio:1.0
+label:1(356), match:73(69), fp ratio:0.0
+6950_34350_4150_2_ins_0_1 precision: 1.0
+
+6950_34350_4150_20_ins_0_1:
+label:13(44), match:5(145), tp ratio:0.5909090909090909
+label:35(67), match:3(258), tp ratio:0.8955223880597015
+label:36(5), match:2(100), tp ratio:1.0
+label:2(100), match:35(67), fp ratio:0.0
+label:3(258), match:35(67), fp ratio:0.0
+label:5(145), match:13(44), fp ratio:0.0
+label:7(106), match:13(44), fp ratio:0.0
+6950_34350_4150_20_ins_0_1 precision: 0.0
+
+6950_34350_4150_21_ins_0_2:
+label:49(49), match:4(242), tp ratio:1.0
+label:84(49), match:2(253), tp ratio:1.0
+label:2(253), match:84(49), fp ratio:0.0
+label:4(242), match:49(49), fp ratio:0.0
+6950_34350_4150_21_ins_0_2 precision: 1.0
+
+6950_34350_4150_22_ins_0_1:
+label:52(69), match:1(364), tp ratio:1.0
+label:1(364), match:52(69), fp ratio:0.0
+6950_34350_4150_22_ins_0_1 precision: 1.0
+
+6950_34350_4150_23_ins_0_2:
+label:61(43), match:2(481), tp ratio:1.0
+label:80(50), match:2(481), tp ratio:1.0
+label:2(481), match:61(43), fp ratio:0.10395010395010396
+6950_34350_4150_23_ins_0_2 precision: 0.0
+
+6950_34350_4150_24_ins_0_1:
+label:71(42), match:1(361), tp ratio:1.0
+label:92(29), match:1(361), tp ratio:1.0
+label:1(361), match:71(42), fp ratio:0.29362880886426596
+6950_34350_4150_24_ins_0_1 precision: 0.0
+
+6950_34350_4150_25_ins_0_1:
+label:9(24), match:1(384), tp ratio:1.0
+label:47(49), match:1(384), tp ratio:1.0
+label:1(384), match:47(49), fp ratio:0.2578125
+6950_34350_4150_25_ins_0_1 precision: 0.0
+
+6950_34350_4150_26_ins_0_1:
+label:52(30), match:1(399), tp ratio:1.0
+label:71(48), match:1(399), tp ratio:1.0
+label:1(399), match:71(48), fp ratio:0.3233082706766917
+6950_34350_4150_26_ins_0_1 precision: 0.0
+
+6950_34350_4150_27_ins_0_2:
+label:15(30), match:6(408), tp ratio:1.0
+label:57(49), match:6(408), tp ratio:1.0
+label:6(408), match:57(49), fp ratio:0.2549019607843137
+6950_34350_4150_27_ins_0_2 precision: 0.0
+
+6950_34350_4150_3_ins_0_2:
+label:11(45), match:4(244), tp ratio:1.0
+label:35(50), match:2(237), tp ratio:1.0
+label:2(237), match:35(50), fp ratio:0.0
+label:4(244), match:11(45), fp ratio:0.0
+6950_34350_4150_3_ins_0_2 precision: 1.0
+
+6950_34350_4150_4_ins_0_1:
+label:16(26), match:1(401), tp ratio:1.0
+label:17(51), match:1(401), tp ratio:1.0
+label:1(401), match:17(51), fp ratio:0.22693266832917705
+6950_34350_4150_4_ins_0_1 precision: 0.0
+
+6950_34350_4150_5_ins_0_2:
+label:63(35), match:3(187), tp ratio:1.0
+label:68(26), match:2(128), tp ratio:1.0
+label:2(128), match:68(26), fp ratio:0.0
+label:3(187), match:63(35), fp ratio:0.0
+6950_34350_4150_5_ins_0_2 precision: 1.0
+
+6950_34350_4150_6_ins_0_1:
+label:11(25), match:1(126), tp ratio:1.0
+label:64(23), match:2(363), tp ratio:1.0
+label:71(49), match:2(363), tp ratio:1.0
+label:1(126), match:11(25), fp ratio:0.0
+label:2(363), match:71(49), fp ratio:0.2699724517906336
+6950_34350_4150_6_ins_0_1 precision: 0.3333333333333333
+
+6950_34350_4150_7_ins_0_1:
+label:5(46), match:1(524), tp ratio:1.0
+label:49(51), match:1(524), tp ratio:1.0
+label:1(524), match:49(51), fp ratio:0.3969465648854962
+6950_34350_4150_7_ins_0_1 precision: 0.0
+
+6950_34350_4150_8_ins_0_2:
+label:31(44), match:2(243), tp ratio:1.0
+label:76(50), match:3(235), tp ratio:1.0
+label:2(243), match:31(44), fp ratio:0.0
+label:3(235), match:76(50), fp ratio:0.0
+6950_34350_4150_8_ins_0_2 precision: 1.0
+
+6950_34350_4150_9_ins_0_1:
+label:35(78), match:1(324), tp ratio:0.8974358974358975
+label:1(324), match:35(78), fp ratio:0.0
+label:3(40), match:35(78), fp ratio:0.0
+label:6(38), match:35(78), fp ratio:0.0
+6950_34350_4150_9_ins_0_1 precision: 0.0
+
+6950_34600_4150_1_ins_0_2:
+label:11(83), match:2(434), tp ratio:1.0
+label:31(49), match:3(248), tp ratio:1.0
+label:2(434), match:11(83), fp ratio:0.0
+label:3(248), match:31(49), fp ratio:0.0
+6950_34600_4150_1_ins_0_2 precision: 1.0
+
+6950_34600_4150_10_ins_0_1:
+label:11(47), match:1(275), tp ratio:1.0
+label:20(57), match:3(288), tp ratio:1.0
+label:1(275), match:11(47), fp ratio:0.0
+label:3(288), match:20(57), fp ratio:0.0
+6950_34600_4150_10_ins_0_1 precision: 1.0
+
+6950_34600_4150_11_ins_0_2:
+label:25(41), match:2(344), tp ratio:0.9024390243902439
+label:50(50), match:2(344), tp ratio:0.94
+label:2(344), match:50(50), fp ratio:0.32558139534883723
+label:3(41), match:25(41), fp ratio:0.0
+label:4(47), match:25(41), fp ratio:0.0
+label:5(43), match:50(50), fp ratio:0.0
+6950_34600_4150_11_ins_0_2 precision: 0.0
+
+6950_34600_4150_12_ins_0_1:
+label:32(75), match:1(413), tp ratio:1.0
+label:1(413), match:32(75), fp ratio:0.0
+6950_34600_4150_12_ins_0_1 precision: 1.0
+
+6950_34600_4150_2_ins_0_2:
+label:49(42), match:2(737), tp ratio:1.0
+label:54(50), match:2(737), tp ratio:1.0
+label:65(48), match:2(737), tp ratio:1.0
+label:2(737), match:49(42), fp ratio:0.4871099050203528
+6950_34600_4150_2_ins_0_2 precision: 0.0
+
+6950_34600_4150_3_ins_0_3:
+label:11(73), match:3(410), tp ratio:1.0
+label:3(410), match:11(73), fp ratio:0.0
+6950_34600_4150_3_ins_0_3 precision: 1.0
+
+6950_34600_4150_4_ins_0_2:
+label:21(67), match:2(345), tp ratio:1.0
+label:2(345), match:21(67), fp ratio:0.0
+6950_34600_4150_4_ins_0_2 precision: 1.0
+
+6950_34600_4150_5_ins_0_2:
+label:25(95), match:2(489), tp ratio:1.0
+label:2(489), match:25(95), fp ratio:0.0
+6950_34600_4150_5_ins_0_2 precision: 1.0
+
+6950_34600_4150_6_ins_0_2:
+label:50(49), match:4(128), tp ratio:0.6122448979591837
+label:66(59), match:3(168), tp ratio:0.6101694915254238
+label:2(129), match:50(49), fp ratio:0.0
+label:3(168), match:66(59), fp ratio:0.0
+label:4(128), match:50(49), fp ratio:0.0
+label:5(150), match:66(59), fp ratio:0.0
+6950_34600_4150_6_ins_0_2 precision: 0.0
+
+6950_34600_4150_7_ins_0_1:
+label:8(45), match:1(242), tp ratio:1.0
+label:51(48), match:2(234), tp ratio:1.0
+label:1(242), match:8(45), fp ratio:0.0
+label:2(234), match:51(48), fp ratio:0.0
+6950_34600_4150_7_ins_0_1 precision: 1.0
+
+6950_34600_4150_8_ins_0_3:
+label:32(41), match:6(472), tp ratio:1.0
+label:50(51), match:6(472), tp ratio:1.0
+label:6(472), match:32(41), fp ratio:0.3177966101694915
+6950_34600_4150_8_ins_0_3 precision: 0.0
+
+6950_34600_4150_9_ins_0_1:
+label:21(44), match:1(489), tp ratio:1.0
+label:55(50), match:1(489), tp ratio:1.0
+label:1(489), match:21(44), fp ratio:0.3456032719836401
+6950_34600_4150_9_ins_0_1 precision: 0.0
+
+Average of total 575 is 0.49434782608695654
+5700_35350_4150_1_ins_0_2:
+label:99(45), match:4(241), tp ratio:1.0
+label:100(51), match:2(247), tp ratio:1.0
+label:2(247), match:100(51), fp ratio:0.0
+label:4(241), match:99(45), fp ratio:0.0
+5700_35350_4150_1_ins_0_2 precision: 1.0
+
+5700_35350_4150_10_ins_0_1:
+label:4(48), match:1(260), tp ratio:1.0
+label:56(49), match:2(246), tp ratio:1.0
+label:1(260), match:4(48), fp ratio:0.0
+label:2(246), match:56(49), fp ratio:0.0
+5700_35350_4150_10_ins_0_1 precision: 1.0
+
+5700_35350_4150_11_ins_0_1:
+label:47(40), match:1(495), tp ratio:1.0
+label:49(5), match:1(495), tp ratio:1.0
+label:72(49), match:1(495), tp ratio:1.0
+label:1(495), match:72(49), fp ratio:0.39191919191919194
+5700_35350_4150_11_ins_0_1 precision: 0.0
+
+5700_35350_4150_12_ins_0_1:
+label:79(35), match:1(181), tp ratio:1.0
+label:1(181), match:79(35), fp ratio:0.0
+5700_35350_4150_12_ins_0_1 precision: 1.0
+
+5700_35350_4150_13_ins_0_2:
+label:26(30), match:4(151), tp ratio:1.0
+label:44(74), match:6(208), tp ratio:0.6621621621621622
+label:2(136), match:44(74), fp ratio:0.0
+label:4(151), match:26(30), fp ratio:0.0
+label:5(33), match:44(74), fp ratio:0.0
+label:6(208), match:44(74), fp ratio:0.0
+5700_35350_4150_13_ins_0_2 precision: 0.5
+
+5700_35350_4150_14_ins_0_2:
+label:92(52), match:4(260), tp ratio:1.0
+label:94(47), match:2(249), tp ratio:1.0
+label:2(249), match:94(47), fp ratio:0.0
+label:4(260), match:92(52), fp ratio:0.0
+5700_35350_4150_14_ins_0_2 precision: 1.0
+
+5700_35350_4150_15_ins_0_1:
+label:26(13), match:3(68), tp ratio:1.0
+label:44(72), match:1(330), tp ratio:0.9583333333333334
+label:1(330), match:44(72), fp ratio:0.0
+label:3(68), match:26(13), fp ratio:0.0
+label:6(36), match:44(72), fp ratio:0.0
+5700_35350_4150_15_ins_0_1 precision: 1.0
+
+5700_35350_4150_16_ins_0_2:
+label:44(69), match:3(230), tp ratio:0.8115942028985508
+label:105(35), match:4(104), tp ratio:0.7428571428571429
+label:2(121), match:44(69), fp ratio:0.0
+label:3(230), match:44(69), fp ratio:0.0
+label:4(104), match:105(35), fp ratio:0.0
+label:5(74), match:105(35), fp ratio:0.02702702702702703
+5700_35350_4150_16_ins_0_2 precision: 0.0
+
+5700_35350_4150_17_ins_0_3:
+label:62(72), match:3(244), tp ratio:0.7083333333333334
+label:3(244), match:62(72), fp ratio:0.0
+label:4(123), match:62(72), fp ratio:0.0
+5700_35350_4150_17_ins_0_3 precision: 0.0
+
+5700_35350_4150_18_ins_0_2:
+label:3(47), match:2(240), tp ratio:1.0
+label:56(50), match:4(250), tp ratio:1.0
+label:2(240), match:3(47), fp ratio:0.0
+label:4(250), match:56(50), fp ratio:0.0
+5700_35350_4150_18_ins_0_2 precision: 1.0
+
+5700_35350_4150_19_ins_0_1:
+label:42(24), match:2(128), tp ratio:1.0
+label:100(65), match:1(332), tp ratio:1.0
+label:1(332), match:100(65), fp ratio:0.0
+label:2(128), match:42(24), fp ratio:0.015625
+5700_35350_4150_19_ins_0_1 precision: 1.0
+
+5700_35350_4150_2_ins_0_2:
+label:62(108), match:2(806), tp ratio:0.9444444444444444
+label:66(10), match:2(806), tp ratio:1.0
+label:100(49), match:2(806), tp ratio:1.0
+label:2(806), match:62(108), fp ratio:0.3362282878411911
+label:10(34), match:62(108), fp ratio:0.0
+label:11(40), match:62(108), fp ratio:0.0
+5700_35350_4150_2_ins_0_2 precision: 0.0
+
+5700_35350_4150_20_ins_0_2:
+label:62(44), match:3(246), tp ratio:1.0
+label:72(49), match:2(229), tp ratio:1.0
+label:2(229), match:72(49), fp ratio:0.0
+label:3(246), match:62(44), fp ratio:0.0
+5700_35350_4150_20_ins_0_2 precision: 1.0
+
+5700_35350_4150_21_ins_0_1:
+label:62(123), match:5(441), tp ratio:0.7560975609756098
+label:66(10), match:1(49), tp ratio:1.0
+label:87(45), match:10(296), tp ratio:1.0
+label:100(51), match:2(192), tp ratio:0.8235294117647058
+label:1(49), match:66(10), fp ratio:0.0
+label:2(192), match:100(51), fp ratio:0.0
+label:4(83), match:100(51), fp ratio:0.0
+label:5(441), match:62(123), fp ratio:0.0
+label:6(136), match:62(123), fp ratio:0.0
+label:10(296), match:87(45), fp ratio:0.10472972972972973
+5700_35350_4150_21_ins_0_1 precision: 0.25
+
+5700_35350_4150_22_ins_0_1:
+label:6(45), match:1(249), tp ratio:1.0
+label:90(55), match:3(272), tp ratio:1.0
+label:1(249), match:6(45), fp ratio:0.0
+label:3(272), match:90(55), fp ratio:0.0
+5700_35350_4150_22_ins_0_1 precision: 1.0
+
+5700_35350_4150_23_ins_0_3:
+label:44(24), match:5(421), tp ratio:1.0
+label:57(57), match:5(421), tp ratio:1.0
+label:5(421), match:57(57), fp ratio:0.25415676959619954
+5700_35350_4150_23_ins_0_3 precision: 0.0
+
+5700_35350_4150_24_ins_0_2:
+label:85(44), match:2(251), tp ratio:1.0
+label:86(13), match:3(50), tp ratio:1.0
+label:2(251), match:85(44), fp ratio:0.0
+label:3(50), match:86(13), fp ratio:0.0
+5700_35350_4150_24_ins_0_2 precision: 1.0
+
+5700_35350_4150_25_ins_0_2:
+label:30(41), match:2(248), tp ratio:1.0
+label:105(52), match:3(231), tp ratio:1.0
+label:2(248), match:30(41), fp ratio:0.0
+label:3(231), match:105(52), fp ratio:0.0
+5700_35350_4150_25_ins_0_2 precision: 1.0
+
+5700_35350_4150_26_ins_0_2:
+label:62(61), match:2(188), tp ratio:0.6885245901639344
+label:2(188), match:62(61), fp ratio:0.0
+label:3(123), match:62(61), fp ratio:0.0
+5700_35350_4150_26_ins_0_2 precision: 0.0
+
+5700_35350_4150_27_ins_0_2:
+label:26(46), match:4(250), tp ratio:1.0
+label:78(26), match:3(128), tp ratio:1.0
+label:88(44), match:2(226), tp ratio:1.0
+label:2(226), match:88(44), fp ratio:0.0
+label:3(128), match:78(26), fp ratio:0.0
+label:4(250), match:26(46), fp ratio:0.0
+5700_35350_4150_27_ins_0_2 precision: 1.0
+
+5700_35350_4150_28_ins_0_2:
+label:22(76), match:2(404), tp ratio:1.0
+label:2(404), match:22(76), fp ratio:0.0
+5700_35350_4150_28_ins_0_2 precision: 1.0
+
+5700_35350_4150_29_ins_0_3:
+label:9(55), match:3(282), tp ratio:1.0
+label:3(282), match:9(55), fp ratio:0.0
+5700_35350_4150_29_ins_0_3 precision: 1.0
+
+5700_35350_4150_3_ins_0_3:
+label:29(38), match:3(375), tp ratio:1.0
+label:88(50), match:3(375), tp ratio:0.8
+label:3(375), match:29(38), fp ratio:0.3253333333333333
+label:7(71), match:88(50), fp ratio:0.0
+5700_35350_4150_3_ins_0_3 precision: 0.0
+
+5700_35350_4150_30_ins_0_1:
+label:26(54), match:1(283), tp ratio:1.0
+label:44(48), match:4(238), tp ratio:1.0
+label:1(283), match:26(54), fp ratio:0.0
+label:4(238), match:44(48), fp ratio:0.0
+5700_35350_4150_30_ins_0_1 precision: 1.0
+
+5700_35350_4150_31_ins_0_2:
+label:106(81), match:3(423), tp ratio:1.0
+label:3(423), match:106(81), fp ratio:0.0
+5700_35350_4150_31_ins_0_2 precision: 1.0
+
+5700_35350_4150_32_ins_0_1:
+label:19(25), match:3(138), tp ratio:1.0
+label:32(57), match:1(291), tp ratio:1.0
+label:1(291), match:32(57), fp ratio:0.0
+label:3(138), match:19(25), fp ratio:0.0
+5700_35350_4150_32_ins_0_1 precision: 1.0
+
+5700_35350_4150_33_ins_0_1:
+label:4(46), match:2(250), tp ratio:1.0
+label:85(26), match:1(125), tp ratio:1.0
+label:1(125), match:85(26), fp ratio:0.0
+label:2(250), match:4(46), fp ratio:0.0
+5700_35350_4150_33_ins_0_1 precision: 1.0
+
+5700_35350_4150_34_ins_0_3:
+label:57(47), match:4(268), tp ratio:1.0
+label:73(62), match:3(195), tp ratio:0.8548387096774194
+label:3(195), match:73(62), fp ratio:0.0
+label:4(268), match:57(47), fp ratio:0.0
+label:5(44), match:73(62), fp ratio:0.0
+label:6(52), match:73(62), fp ratio:0.0
+5700_35350_4150_34_ins_0_3 precision: 0.5
+
+5700_35350_4150_35_ins_0_1:
+label:62(88), match:4(318), tp ratio:0.7840909090909091
+label:87(50), match:5(259), tp ratio:1.0
+label:2(75), match:62(88), fp ratio:0.0
+label:3(79), match:62(88), fp ratio:0.0
+label:4(318), match:62(88), fp ratio:0.0
+label:5(259), match:87(50), fp ratio:0.0
+5700_35350_4150_35_ins_0_1 precision: 0.5
+
+5700_35350_4150_36_ins_0_1:
+label:79(53), match:1(301), tp ratio:1.0
+label:81(3), match:1(301), tp ratio:1.0
+label:1(301), match:79(53), fp ratio:0.0
+5700_35350_4150_36_ins_0_1 precision: 0.5
+
+5700_35350_4150_37_ins_0_2:
+label:55(51), match:5(270), tp ratio:1.0
+label:100(57), match:2(286), tp ratio:1.0
+label:2(286), match:100(57), fp ratio:0.0
+label:5(270), match:55(51), fp ratio:0.0
+5700_35350_4150_37_ins_0_2 precision: 1.0
+
+5700_35350_4150_38_ins_0_2:
+label:90(46), match:2(506), tp ratio:1.0
+label:91(50), match:2(506), tp ratio:1.0
+label:2(506), match:90(46), fp ratio:0.383399209486166
+5700_35350_4150_38_ins_0_2 precision: 0.0
+
+5700_35350_4150_39_ins_0_1:
+label:30(41), match:2(240), tp ratio:1.0
+label:62(51), match:1(238), tp ratio:1.0
+label:1(238), match:62(51), fp ratio:0.0
+label:2(240), match:30(41), fp ratio:0.004166666666666667
+5700_35350_4150_39_ins_0_1 precision: 1.0
+
+5700_35350_4150_4_ins_0_1:
+label:4(54), match:1(286), tp ratio:1.0
+label:87(48), match:2(240), tp ratio:1.0
+label:1(286), match:4(54), fp ratio:0.0
+label:2(240), match:87(48), fp ratio:0.0
+5700_35350_4150_4_ins_0_1 precision: 1.0
+
+5700_35350_4150_5_ins_0_3:
+label:73(47), match:3(243), tp ratio:1.0
+label:105(49), match:5(247), tp ratio:1.0
+label:3(243), match:73(47), fp ratio:0.0
+label:5(247), match:105(49), fp ratio:0.0
+5700_35350_4150_5_ins_0_3 precision: 1.0
+
+5700_35350_4150_6_ins_0_2:
+label:4(42), match:2(226), tp ratio:1.0
+label:97(50), match:3(242), tp ratio:1.0
+label:2(226), match:4(42), fp ratio:0.0
+label:3(242), match:97(50), fp ratio:0.0
+5700_35350_4150_6_ins_0_2 precision: 1.0
+
+5700_35350_4150_7_ins_0_2:
+label:44(89), match:6(229), tp ratio:0.7078651685393258
+label:105(50), match:3(227), tp ratio:1.0
+label:2(250), match:44(89), fp ratio:0.0
+label:3(227), match:105(50), fp ratio:0.0
+label:6(229), match:44(89), fp ratio:0.0
+5700_35350_4150_7_ins_0_2 precision: 0.5
+
+5700_35350_4150_8_ins_0_2:
+label:56(75), match:2(391), tp ratio:1.0
+label:2(391), match:56(75), fp ratio:0.0
+5700_35350_4150_8_ins_0_2 precision: 1.0
+
+5700_35350_4150_9_ins_0_1:
+label:26(34), match:1(458), tp ratio:1.0
+label:78(3), match:1(458), tp ratio:1.0
+label:88(51), match:1(458), tp ratio:1.0
+label:1(458), match:88(51), fp ratio:0.32751091703056767
+5700_35350_4150_9_ins_0_1 precision: 0.0
+
+5700_35600_4150_1_ins_0_1:
+label:67(44), match:1(305), tp ratio:1.0
+label:72(14), match:1(305), tp ratio:1.0
+label:1(305), match:67(44), fp ratio:0.08524590163934426
+5700_35600_4150_1_ins_0_1 precision: 0.5
+
+5700_35600_4150_10_ins_0_3:
+label:69(55), match:3(355), tp ratio:1.0
+label:71(12), match:3(355), tp ratio:1.0
+label:3(355), match:69(55), fp ratio:0.036619718309859155
+5700_35600_4150_10_ins_0_3 precision: 0.5
+
+5700_35600_4150_11_ins_0_1:
+label:81(31), match:10(95), tp ratio:0.7419354838709677
+label:94(88), match:1(328), tp ratio:0.8295454545454546
+label:1(328), match:94(88), fp ratio:0.0

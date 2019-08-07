@@ -1,0 +1,4030 @@
+5700_35350_4150_1_ins_0_2:
+omit_ratio: 0.02197802197802198
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.978021978021978
+expected run length: 26.837939420442808 Voxel
+
+5700_35350_4150_10_ins_0_1:
+omit_ratio: 0.010752688172043012
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.989247311827957
+expected run length: 41.01890668040537 Voxel
+
+5700_35350_4150_11_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.03409090909090909
+correct_ratio: 0.9659090909090909
+expected run length: 0.0 Voxel
+
+5700_35350_4150_12_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 39.75250160881067 Voxel
+
+5700_35350_4150_13_ins_0_2:
+omit_ratio: 0.049019607843137254
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9509803921568627
+expected run length: 30.849620625254072 Voxel
+
+5700_35350_4150_14_ins_0_2:
+omit_ratio: 0.03125
+split_ratio: 0.010416666666666666
+merged_ratio: 0.020833333333333332
+correct_ratio: 0.9375
+expected run length: 16.622240329860617 Voxel
+
+5700_35350_4150_15_ins_0_1:
+omit_ratio: 0.07228915662650602
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.927710843373494
+expected run length: 19.1161508445722 Voxel
+
+5700_35350_4150_16_ins_0_2:
+omit_ratio: 0.08536585365853659
+split_ratio: 0.0
+merged_ratio: 0.024390243902439025
+correct_ratio: 0.8902439024390244
+expected run length: 38.154605636257074 Voxel
+
+5700_35350_4150_17_ins_0_3:
+omit_ratio: 0.056338028169014086
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9436619718309859
+expected run length: 26.4380241385051 Voxel
+
+5700_35350_4150_18_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 45.49142085060811 Voxel
+
+5700_35350_4150_19_ins_0_1:
+omit_ratio: 0.08045977011494253
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9195402298850575
+expected run length: 22.631227785441737 Voxel
+
+5700_35350_4150_2_ins_0_2:
+omit_ratio: 0.14285714285714285
+split_ratio: 0.0
+merged_ratio: 0.018633540372670808
+correct_ratio: 0.8385093167701864
+expected run length: 9.468305067550595 Voxel
+
+5700_35350_4150_20_ins_0_2:
+omit_ratio: 0.07865168539325842
+split_ratio: 0.0
+merged_ratio: 0.011235955056179775
+correct_ratio: 0.9101123595505618
+expected run length: 10.407246804023227 Voxel
+
+5700_35350_4150_21_ins_0_1:
+omit_ratio: 0.1232876712328767
+split_ratio: 0.0045662100456621
+merged_ratio: 0.0182648401826484
+correct_ratio: 0.8538812785388128
+expected run length: 16.007417255220403 Voxel
+
+5700_35350_4150_22_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.021052631578947368
+correct_ratio: 0.9789473684210527
+expected run length: 0.0 Voxel
+
+5700_35350_4150_23_ins_0_3:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.02564102564102564
+correct_ratio: 0.9743589743589743
+expected run length: 0.0 Voxel
+
+5700_35350_4150_24_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.038461538461538464
+correct_ratio: 0.9615384615384616
+expected run length: 0.0 Voxel
+
+5700_35350_4150_25_ins_0_2:
+omit_ratio: 0.022988505747126436
+split_ratio: 0.0
+merged_ratio: 0.034482758620689655
+correct_ratio: 0.9425287356321839
+expected run length: 14.909945667359567 Voxel
+
+5700_35350_4150_26_ins_0_2:
+omit_ratio: 0.016666666666666666
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9833333333333333
+expected run length: 69.24023648453507 Voxel
+
+5700_35350_4150_27_ins_0_2:
+omit_ratio: 0.02702702702702703
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.972972972972973
+expected run length: 35.974257003562954 Voxel
+
+5700_35350_4150_28_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 94.45778599534962 Voxel
+
+5700_35350_4150_29_ins_0_3:
+omit_ratio: 0.018518518518518517
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9814814814814815
+expected run length: 62.39957915071303 Voxel
+
+5700_35350_4150_3_ins_0_3:
+omit_ratio: 0.060240963855421686
+split_ratio: 0.0
+merged_ratio: 0.024096385542168676
+correct_ratio: 0.9156626506024096
+expected run length: 2.024481692477391 Voxel
+
+5700_35350_4150_30_ins_0_1:
+omit_ratio: 0.030612244897959183
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9693877551020408
+expected run length: 28.09581785552574 Voxel
+
+5700_35350_4150_31_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 100.57534207162776 Voxel
+
+5700_35350_4150_32_ins_0_1:
+omit_ratio: 0.038461538461538464
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9615384615384616
+expected run length: 31.37966684011124 Voxel
+
+5700_35350_4150_33_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.028985507246376812
+correct_ratio: 0.9710144927536232
+expected run length: 0.0 Voxel
+
+5700_35350_4150_34_ins_0_3:
+omit_ratio: 0.05825242718446602
+split_ratio: 0.0
+merged_ratio: 0.02912621359223301
+correct_ratio: 0.912621359223301
+expected run length: 1.2773544048763879 Voxel
+
+5700_35350_4150_35_ins_0_1:
+omit_ratio: 0.09701492537313433
+split_ratio: 0.0
+merged_ratio: 0.007462686567164179
+correct_ratio: 0.8955223880597015
+expected run length: 12.004907042496114 Voxel
+
+5700_35350_4150_36_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.03773584905660377
+correct_ratio: 0.9622641509433962
+expected run length: 0.0 Voxel
+
+5700_35350_4150_37_ins_0_2:
+omit_ratio: 0.019230769230769232
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9807692307692307
+expected run length: 32.24568423298495 Voxel
+
+5700_35350_4150_38_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.01098901098901099
+merged_ratio: 0.02197802197802198
+correct_ratio: 0.967032967032967
+expected run length: 11.452341395373832 Voxel
+
+5700_35350_4150_39_ins_0_1:
+omit_ratio: 0.09090909090909091
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9090909090909091
+expected run length: 23.334786793330363 Voxel
+
+5700_35350_4150_4_ins_0_1:
+omit_ratio: 0.010101010101010102
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.98989898989899
+expected run length: 42.11878846485888 Voxel
+
+5700_35350_4150_5_ins_0_3:
+omit_ratio: 0.0
+split_ratio: 0.010752688172043012
+merged_ratio: 0.021505376344086023
+correct_ratio: 0.967741935483871
+expected run length: 13.342836532094037 Voxel
+
+5700_35350_4150_6_ins_0_2:
+omit_ratio: 0.011494252873563218
+split_ratio: 0.011494252873563218
+merged_ratio: 0.022988505747126436
+correct_ratio: 0.9540229885057471
+expected run length: 13.359315765545604 Voxel
+
+5700_35350_4150_7_ins_0_2:
+omit_ratio: 0.05982905982905983
+split_ratio: 0.0
+merged_ratio: 0.008547008547008548
+correct_ratio: 0.9316239316239316
+expected run length: 8.060577638661172 Voxel
+
+5700_35350_4150_8_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 91.77222345219343 Voxel
+
+5700_35350_4150_9_ins_0_1:
+omit_ratio: 0.024691358024691357
+split_ratio: 0.0
+merged_ratio: 0.024691358024691357
+correct_ratio: 0.9506172839506173
+expected run length: 0.0 Voxel
+
+5700_35600_4150_1_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.037037037037037035
+correct_ratio: 0.9629629629629629
+expected run length: 0.0 Voxel
+
+5700_35600_4150_10_ins_0_3:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.03225806451612903
+correct_ratio: 0.967741935483871
+expected run length: 0.0 Voxel
+
+5700_35600_4150_11_ins_0_1:
+omit_ratio: 0.12931034482758622
+split_ratio: 0.008620689655172414
+merged_ratio: 0.017241379310344827
+correct_ratio: 0.8448275862068966
+expected run length: 25.06512821372413 Voxel
+
+5700_35600_4150_12_ins_0_2:
+omit_ratio: 0.09565217391304348
+split_ratio: 0.0
+merged_ratio: 0.02608695652173913
+correct_ratio: 0.8782608695652174
+expected run length: 6.520168216990287 Voxel
+
+5700_35600_4150_13_ins_0_1:
+omit_ratio: 0.013888888888888888
+split_ratio: 0.0
+merged_ratio: 0.020833333333333332
+correct_ratio: 0.9652777777777778
+expected run length: 4.213424956082238 Voxel
+
+5700_35600_4150_14_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 88.55076252417496 Voxel
+
+5700_35600_4150_15_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.029411764705882353
+correct_ratio: 0.9705882352941176
+expected run length: 0.0 Voxel
+
+5700_35600_4150_16_ins_0_2:
+omit_ratio: 0.020833333333333332
+split_ratio: 0.0
+merged_ratio: 0.020833333333333332
+correct_ratio: 0.9583333333333334
+expected run length: 13.681272490530652 Voxel
+
+5700_35600_4150_17_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.057692307692307696
+correct_ratio: 0.9423076923076923
+expected run length: 0.0 Voxel
+
+5700_35600_4150_18_ins_0_1:
+omit_ratio: 0.027777777777777776
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9722222222222222
+expected run length: 93.78754374560204 Voxel
+
+5700_35600_4150_19_ins_0_2:
+omit_ratio: 0.017241379310344827
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9827586206896551
+expected run length: 73.70198946522385 Voxel
+
+5700_35600_4150_2_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 42.46782430162082 Voxel
+
+5700_35600_4150_20_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.037037037037037035
+correct_ratio: 0.9629629629629629
+expected run length: 0.0 Voxel
+
+5700_35600_4150_21_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 69.55756210087897 Voxel
+
+5700_35600_4150_22_ins_0_1:
+omit_ratio: 0.019801980198019802
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9801980198019802
+expected run length: 60.935351023961175 Voxel
+
+5700_35600_4150_23_ins_0_1:
+omit_ratio: 0.015625
+split_ratio: 0.0
+merged_ratio: 0.0234375
+correct_ratio: 0.9609375
+expected run length: 2.4225293027715367 Voxel
+
+5700_35600_4150_24_ins_0_1:
+omit_ratio: 0.06666666666666667
+split_ratio: 0.0
+merged_ratio: 0.02666666666666667
+correct_ratio: 0.9066666666666666
+expected run length: 8.641828441050032 Voxel
+
+5700_35600_4150_25_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.023809523809523808
+correct_ratio: 0.9761904761904762
+expected run length: 0.0 Voxel
+
+5700_35600_4150_26_ins_0_2:
+omit_ratio: 0.06097560975609756
+split_ratio: 0.0
+merged_ratio: 0.024390243902439025
+correct_ratio: 0.9146341463414634
+expected run length: 27.949899668525152 Voxel
+
+5700_35600_4150_27_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.02631578947368421
+correct_ratio: 0.9736842105263158
+expected run length: 0.0 Voxel
+
+5700_35600_4150_28_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.03773584905660377
+correct_ratio: 0.9622641509433962
+expected run length: 0.0 Voxel
+
+5700_35600_4150_29_ins_0_3:
+omit_ratio: 0.01639344262295082
+split_ratio: 0.0
+merged_ratio: 0.03278688524590164
+correct_ratio: 0.9508196721311475
+expected run length: 0.0 Voxel
+
+5700_35600_4150_3_ins_0_1:
+omit_ratio: 0.030927835051546393
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9690721649484536
+expected run length: 44.56155992506764 Voxel
+
+5700_35600_4150_30_ins_0_1:
+omit_ratio: 0.11428571428571428
+split_ratio: 0.0
+merged_ratio: 0.05714285714285714
+correct_ratio: 0.8285714285714286
+expected run length: 0.0 Voxel
+
+5700_35600_4150_31_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0273972602739726
+correct_ratio: 0.9726027397260274
+expected run length: 0.0 Voxel
+
+5700_35600_4150_32_ins_0_2:
+omit_ratio: 0.020833333333333332
+split_ratio: 0.0
+merged_ratio: 0.020833333333333332
+correct_ratio: 0.9583333333333334
+expected run length: 13.681272490530652 Voxel
+
+5700_35600_4150_33_ins_0_3:
+omit_ratio: 0.01639344262295082
+split_ratio: 0.0
+merged_ratio: 0.03278688524590164
+correct_ratio: 0.9508196721311475
+expected run length: 0.0 Voxel
+
+5700_35600_4150_4_ins_0_1:
+omit_ratio: 0.03488372093023256
+split_ratio: 0.0
+merged_ratio: 0.03488372093023256
+correct_ratio: 0.9302325581395349
+expected run length: 14.311701031002679 Voxel
+
+5700_35600_4150_5_ins_0_1:
+omit_ratio: 0.02
+split_ratio: 0.0
+merged_ratio: 0.02
+correct_ratio: 0.96
+expected run length: 0.0 Voxel
+
+5700_35600_4150_6_ins_0_3:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 93.06135240372538 Voxel
+
+5700_35600_4150_7_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.011904761904761904
+merged_ratio: 0.023809523809523808
+correct_ratio: 0.9642857142857143
+expected run length: 10.547954558939606 Voxel
+
+5700_35600_4150_8_ins_0_3:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 61.149701867460806 Voxel
+
+5700_35600_4150_9_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.029411764705882353
+correct_ratio: 0.9705882352941176
+expected run length: 0.0 Voxel
+
+5950_32100_3650_1_ins_0_1:
+omit_ratio: 0.058823529411764705
+split_ratio: 0.0
+merged_ratio: 0.0196078431372549
+correct_ratio: 0.9215686274509803
+expected run length: 26.882868268627394 Voxel
+
+5950_32100_3650_10_ins_0_3:
+omit_ratio: 0.06382978723404255
+split_ratio: 0.0
+merged_ratio: 0.02127659574468085
+correct_ratio: 0.9148936170212766
+expected run length: 9.507016642313557 Voxel
+
+5950_32100_3650_11_ins_0_4:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 110.79267425343521 Voxel
+
+5950_32100_3650_12_ins_0_2:
+omit_ratio: 0.027777777777777776
+split_ratio: 0.0
+merged_ratio: 0.013888888888888888
+correct_ratio: 0.9583333333333334
+expected run length: 13.94256677988035 Voxel
+
+5950_32100_3650_13_ins_0_1:
+omit_ratio: 0.06
+split_ratio: 0.0
+merged_ratio: 0.03
+correct_ratio: 0.91
+expected run length: 2.4329263291752063 Voxel
+
+5950_32100_3650_14_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 97.67171838880505 Voxel
+
+5950_32100_3650_15_ins_0_2:
+omit_ratio: 0.08
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.92
+expected run length: 27.8281464384807 Voxel
+
+5950_32100_3650_16_ins_0_1:
+omit_ratio: 0.042105263157894736
+split_ratio: 0.0
+merged_ratio: 0.015789473684210527
+correct_ratio: 0.9421052631578948
+expected run length: 19.8729164579156 Voxel
+
+5950_32100_3650_17_ins_0_1:
+omit_ratio: 0.02197802197802198
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.978021978021978
+expected run length: 57.934142568487815 Voxel
+
+5950_32100_3650_18_ins_0_1:
+omit_ratio: 0.0738255033557047
+split_ratio: 0.006711409395973154
+merged_ratio: 0.0
+correct_ratio: 0.9194630872483222
+expected run length: 36.54154945450533 Voxel
+
+5950_32100_3650_19_ins_0_2:
+omit_ratio: 0.05217391304347826
+split_ratio: 0.0
+merged_ratio: 0.02608695652173913
+correct_ratio: 0.9217391304347826
+expected run length: 0.0 Voxel
+
+5950_32100_3650_2_ins_0_2:
+omit_ratio: 0.11764705882352941
+split_ratio: 0.0
+merged_ratio: 0.029411764705882353
+correct_ratio: 0.8529411764705882
+expected run length: 9.201877373122441 Voxel
+
+5950_32100_3650_20_ins_0_1:
+omit_ratio: 0.04411764705882353
+split_ratio: 0.0
+merged_ratio: 0.04411764705882353
+correct_ratio: 0.9117647058823529
+expected run length: 14.325526584109785 Voxel
+
+5950_32100_3650_21_ins_0_2:
+omit_ratio: 0.06315789473684211
+split_ratio: 0.0
+merged_ratio: 0.042105263157894736
+correct_ratio: 0.8947368421052632
+expected run length: 3.5367808038016406 Voxel
+
+5950_32100_3650_22_ins_0_2:
+omit_ratio: 0.008130081300813009
+split_ratio: 0.008130081300813009
+merged_ratio: 0.024390243902439025
+correct_ratio: 0.959349593495935
+expected run length: 57.73502605953631 Voxel
+
+5950_32100_3650_23_ins_0_5:
+omit_ratio: 0.01639344262295082
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9836065573770492
+expected run length: 74.82329653450557 Voxel
+
+5950_32100_3650_24_ins_0_2:
+omit_ratio: 0.03896103896103896
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.961038961038961
+expected run length: 42.902202403551115 Voxel
+
+5950_32100_3650_25_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.010309278350515464
+merged_ratio: 0.030927835051546393
+correct_ratio: 0.9587628865979382
+expected run length: 18.034929578841666 Voxel
+
+5950_32100_3650_26_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 95.1645282976067 Voxel
+
+5950_32100_3650_27_ins_0_3:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 87.81871171660609 Voxel
+
+5950_32100_3650_28_ins_0_2:
+omit_ratio: 0.05343511450381679
+split_ratio: 0.0
+merged_ratio: 0.022900763358778626
+correct_ratio: 0.9236641221374046
+expected run length: 5.802971548095797 Voxel
+
+5950_32100_3650_29_ins_0_3:
+omit_ratio: 0.022988505747126436
+split_ratio: 0.0
+merged_ratio: 0.022988505747126436
+correct_ratio: 0.9540229885057471
+expected run length: 0.0 Voxel
+
+5950_32100_3650_3_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.02666666666666667
+correct_ratio: 0.9733333333333334
+expected run length: 7.347432407525058 Voxel
+
+5950_32100_3650_30_ins_0_2:
+omit_ratio: 0.03125
+split_ratio: 0.010416666666666666
+merged_ratio: 0.020833333333333332
+correct_ratio: 0.9375
+expected run length: 14.876041756532478 Voxel
+
+5950_32100_3650_31_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.02631578947368421
+correct_ratio: 0.9736842105263158
+expected run length: 0.0 Voxel
+
+5950_32100_3650_32_ins_0_4:
+omit_ratio: 0.037037037037037035
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9629629629629629
+expected run length: 29.249225386665415 Voxel
+
+5950_32100_3650_33_ins_0_1:
+omit_ratio: 0.05
+split_ratio: 0.0
+merged_ratio: 0.01875
+correct_ratio: 0.93125
+expected run length: 17.26950722192824 Voxel
+
+5950_32100_3650_34_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.03636363636363636
+correct_ratio: 0.9636363636363636
+expected run length: 0.0 Voxel
+
+5950_32100_3650_35_ins_0_3:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.019417475728155338
+correct_ratio: 0.9805825242718447
+expected run length: 0.0 Voxel
+
+5950_32100_3650_36_ins_0_2:
+omit_ratio: 0.08888888888888889
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9111111111111111
+expected run length: 22.548792758899666 Voxel
+
+5950_32100_3650_37_ins_0_2:
+omit_ratio: 0.07954545454545454
+split_ratio: 0.0
+merged_ratio: 0.011363636363636364
+correct_ratio: 0.9090909090909091
+expected run length: 12.120692985577808 Voxel
+
+5950_32100_3650_38_ins_0_2:
+omit_ratio: 0.05042016806722689
+split_ratio: 0.0
+merged_ratio: 0.01680672268907563
+correct_ratio: 0.9327731092436975
+expected run length: 0.0 Voxel
+
+5950_32100_3650_39_ins_0_1:
+omit_ratio: 0.030927835051546393
+split_ratio: 0.0
+merged_ratio: 0.020618556701030927
+correct_ratio: 0.9484536082474226
+expected run length: 17.18586809290332 Voxel
+
+5950_32100_3650_4_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.03389830508474576
+correct_ratio: 0.9661016949152542
+expected run length: 0.0 Voxel
+
+5950_32100_3650_40_ins_0_1:
+omit_ratio: 0.029411764705882353
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9705882352941176
+expected run length: 67.83024018423748 Voxel
+
+5950_32100_3650_41_ins_0_1:
+omit_ratio: 0.04310344827586207
+split_ratio: 0.0
+merged_ratio: 0.017241379310344827
+correct_ratio: 0.9396551724137931
+expected run length: 22.908961408838636 Voxel
+
+5950_32100_3650_42_ins_0_1:
+omit_ratio: 0.06363636363636363
+split_ratio: 0.0
+merged_ratio: 0.01818181818181818
+correct_ratio: 0.9181818181818182
+expected run length: 34.02980192377397 Voxel
+
+5950_32100_3650_43_ins_0_2:
+omit_ratio: 0.017391304347826087
+split_ratio: 0.0
+merged_ratio: 0.017391304347826087
+correct_ratio: 0.9652173913043478
+expected run length: 5.786390002285961 Voxel
+
+5950_32100_3650_44_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.024691358024691357
+correct_ratio: 0.9753086419753086
+expected run length: 0.0 Voxel
+
+5950_32100_3650_45_ins_0_4:
+omit_ratio: 0.046052631578947366
+split_ratio: 0.006578947368421052
+merged_ratio: 0.006578947368421052
+correct_ratio: 0.9407894736842105
+expected run length: 29.29233147561721 Voxel
+
+5950_32100_3650_46_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 68.2329252789792 Voxel
+
+5950_32100_3650_47_ins_0_1:
+omit_ratio: 0.025423728813559324
+split_ratio: 0.00847457627118644
+merged_ratio: 0.03389830508474576
+correct_ratio: 0.9322033898305084
+expected run length: 9.849930515166946 Voxel
+
+5950_32100_3650_48_ins_0_3:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.02127659574468085
+correct_ratio: 0.9787234042553191
+expected run length: 0.0 Voxel
+
+5950_32100_3650_49_ins_0_5:
+omit_ratio: 0.017241379310344827
+split_ratio: 0.0
+merged_ratio: 0.034482758620689655
+correct_ratio: 0.9482758620689655
+expected run length: 0.0 Voxel
+
+5950_32100_3650_5_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 102.76736574812337 Voxel
+
+5950_32100_3650_50_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 90.16598621332471 Voxel
+
+5950_32100_3650_51_ins_0_2:
+omit_ratio: 0.07913669064748201
+split_ratio: 0.0
+merged_ratio: 0.02158273381294964
+correct_ratio: 0.8992805755395683
+expected run length: 4.080823118585975 Voxel
+
+5950_32100_3650_52_ins_0_2:
+omit_ratio: 0.06315789473684211
+split_ratio: 0.0
+merged_ratio: 0.042105263157894736
+correct_ratio: 0.8947368421052632
+expected run length: 1.095433321402078 Voxel
+
+5950_32100_3650_53_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 98.79947383013919 Voxel
+
+5950_32100_3650_54_ins_0_1:
+omit_ratio: 0.03418803418803419
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9658119658119658
+expected run length: 36.986276796452586 Voxel
+
+5950_32100_3650_55_ins_0_1:
+omit_ratio: 0.058823529411764705
+split_ratio: 0.0
+merged_ratio: 0.0392156862745098
+correct_ratio: 0.9019607843137255
+expected run length: 8.190290729207614 Voxel
+
+5950_32100_3650_56_ins_0_1:
+omit_ratio: 0.027210884353741496
+split_ratio: 0.0
+merged_ratio: 0.02040816326530612
+correct_ratio: 0.9523809523809523
+expected run length: 20.027123990726576 Voxel
+
+5950_32100_3650_57_ins_0_1:
+omit_ratio: 0.023255813953488372
+split_ratio: 0.0
+merged_ratio: 0.023255813953488372
+correct_ratio: 0.9534883720930233
+expected run length: 0.0 Voxel
+
+5950_32100_3650_58_ins_0_3:
+omit_ratio: 0.01
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.99
+expected run length: 44.27171340779437 Voxel
+
+5950_32100_3650_59_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 109.52472506100408 Voxel
+
+5950_32100_3650_6_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 63.96382184369619 Voxel
+
+5950_32100_3650_60_ins_0_3:
+omit_ratio: 0.04225352112676056
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9577464788732394
+expected run length: 48.90899599883507 Voxel
+
+5950_32100_3650_61_ins_0_3:
+omit_ratio: 0.02127659574468085
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9787234042553191
+expected run length: 51.13565354413482 Voxel
+
+5950_32100_3650_62_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.046511627906976744
+correct_ratio: 0.9534883720930233
+expected run length: 0.0 Voxel
+
+5950_32100_3650_63_ins_0_3:
+omit_ratio: 0.03870967741935484
+split_ratio: 0.0
+merged_ratio: 0.025806451612903226
+correct_ratio: 0.9354838709677419
+expected run length: 7.409614490073254 Voxel
+
+5950_32100_3650_64_ins_0_4:
+omit_ratio: 0.049019607843137254
+split_ratio: 0.0
+merged_ratio: 0.0196078431372549
+correct_ratio: 0.9313725490196079
+expected run length: 16.8394666828951 Voxel
+
+5950_32100_3650_65_ins_0_2:
+omit_ratio: 0.04424778761061947
+split_ratio: 0.0
+merged_ratio: 0.035398230088495575
+correct_ratio: 0.9203539823008849
+expected run length: 19.95247511247745 Voxel
+
+5950_32100_3650_66_ins_0_1:
+omit_ratio: 0.02631578947368421
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9736842105263158
+expected run length: 92.96906695365546 Voxel
+
+5950_32100_3650_67_ins_0_1:
+omit_ratio: 0.03225806451612903
+split_ratio: 0.0
+merged_ratio: 0.03225806451612903
+correct_ratio: 0.9354838709677419
+expected run length: 14.326420539147334 Voxel
+
+5950_32100_3650_68_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 42.93185060063122 Voxel
+
+5950_32100_3650_69_ins_0_2:
+omit_ratio: 0.02857142857142857
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9714285714285714
+expected run length: 46.36727272411379 Voxel
+
+5950_32100_3650_7_ins_0_2:
+omit_ratio: 0.010638297872340425
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9893617021276596
+expected run length: 44.636690356482745 Voxel
+
+5950_32100_3650_70_ins_0_2:
+omit_ratio: 0.030612244897959183
+split_ratio: 0.01020408163265306
+merged_ratio: 0.04081632653061224
+correct_ratio: 0.9183673469387755
+expected run length: 0.0 Voxel
+
+5950_32100_3650_8_ins_0_1:
+omit_ratio: 0.030303030303030304
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9696969696969697
+expected run length: 64.38095411331207 Voxel
+
+5950_32100_3650_9_ins_0_1:
+omit_ratio: 0.022222222222222223
+split_ratio: 0.0
+merged_ratio: 0.022222222222222223
+correct_ratio: 0.9555555555555556
+expected run length: 0.0 Voxel
+
+5950_32850_4150_1_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 54.009003328170294 Voxel
+
+5950_32850_4150_10_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.037037037037037035
+correct_ratio: 0.9629629629629629
+expected run length: 0.0 Voxel
+
+5950_32850_4150_11_ins_0_1:
+omit_ratio: 0.046153846153846156
+split_ratio: 0.0
+merged_ratio: 0.015384615384615385
+correct_ratio: 0.9384615384615385
+expected run length: 0.0 Voxel
+
+5950_32850_4150_12_ins_0_1:
+omit_ratio: 0.019230769230769232
+split_ratio: 0.0
+merged_ratio: 0.038461538461538464
+correct_ratio: 0.9423076923076923
+expected run length: 0.0 Voxel
+
+5950_32850_4150_13_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 86.4796947123095 Voxel
+
+5950_32850_4150_14_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 46.46317219416934 Voxel
+
+5950_32850_4150_15_ins_0_1:
+omit_ratio: 0.05555555555555555
+split_ratio: 0.0
+merged_ratio: 0.011111111111111112
+correct_ratio: 0.9333333333333333
+expected run length: 71.79946636893385 Voxel
+
+5950_32850_4150_16_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 90.74764390474061 Voxel
+
+5950_32850_4150_17_ins_0_1:
+omit_ratio: 0.012345679012345678
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9876543209876543
+expected run length: 100.86598208419524 Voxel
+
+5950_32850_4150_18_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.02564102564102564
+correct_ratio: 0.9743589743589743
+expected run length: 0.0 Voxel
+
+5950_32850_4150_19_ins_0_1:
+omit_ratio: 0.047619047619047616
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9523809523809523
+expected run length: 49.66114334803984 Voxel
+
+5950_32850_4150_2_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 78.06135240372535 Voxel
+
+5950_32850_4150_20_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0392156862745098
+correct_ratio: 0.9607843137254902
+expected run length: 0.0 Voxel
+
+5950_32850_4150_21_ins_0_2:
+omit_ratio: 0.02531645569620253
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9746835443037974
+expected run length: 47.28068954708034 Voxel
+
+5950_32850_4150_22_ins_0_1:
+omit_ratio: 0.009259259259259259
+split_ratio: 0.0
+merged_ratio: 0.018518518518518517
+correct_ratio: 0.9722222222222222
+expected run length: 0.0 Voxel
+
+5950_32850_4150_23_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.027777777777777776
+correct_ratio: 0.9722222222222222
+expected run length: 8.094100559240855 Voxel
+
+5950_32850_4150_24_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.046511627906976744
+correct_ratio: 0.9534883720930233
+expected run length: 0.0 Voxel
+
+5950_32850_4150_25_ins_0_3:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 95.65393841805627 Voxel
+
+5950_32850_4150_26_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.057692307692307696
+correct_ratio: 0.9423076923076923
+expected run length: 1.2558232908749227 Voxel
+
+5950_32850_4150_3_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.022222222222222223
+correct_ratio: 0.9777777777777777
+expected run length: 0.0 Voxel
+
+5950_32850_4150_4_ins_0_1:
+omit_ratio: 0.02564102564102564
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9743589743589743
+expected run length: 59.31610977785258 Voxel
+
+5950_32850_4150_5_ins_0_1:
+omit_ratio: 0.007352941176470588
+split_ratio: 0.0
+merged_ratio: 0.022058823529411766
+correct_ratio: 0.9705882352941176
+expected run length: 0.0 Voxel
+
+5950_32850_4150_6_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 131.5459048201049 Voxel
+
+5950_32850_4150_7_ins_0_1:
+omit_ratio: 0.024691358024691357
+split_ratio: 0.0
+merged_ratio: 0.012345679012345678
+correct_ratio: 0.9629629629629629
+expected run length: 7.830051340602203 Voxel
+
+5950_32850_4150_8_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.02857142857142857
+correct_ratio: 0.9714285714285714
+expected run length: 0.0 Voxel
+
+5950_32850_4150_9_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 69.28694207795486 Voxel
+
+5950_33350_3900_1_ins_0_1:
+omit_ratio: 0.024390243902439025
+split_ratio: 0.0
+merged_ratio: 0.016260162601626018
+correct_ratio: 0.959349593495935
+expected run length: 0.0 Voxel
+
+5950_33350_3900_10_ins_0_2:
+omit_ratio: 0.010752688172043012
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.989247311827957
+expected run length: 43.16219905073319 Voxel
+
+5950_33350_3900_11_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 87.25823378429104 Voxel
+
+5950_33350_3900_12_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 96.03944368676551 Voxel
+
+5950_33350_3900_13_ins_0_1:
+omit_ratio: 0.02564102564102564
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9743589743589743
+expected run length: 57.11396251649528 Voxel
+
+5950_33350_3900_14_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 49.14213562373095 Voxel
+
+5950_33350_3900_15_ins_0_1:
+omit_ratio: 0.0136986301369863
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9863013698630136
+expected run length: 92.28929143695838 Voxel
+
+5950_33350_3900_16_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 44.07251654686391 Voxel
+
+5950_33350_3900_17_ins_0_1:
+omit_ratio: 0.03597122302158273
+split_ratio: 0.0
+merged_ratio: 0.02877697841726619
+correct_ratio: 0.935251798561151
+expected run length: 9.003856922695215 Voxel
+
+5950_33350_3900_18_ins_0_2:
+omit_ratio: 0.02127659574468085
+split_ratio: 0.0
+merged_ratio: 0.031914893617021274
+correct_ratio: 0.9468085106382979
+expected run length: 13.06902436432134 Voxel
+
+5950_33350_3900_19_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 70.96157629819604 Voxel
+
+5950_33350_3900_2_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.044444444444444446
+correct_ratio: 0.9555555555555556
+expected run length: 0.0 Voxel
+
+5950_33350_3900_20_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 79.67244734666414 Voxel
+
+5950_33350_3900_21_ins_0_1:
+omit_ratio: 0.03278688524590164
+split_ratio: 0.0
+merged_ratio: 0.03278688524590164
+correct_ratio: 0.9344262295081968
+expected run length: 0.0 Voxel
+
+5950_33350_3900_22_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.025974025974025976
+correct_ratio: 0.974025974025974
+expected run length: 0.0 Voxel
+
+5950_33350_3900_3_ins_0_1:
+omit_ratio: 0.01744186046511628
+split_ratio: 0.0
+merged_ratio: 0.011627906976744186
+correct_ratio: 0.9709302325581395
+expected run length: 7.051486863424031 Voxel
+
+5950_33350_3900_4_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 55.98461933964743 Voxel
+
+5950_33350_3900_5_ins_0_2:
+omit_ratio: 0.04
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.96
+expected run length: 54.55403507385882 Voxel
+
+5950_33350_3900_6_ins_0_1:
+omit_ratio: 0.0392156862745098
+split_ratio: 0.0
+merged_ratio: 0.013071895424836602
+correct_ratio: 0.9477124183006536
+expected run length: 23.381305390881543 Voxel
+
+5950_33350_3900_7_ins_0_1:
+omit_ratio: 0.03305785123966942
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9669421487603306
+expected run length: 29.082418965214405 Voxel
+
+5950_33350_3900_8_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.038461538461538464
+correct_ratio: 0.9615384615384616
+expected run length: 0.0 Voxel
+
+5950_33350_3900_9_ins_0_1:
+omit_ratio: 0.05128205128205128
+split_ratio: 0.01282051282051282
+merged_ratio: 0.019230769230769232
+correct_ratio: 0.9166666666666666
+expected run length: 24.07060493284802 Voxel
+
+5950_33350_4150_1_ins_0_1:
+omit_ratio: 0.06086956521739131
+split_ratio: 0.0
+merged_ratio: 0.017391304347826087
+correct_ratio: 0.9217391304347826
+expected run length: 0.0 Voxel
+
+5950_33350_4150_10_ins_0_1:
+omit_ratio: 0.022988505747126436
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9770114942528736
+expected run length: 36.476773099906566 Voxel
+
+5950_33350_4150_11_ins_0_2:
+omit_ratio: 0.03076923076923077
+split_ratio: 0.0
+merged_ratio: 0.015384615384615385
+correct_ratio: 0.9538461538461539
+expected run length: 6.198294999514311 Voxel
+
+5950_33350_4150_12_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 79.60210849265768 Voxel
+
+5950_33350_4150_13_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 42.10500928202937 Voxel
+
+5950_33350_4150_14_ins_0_1:
+omit_ratio: 0.017543859649122806
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9824561403508771
+expected run length: 69.73287893011069 Voxel
+
+5950_33350_4150_15_ins_0_1:
+omit_ratio: 0.06818181818181818
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9318181818181818
+expected run length: 51.62704726115274 Voxel
+
+5950_33350_4150_16_ins_0_2:
+omit_ratio: 0.04
+split_ratio: 0.0
+merged_ratio: 0.02666666666666667
+correct_ratio: 0.9333333333333333
+expected run length: 0.0 Voxel
+
+5950_33350_4150_17_ins_0_1:
+omit_ratio: 0.04081632653061224
+split_ratio: 0.0
+merged_ratio: 0.02040816326530612
+correct_ratio: 0.9387755102040817
+expected run length: 17.34926944637234 Voxel
+
+5950_33350_4150_18_ins_0_1:
+omit_ratio: 0.08045977011494253
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9195402298850575
+expected run length: 24.27475098539887 Voxel
+
+5950_33350_4150_19_ins_0_1:
+omit_ratio: 0.056818181818181816
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9431818181818182
+expected run length: 24.04857198628912 Voxel
+
+5950_33350_4150_2_ins_0_1:
+omit_ratio: 0.021739130434782608
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9782608695652174
+expected run length: 26.171752199702503 Voxel
+
+5950_33350_4150_20_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 61.091518613107255 Voxel
+
+5950_33350_4150_21_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.037037037037037035
+correct_ratio: 0.9629629629629629
+expected run length: 0.0 Voxel
+
+5950_33350_4150_22_ins_0_1:
+omit_ratio: 0.04938271604938271
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9506172839506173
+expected run length: 27.623951057664875 Voxel
+
+5950_33350_4150_23_ins_0_1:
+omit_ratio: 0.06363636363636363
+split_ratio: 0.0
+merged_ratio: 0.01818181818181818
+correct_ratio: 0.9181818181818182
+expected run length: 0.0 Voxel
+
+5950_33350_4150_24_ins_0_1:
+omit_ratio: 0.056818181818181816
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9431818181818182
+expected run length: 24.04857198628912 Voxel
+
+5950_33350_4150_25_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.037037037037037035
+correct_ratio: 0.9629629629629629
+expected run length: 0.0 Voxel
+
+5950_33350_4150_3_ins_0_1:
+omit_ratio: 0.018633540372670808
+split_ratio: 0.0
+merged_ratio: 0.012422360248447204
+correct_ratio: 0.968944099378882
+expected run length: 8.544358834159775 Voxel
+
+5950_33350_4150_4_ins_0_2:
+omit_ratio: 0.018867924528301886
+split_ratio: 0.0
+merged_ratio: 0.018867924528301886
+correct_ratio: 0.9622641509433962
+expected run length: 12.190004300108274 Voxel
+
+5950_33350_4150_5_ins_0_2:
+omit_ratio: 0.02127659574468085
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9787234042553191
+expected run length: 29.071290739755018 Voxel
+
+5950_33350_4150_6_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 90.40862690044403 Voxel
+
+5950_33350_4150_7_ins_0_2:
+omit_ratio: 0.0425531914893617
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9574468085106383
+expected run length: 26.97635498276749 Voxel
+
+5950_33350_4150_8_ins_0_2:
+omit_ratio: 0.05504587155963303
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.944954128440367
+expected run length: 31.374613358392956 Voxel
+
+5950_33350_4150_9_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.011111111111111112
+merged_ratio: 0.03333333333333333
+correct_ratio: 0.9555555555555556
+expected run length: 16.185652959355668 Voxel
+
+5950_34100_4400_1_ins_0_1:
+omit_ratio: 0.05263157894736842
+split_ratio: 0.0
+merged_ratio: 0.02631578947368421
+correct_ratio: 0.9210526315789473
+expected run length: 2.1602847203043845 Voxel
+
+5950_34100_4400_10_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 83.04090160248359 Voxel
+
+5950_34100_4400_11_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 61.534440469144194 Voxel
+
+5950_34100_4400_11_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.029411764705882353
+correct_ratio: 0.9705882352941176
+expected run length: 0.0 Voxel
+
+5950_34100_4400_12_ins_0_2:
+omit_ratio: 0.057971014492753624
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9420289855072463
+expected run length: 78.26235093408741 Voxel
+
+5950_34100_4400_13_ins_0_2:
+omit_ratio: 0.041666666666666664
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9583333333333334
+expected run length: 26.837051240254425 Voxel
+
+5950_34100_4400_14_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 67.0620813615844 Voxel
+
+5950_34100_4400_15_ins_0_2:
+omit_ratio: 0.02857142857142857
+split_ratio: 0.0
+merged_ratio: 0.02857142857142857
+correct_ratio: 0.9428571428571428
+expected run length: 0.0 Voxel
+
+5950_34100_4400_2_ins_0_2:
+omit_ratio: 0.02857142857142857
+split_ratio: 0.0
+merged_ratio: 0.02857142857142857
+correct_ratio: 0.9428571428571428
+expected run length: 0.0 Voxel
+
+5950_34100_4400_3_ins_0_1:
+omit_ratio: 0.07964601769911504
+split_ratio: 0.0
+merged_ratio: 0.017699115044247787
+correct_ratio: 0.9026548672566371
+expected run length: 19.157029262873454 Voxel
+
+5950_34100_4400_4_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.037037037037037035
+correct_ratio: 0.9629629629629629
+expected run length: 0.9346411675273794 Voxel
+
+5950_34100_4400_5_ins_0_3:
+omit_ratio: 0.040983606557377046
+split_ratio: 0.0
+merged_ratio: 0.02459016393442623
+correct_ratio: 0.9344262295081968
+expected run length: 27.903955335059763 Voxel
+
+5950_34100_4400_6_ins_0_2:
+omit_ratio: 0.041666666666666664
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9583333333333334
+expected run length: 26.837051240254425 Voxel
+
+5950_34100_4400_7_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.024793388429752067
+correct_ratio: 0.9752066115702479
+expected run length: 0.0 Voxel
+
+5950_34100_4400_8_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 71.62255929389947 Voxel
+
+5950_34100_4400_9_ins_0_1:
+omit_ratio: 0.06153846153846154
+split_ratio: 0.0
+merged_ratio: 0.03076923076923077
+correct_ratio: 0.9076923076923077
+expected run length: 0.0 Voxel
+
+5950_35100_3900_1_ins_0_2:
+omit_ratio: 0.05027932960893855
+split_ratio: 0.0
+merged_ratio: 0.01675977653631285
+correct_ratio: 0.9329608938547486
+expected run length: 11.418523101766375 Voxel
+
+5950_35100_3900_10_ins_0_5:
+omit_ratio: 0.02127659574468085
+split_ratio: 0.0
+merged_ratio: 0.02127659574468085
+correct_ratio: 0.9574468085106383
+expected run length: 14.814171758834071 Voxel
+
+5950_35100_3900_11_ins_0_1:
+omit_ratio: 0.031914893617021274
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9680851063829787
+expected run length: 27.336261355918325 Voxel
+
+5950_35100_3900_12_ins_0_3:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 85.41275564665503 Voxel
+
+5950_35100_3900_13_ins_0_5:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.028169014084507043
+correct_ratio: 0.971830985915493
+expected run length: 0.0 Voxel
+
+5950_35100_3900_14_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0410958904109589
+correct_ratio: 0.958904109589041
+expected run length: 0.0 Voxel
+
+5950_35100_3900_15_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.029411764705882353
+correct_ratio: 0.9705882352941176
+expected run length: 0.0 Voxel
+
+5950_35100_3900_16_ins_0_2:
+omit_ratio: 0.02857142857142857
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9714285714285714
+expected run length: 42.49459958129636 Voxel
+
+5950_35100_3900_17_ins_0_5:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 81.84474917977694 Voxel
+
+5950_35100_3900_18_ins_0_3:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 65.69848480983497 Voxel
+
+5950_35100_3900_19_ins_0_1:
+omit_ratio: 0.04597701149425287
+split_ratio: 0.0
+merged_ratio: 0.022988505747126436
+correct_ratio: 0.9310344827586207
+expected run length: 8.916637444657589 Voxel
+
+5950_35100_3900_2_ins_0_2:
+omit_ratio: 0.02962962962962963
+split_ratio: 0.0
+merged_ratio: 0.022222222222222223
+correct_ratio: 0.9481481481481482
+expected run length: 8.935416692447198 Voxel
+
+5950_35100_3900_20_ins_0_3:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 98.57121332541672 Voxel
+
+5950_35100_3900_21_ins_0_2:
+omit_ratio: 0.02247191011235955
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9775280898876404
+expected run length: 26.904116457719812 Voxel
+
+5950_35100_3900_22_ins_0_4:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.020833333333333332
+correct_ratio: 0.9791666666666666
+expected run length: 0.0 Voxel
+
+5950_35100_3900_23_ins_0_1:
+omit_ratio: 0.010752688172043012
+split_ratio: 0.0
+merged_ratio: 0.03225806451612903
+correct_ratio: 0.956989247311828
+expected run length: 4.081617776817048 Voxel
+
+5950_35100_3900_24_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 88.94039653909523 Voxel
+
+5950_35100_3900_25_ins_0_2:
+omit_ratio: 0.01694915254237288
+split_ratio: 0.0
+merged_ratio: 0.03389830508474576
+correct_ratio: 0.9491525423728814
+expected run length: 0.0 Voxel
+
+5950_35100_3900_26_ins_0_2:
+omit_ratio: 0.023255813953488372
+split_ratio: 0.03488372093023256
+merged_ratio: 0.0
+correct_ratio: 0.9418604651162791
+expected run length: 23.774830956182466 Voxel
+
+5950_35100_3900_27_ins_0_1:
+omit_ratio: 0.14634146341463414
+split_ratio: 0.0
+merged_ratio: 0.04878048780487805
+correct_ratio: 0.8048780487804879
+expected run length: 0.0 Voxel
+
+5950_35100_3900_28_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 85.67244734666409 Voxel
+
+5950_35100_3900_29_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.011904761904761904
+merged_ratio: 0.023809523809523808
+correct_ratio: 0.9642857142857143
+expected run length: 18.370644773767694 Voxel
+
+5950_35100_3900_3_ins_0_1:
+omit_ratio: 0.011627906976744186
+split_ratio: 0.0
+merged_ratio: 0.023255813953488372
+correct_ratio: 0.9651162790697675
+expected run length: 0.0 Voxel
+
+5950_35100_3900_30_ins_0_3:
+omit_ratio: 0.011627906976744186
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9883720930232558
+expected run length: 42.8598307410755 Voxel
+
+5950_35100_3900_31_ins_0_1:
+omit_ratio: 0.011627906976744186
+split_ratio: 0.0
+merged_ratio: 0.023255813953488372
+correct_ratio: 0.9651162790697675
+expected run length: 0.0 Voxel
+
+5950_35100_3900_32_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.029411764705882353
+correct_ratio: 0.9705882352941176
+expected run length: 0.0 Voxel
+
+5950_35100_3900_4_ins_0_2:
+omit_ratio: 0.011235955056179775
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9887640449438202
+expected run length: 39.3744438617083 Voxel
+
+5950_35100_3900_5_ins_0_1:
+omit_ratio: 0.047058823529411764
+split_ratio: 0.0
+merged_ratio: 0.011764705882352941
+correct_ratio: 0.9411764705882353
+expected run length: 12.576988077698703 Voxel
+
+5950_35100_3900_6_ins_0_3:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.021052631578947368
+correct_ratio: 0.9789473684210527
+expected run length: 8.856611191176283 Voxel
+
+5950_35100_3900_7_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.016129032258064516
+correct_ratio: 0.9838709677419355
+expected run length: 0.0 Voxel
+
+5950_35100_3900_8_ins_0_3:
+omit_ratio: 0.011627906976744186
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9883720930232558
+expected run length: 42.8598307410755 Voxel
+
+5950_35100_3900_9_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.036036036036036036
+correct_ratio: 0.963963963963964
+expected run length: 0.0 Voxel
+
+5950_35100_4150_1_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.022222222222222223
+correct_ratio: 0.9777777777777777
+expected run length: 0.0 Voxel
+
+5950_35100_4150_1_ins_0_3:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 88.33755908857857 Voxel
+
+5950_35100_4150_10_ins_0_1:
+omit_ratio: 0.056
+split_ratio: 0.0
+merged_ratio: 0.016
+correct_ratio: 0.928
+expected run length: 8.303434700807221 Voxel
+
+5950_35100_4150_11_ins_0_4:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.019417475728155338
+correct_ratio: 0.9805825242718447
+expected run length: 0.0 Voxel
+
+5950_35100_4150_12_ins_0_3:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 77.16258642497272 Voxel
+
+5950_35100_4150_13_ins_0_4:
+omit_ratio: 0.04081632653061224
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9591836734693877
+expected run length: 28.307530583801512 Voxel
+
+5950_35100_4150_14_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 87.55076252417494 Voxel
+
+5950_35100_4150_14_ins_0_2:
+omit_ratio: 0.058823529411764705
+split_ratio: 0.0
+merged_ratio: 0.03529411764705882
+correct_ratio: 0.9058823529411765
+expected run length: 13.145201884773899 Voxel
+
+5950_35100_4150_15_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.04054054054054054
+correct_ratio: 0.9594594594594594
+expected run length: 1.2935337788836265 Voxel
+
+5950_35100_4150_16_ins_0_1:
+omit_ratio: 0.06578947368421052
+split_ratio: 0.0
+merged_ratio: 0.02631578947368421
+correct_ratio: 0.9078947368421053
+expected run length: 0.9648281444899257 Voxel
+
+5950_35100_4150_17_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.03636363636363636
+correct_ratio: 0.9636363636363636
+expected run length: 0.0 Voxel
+
+5950_35100_4150_18_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.02702702702702703
+merged_ratio: 0.0
+correct_ratio: 0.972972972972973
+expected run length: 29.322562736684603 Voxel
+
+5950_35100_4150_19_ins_0_4:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.023809523809523808
+correct_ratio: 0.9761904761904762
+expected run length: 0.0 Voxel
+
+5950_35100_4150_2_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 129.91970073691027 Voxel
+
+5950_35100_4150_20_ins_0_1:
+omit_ratio: 0.021739130434782608
+split_ratio: 0.0
+merged_ratio: 0.021739130434782608
+correct_ratio: 0.9565217391304348
+expected run length: 0.0 Voxel
+
+5950_35100_4150_21_ins_0_1:
+omit_ratio: 0.04938271604938271
+split_ratio: 0.0
+merged_ratio: 0.024691358024691357
+correct_ratio: 0.9259259259259259
+expected run length: 13.068117070745977 Voxel
+
+5950_35100_4150_22_ins_0_5:
+omit_ratio: 0.0410958904109589
+split_ratio: 0.0
+merged_ratio: 0.0136986301369863
+correct_ratio: 0.9452054794520548
+expected run length: 13.457011318658635 Voxel
+
+5950_35100_4150_23_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 71.04430139083559 Voxel
+
+5950_35100_4150_24_ins_0_2:
+omit_ratio: 0.07017543859649122
+split_ratio: 0.0
+merged_ratio: 0.017543859649122806
+correct_ratio: 0.9122807017543859
+expected run length: 17.578197809523715 Voxel
+
+5950_35100_4150_25_ins_0_2:
+omit_ratio: 0.06930693069306931
+split_ratio: 0.0
+merged_ratio: 0.0297029702970297
+correct_ratio: 0.900990099009901
+expected run length: 31.341620746363667 Voxel
+
+5950_35100_4150_26_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 47.34394573873751 Voxel
+
+5950_35100_4150_27_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 93.08593195117817 Voxel
+
+5950_35100_4150_28_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.03225806451612903
+correct_ratio: 0.967741935483871
+expected run length: 0.0 Voxel
+
+5950_35100_4150_29_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 95.8931793168235 Voxel
+
+5950_35100_4150_3_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.022988505747126436
+correct_ratio: 0.9770114942528736
+expected run length: 0.0 Voxel
+
+5950_35100_4150_30_ins_0_3:
+omit_ratio: 0.11702127659574468
+split_ratio: 0.0
+merged_ratio: 0.031914893617021274
+correct_ratio: 0.851063829787234
+expected run length: 10.957375260591409 Voxel
+
+5950_35100_4150_31_ins_0_1:
+omit_ratio: 0.02247191011235955
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9775280898876404
+expected run length: 27.101303028402924 Voxel
+
+5950_35100_4150_32_ins_0_3:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 85.50913196383235 Voxel
+
+5950_35100_4150_33_ins_0_5:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.02857142857142857
+correct_ratio: 0.9714285714285714
+expected run length: 0.0 Voxel
+
+5950_35100_4150_34_ins_0_2:
+omit_ratio: 0.0707070707070707
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9292929292929293
+expected run length: 87.65854833798913 Voxel
+
+5950_35100_4150_35_ins_0_1:
+omit_ratio: 0.05263157894736842
+split_ratio: 0.0
+merged_ratio: 0.02631578947368421
+correct_ratio: 0.9210526315789473
+expected run length: 1.069387042488086 Voxel
+
+5950_35100_4150_36_ins_0_1:
+omit_ratio: 0.04597701149425287
+split_ratio: 0.0
+merged_ratio: 0.011494252873563218
+correct_ratio: 0.9425287356321839
+expected run length: 14.68875792263925 Voxel
+
+5950_35100_4150_4_ins_0_2:
+omit_ratio: 0.06756756756756757
+split_ratio: 0.0
+merged_ratio: 0.02702702702702703
+correct_ratio: 0.9054054054054054
+expected run length: 1.2111794633708874 Voxel
+
+5950_35100_4150_5_ins_0_3:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 83.18303722621452 Voxel
+
+5950_35100_4150_6_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 78.23778298304923 Voxel
+
+5950_35100_4150_7_ins_0_2:
+omit_ratio: 0.011627906976744186
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9883720930232558
+expected run length: 103.92040118109051 Voxel
+
+5950_35100_4150_8_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0410958904109589
+correct_ratio: 0.958904109589041
+expected run length: 0.0 Voxel
+
+5950_35100_4150_9_ins_0_1:
+omit_ratio: 0.14655172413793102
+split_ratio: 0.0
+merged_ratio: 0.017241379310344827
+correct_ratio: 0.8362068965517241
+expected run length: 3.810633997483747 Voxel
+
+6200_32100_3650_1_ins_0_2:
+omit_ratio: 0.09251101321585903
+split_ratio: 0.004405286343612335
+merged_ratio: 0.013215859030837005
+correct_ratio: 0.8898678414096917
+expected run length: 24.518008809271272 Voxel
+
+6200_32100_3650_10_ins_0_1:
+omit_ratio: 0.020618556701030927
+split_ratio: 0.0
+merged_ratio: 0.041237113402061855
+correct_ratio: 0.9381443298969072
+expected run length: 0.0 Voxel
+
+6200_32100_3650_11_ins_0_1:
+omit_ratio: 0.01282051282051282
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9871794871794872
+expected run length: 94.70736847370958 Voxel
+
+6200_32100_3650_12_ins_0_1:
+omit_ratio: 0.02247191011235955
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9775280898876404
+expected run length: 24.352408100178117 Voxel
+
+6200_32100_3650_13_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0297029702970297
+correct_ratio: 0.9702970297029703
+expected run length: 0.0 Voxel
+
+6200_32100_3650_14_ins_0_3:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.028169014084507043
+correct_ratio: 0.971830985915493
+expected run length: 0.0 Voxel
+
+6200_32100_3650_15_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.05
+correct_ratio: 0.95
+expected run length: 0.0 Voxel
+
+6200_32100_3650_16_ins_0_2:
+omit_ratio: 0.11764705882352941
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.8823529411764706
+expected run length: 16.584137788486597 Voxel
+
+6200_32100_3650_17_ins_0_1:
+omit_ratio: 0.09433962264150944
+split_ratio: 0.0
+merged_ratio: 0.018867924528301886
+correct_ratio: 0.8867924528301887
+expected run length: 13.88643490715473 Voxel
+
+6200_32100_3650_18_ins_0_1:
+omit_ratio: 0.11612903225806452
+split_ratio: 0.0064516129032258064
+merged_ratio: 0.0064516129032258064
+correct_ratio: 0.8709677419354839
+expected run length: 16.719614299084377 Voxel
+
+6200_32100_3650_19_ins_0_4:
+omit_ratio: 0.045454545454545456
+split_ratio: 0.0
+merged_ratio: 0.022727272727272728
+correct_ratio: 0.9318181818181818
+expected run length: 13.612035151459347 Voxel
+
+6200_32100_3650_2_ins_0_1:
+omit_ratio: 0.023809523809523808
+split_ratio: 0.011904761904761904
+merged_ratio: 0.0
+correct_ratio: 0.9642857142857143
+expected run length: 58.37802661572439 Voxel
+
+6200_32100_3650_20_ins_0_5:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.023255813953488372
+correct_ratio: 0.9767441860465116
+expected run length: 74.7217133710381 Voxel
+
+6200_32100_3650_21_ins_0_1:
+omit_ratio: 0.07142857142857142
+split_ratio: 0.0
+merged_ratio: 0.05357142857142857
+correct_ratio: 0.875
+expected run length: 0.0 Voxel
+
+6200_32100_3650_22_ins_0_3:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.021052631578947368
+correct_ratio: 0.9789473684210527
+expected run length: 0.0 Voxel
+
+6200_32100_3650_23_ins_0_2:
+omit_ratio: 0.056818181818181816
+split_ratio: 0.0
+merged_ratio: 0.022727272727272728
+correct_ratio: 0.9204545454545454
+expected run length: 18.326715249681722 Voxel
+
+6200_32100_3650_24_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.020833333333333332
+correct_ratio: 0.9791666666666666
+expected run length: 0.0 Voxel
+
+6200_32100_3650_25_ins_0_1:
+omit_ratio: 0.03260869565217391
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.967391304347826
+expected run length: 25.199484708073264 Voxel
+
+6200_32100_3650_26_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 112.06669406471133 Voxel
+
+6200_32100_3650_27_ins_0_3:
+omit_ratio: 0.05263157894736842
+split_ratio: 0.0
+merged_ratio: 0.03508771929824561
+correct_ratio: 0.9122807017543859
+expected run length: 15.484547068499214 Voxel
+
+6200_32100_3650_28_ins_0_1:
+omit_ratio: 0.06282722513089005
+split_ratio: 0.0
+merged_ratio: 0.02617801047120419
+correct_ratio: 0.9109947643979057
+expected run length: 8.834138850354542 Voxel
+
+6200_32100_3650_29_ins_0_1:
+omit_ratio: 0.02
+split_ratio: 0.0
+merged_ratio: 0.04
+correct_ratio: 0.94
+expected run length: 0.0 Voxel
+
+6200_32100_3650_3_ins_0_1:
+omit_ratio: 0.13756613756613756
+split_ratio: 0.0
+merged_ratio: 0.021164021164021163
+correct_ratio: 0.8412698412698413
+expected run length: 19.8579960176271 Voxel
+
+6200_32100_3650_30_ins_0_1:
+omit_ratio: 0.072992700729927
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.927007299270073
+expected run length: 40.645843003186776 Voxel
+
+6200_32100_3650_31_ins_0_1:
+omit_ratio: 0.018518518518518517
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9814814814814815
+expected run length: 74.60457926013576 Voxel
+
+6200_32100_3650_32_ins_0_5:
+omit_ratio: 0.02702702702702703
+split_ratio: 0.0
+merged_ratio: 0.02702702702702703
+correct_ratio: 0.9459459459459459
+expected run length: 0.0 Voxel
+
+6200_32100_3650_33_ins_0_2:
+omit_ratio: 0.1013215859030837
+split_ratio: 0.0
+merged_ratio: 0.013215859030837005
+correct_ratio: 0.8854625550660793
+expected run length: 22.702252285759748 Voxel
+
+6200_32100_3650_34_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.021052631578947368
+correct_ratio: 0.9789473684210527
+expected run length: 0.0 Voxel
+
+6200_32100_3650_35_ins_0_1:
+omit_ratio: 0.08029197080291971
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9197080291970803
+expected run length: 28.51101735231375 Voxel
+
+6200_32100_3650_36_ins_0_4:
+omit_ratio: 0.04054054054054054
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9594594594594594
+expected run length: 27.70419969154394 Voxel
+
+6200_32100_3650_37_ins_0_2:
+omit_ratio: 0.1004566210045662
+split_ratio: 0.0
+merged_ratio: 0.0136986301369863
+correct_ratio: 0.8858447488584474
+expected run length: 17.238981212634172 Voxel
+
+6200_32100_3650_38_ins_0_3:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.028169014084507043
+correct_ratio: 0.971830985915493
+expected run length: 0.0 Voxel
+
+6200_32100_3650_4_ins_0_1:
+omit_ratio: 0.10964912280701754
+split_ratio: 0.0
+merged_ratio: 0.013157894736842105
+correct_ratio: 0.8771929824561403
+expected run length: 6.169340615358822 Voxel
+
+6200_32100_3650_5_ins_0_1:
+omit_ratio: 0.07042253521126761
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9295774647887324
+expected run length: 22.74063448597641 Voxel
+
+6200_32100_3650_6_ins_0_2:
+omit_ratio: 0.0996309963099631
+split_ratio: 0.0036900369003690036
+merged_ratio: 0.007380073800738007
+correct_ratio: 0.8892988929889298
+expected run length: 19.575573796717908 Voxel
+
+6200_32100_3650_7_ins_0_1:
+omit_ratio: 0.13145539906103287
+split_ratio: 0.0
+merged_ratio: 0.014084507042253521
+correct_ratio: 0.8544600938967136
+expected run length: 17.67754691602439 Voxel
+
+6200_32100_3650_8_ins_0_2:
+omit_ratio: 0.028169014084507043
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.971830985915493
+expected run length: 39.435739297375214 Voxel
+
+6200_32100_3650_9_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.020202020202020204
+correct_ratio: 0.9797979797979798
+expected run length: 0.0 Voxel
+
+6200_32350_3400_1_ins_0_1:
+omit_ratio: 0.024691358024691357
+split_ratio: 0.0
+merged_ratio: 0.024691358024691357
+correct_ratio: 0.9506172839506173
+expected run length: 0.0 Voxel
+
+6200_32350_3400_10_ins_0_2:
+omit_ratio: 0.02564102564102564
+split_ratio: 0.00641025641025641
+merged_ratio: 0.03205128205128205
+correct_ratio: 0.9358974358974359
+expected run length: 12.759741163520472 Voxel
+
+6200_32350_3400_11_ins_0_1:
+omit_ratio: 0.08227848101265822
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9177215189873418
+expected run length: 32.14258988494411 Voxel
+
+6200_32350_3400_12_ins_0_1:
+omit_ratio: 0.022222222222222223
+split_ratio: 0.0
+merged_ratio: 0.044444444444444446
+correct_ratio: 0.9333333333333333
+expected run length: 0.0 Voxel
+
+6200_32350_3400_13_ins_0_1:
+omit_ratio: 0.08
+split_ratio: 0.0
+merged_ratio: 0.02
+correct_ratio: 0.9
+expected run length: 18.91983813465868 Voxel
+
+6200_32350_3400_14_ins_0_2:
+omit_ratio: 0.021505376344086023
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.978494623655914
+expected run length: 71.1267089568711 Voxel
+
+6200_32350_3400_15_ins_0_2:
+omit_ratio: 0.013157894736842105
+split_ratio: 0.0
+merged_ratio: 0.02631578947368421
+correct_ratio: 0.9605263157894737
+expected run length: 0.0 Voxel
+
+6200_32350_3400_16_ins_0_1:
+omit_ratio: 0.037037037037037035
+split_ratio: 0.0
+merged_ratio: 0.024691358024691357
+correct_ratio: 0.9382716049382716
+expected run length: 0.0 Voxel
+
+6200_32350_3400_17_ins_0_1:
+omit_ratio: 0.03409090909090909
+split_ratio: 0.0
+merged_ratio: 0.03409090909090909
+correct_ratio: 0.9318181818181818
+expected run length: 12.272971925340148 Voxel
+
+6200_32350_3400_18_ins_0_3:
+omit_ratio: 0.0
+split_ratio: 0.014285714285714285
+merged_ratio: 0.02857142857142857
+correct_ratio: 0.9571428571428572
+expected run length: 19.269227417864354 Voxel
+
+6200_32350_3400_19_ins_0_2:
+omit_ratio: 0.04195804195804196
+split_ratio: 0.0
+merged_ratio: 0.013986013986013986
+correct_ratio: 0.9440559440559441
+expected run length: 6.92624368090771 Voxel
+
+6200_32350_3400_2_ins_0_2:
+omit_ratio: 0.023255813953488372
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9767441860465116
+expected run length: 80.49832083101111 Voxel
+
+6200_32350_3400_20_ins_0_1:
+omit_ratio: 0.08
+split_ratio: 0.0
+merged_ratio: 0.02
+correct_ratio: 0.9
+expected run length: 18.17119037144819 Voxel
+
+6200_32350_3400_21_ins_0_1:
+omit_ratio: 0.02197802197802198
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.978021978021978
+expected run length: 28.166586173414238 Voxel
+
+6200_32350_3400_3_ins_0_3:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 94.78514571887216 Voxel
+
+6200_32350_3400_4_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.020833333333333332
+correct_ratio: 0.9791666666666666
+expected run length: 0.0 Voxel
+
+6200_32350_3400_5_ins_0_2:
+omit_ratio: 0.05333333333333334
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9466666666666667
+expected run length: 28.385653687591326 Voxel
+
+6200_32350_3400_6_ins_0_1:
+omit_ratio: 0.031746031746031744
+split_ratio: 0.0
+merged_ratio: 0.010582010582010581
+correct_ratio: 0.9576719576719577
+expected run length: 6.734648640600329 Voxel
+
+6200_32350_3400_7_ins_0_2:
+omit_ratio: 0.192
+split_ratio: 0.008
+merged_ratio: 0.016
+correct_ratio: 0.784
+expected run length: 2.3006776947596808 Voxel
+
+6200_32350_3400_8_ins_0_2:
+omit_ratio: 0.03333333333333333
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9666666666666667
+expected run length: 25.854622107602808 Voxel
+
+6200_32350_3400_9_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.02127659574468085
+correct_ratio: 0.9787234042553191
+expected run length: 0.0 Voxel
+
+6200_32350_3650_1_ins_0_2:
+omit_ratio: 0.0297029702970297
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9702970297029703
+expected run length: 48.8215757326378 Voxel
+
+6200_32350_3650_10_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.038461538461538464
+correct_ratio: 0.9615384615384616
+expected run length: 0.0 Voxel
+
+6200_32350_3650_11_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.03773584905660377
+correct_ratio: 0.9622641509433962
+expected run length: 0.0 Voxel
+
+6200_32350_3650_12_ins_0_1:
+omit_ratio: 0.04411764705882353
+split_ratio: 0.0
+merged_ratio: 0.022058823529411766
+correct_ratio: 0.9338235294117647
+expected run length: 2.208195396375937 Voxel
+
+6200_32350_3650_13_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 92.21101656201934 Voxel
+
+6200_32350_3650_14_ins_0_2:
+omit_ratio: 0.072
+split_ratio: 0.0
+merged_ratio: 0.016
+correct_ratio: 0.912
+expected run length: 19.690025153479304 Voxel
+
+6200_32350_3650_15_ins_0_3:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.03508771929824561
+correct_ratio: 0.9649122807017544
+expected run length: 0.0 Voxel
+
+6200_32350_3650_16_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 53.1372779196609 Voxel
+
+6200_32350_3650_17_ins_0_3:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 87.47969471230948 Voxel
+
+6200_32350_3650_18_ins_0_1:
+omit_ratio: 0.08737864077669903
+split_ratio: 0.0
+merged_ratio: 0.014563106796116505
+correct_ratio: 0.8980582524271845
+expected run length: 8.633580956955853 Voxel
+
+6200_32350_3650_19_ins_0_4:
+omit_ratio: 0.03571428571428571
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9642857142857143
+expected run length: 24.71877275616449 Voxel
+
+6200_32350_3650_2_ins_0_1:
+omit_ratio: 0.18181818181818182
+split_ratio: 0.0
+merged_ratio: 0.01818181818181818
+correct_ratio: 0.8
+expected run length: 8.062402645248707 Voxel
+
+6200_32350_3650_20_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 60.947925073658276 Voxel
+
+6200_32350_3650_21_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.04054054054054054
+correct_ratio: 0.9594594594594594
+expected run length: 0.0 Voxel
+
+6200_32350_3650_22_ins_0_1:
+omit_ratio: 0.07777777777777778
+split_ratio: 0.0
+merged_ratio: 0.011111111111111112
+correct_ratio: 0.9111111111111111
+expected run length: 13.977263409090963 Voxel
+
+6200_32350_3650_23_ins_0_2:
+omit_ratio: 0.06896551724137931
+split_ratio: 0.008620689655172414
+merged_ratio: 0.0
+correct_ratio: 0.9224137931034483
+expected run length: 23.3451148794545 Voxel
+
+6200_32350_3650_24_ins_0_3:
+omit_ratio: 0.0546875
+split_ratio: 0.0
+merged_ratio: 0.0078125
+correct_ratio: 0.9375
+expected run length: 26.423353411418574 Voxel
+
+6200_32350_3650_25_ins_0_3:
+omit_ratio: 0.05263157894736842
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9473684210526315
+expected run length: 25.619490974493296 Voxel
+
+6200_32350_3650_26_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 102.18497909884849 Voxel
+
+6200_32350_3650_27_ins_0_1:
+omit_ratio: 0.05714285714285714
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9428571428571428
+expected run length: 45.88920322808533 Voxel
+
+6200_32350_3650_28_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 82.55149148203397 Voxel
+
+6200_32350_3650_29_ins_0_1:
+omit_ratio: 0.015873015873015872
+split_ratio: 0.0
+merged_ratio: 0.015873015873015872
+correct_ratio: 0.9682539682539683
+expected run length: 18.790194813866158 Voxel
+
+6200_32350_3650_3_ins_0_1:
+omit_ratio: 0.019230769230769232
+split_ratio: 0.0
+merged_ratio: 0.019230769230769232
+correct_ratio: 0.9615384615384616
+expected run length: 0.0 Voxel
+
+6200_32350_3650_30_ins_0_1:
+omit_ratio: 0.03076923076923077
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9692307692307692
+expected run length: 41.77396101773806 Voxel
+
+6200_32350_3650_31_ins_0_1:
+omit_ratio: 0.03296703296703297
+split_ratio: 0.0
+merged_ratio: 0.03296703296703297
+correct_ratio: 0.9340659340659341
+expected run length: 12.556224937533115 Voxel
+
+6200_32350_3650_32_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.024096385542168676
+correct_ratio: 0.9759036144578314
+expected run length: 0.0 Voxel
+
+6200_32350_3650_33_ins_0_3:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 43.114835496022 Voxel
+
+6200_32350_3650_34_ins_0_1:
+omit_ratio: 0.030864197530864196
+split_ratio: 0.006172839506172839
+merged_ratio: 0.0
+correct_ratio: 0.9629629629629629
+expected run length: 79.72870963977084 Voxel
+
+6200_32350_3650_35_ins_0_1:
+omit_ratio: 0.03296703296703297
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.967032967032967
+expected run length: 26.84681477485833 Voxel
+
+6200_32350_3650_36_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.038461538461538464
+correct_ratio: 0.9615384615384616
+expected run length: 0.0 Voxel
+
+6200_32350_3650_37_ins_0_3:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 91.16112850925464 Voxel
+
+6200_32350_3650_38_ins_0_2:
+omit_ratio: 0.02702702702702703
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.972972972972973
+expected run length: 18.680500199822824 Voxel
+
+6200_32350_3650_39_ins_0_1:
+omit_ratio: 0.02857142857142857
+split_ratio: 0.014285714285714285
+merged_ratio: 0.0
+correct_ratio: 0.9571428571428572
+expected run length: 26.745528404409534 Voxel
+
+6200_32350_3650_4_ins_0_2:
+omit_ratio: 0.06944444444444445
+split_ratio: 0.0
+merged_ratio: 0.013888888888888888
+correct_ratio: 0.9166666666666666
+expected run length: 5.418230668805784 Voxel
+
+6200_32350_3650_40_ins_0_3:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.03508771929824561
+correct_ratio: 0.9649122807017544
+expected run length: 0.0 Voxel
+
+6200_32350_3650_5_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.02040816326530612
+correct_ratio: 0.9795918367346939
+expected run length: 0.0 Voxel
+
+6200_32350_3650_6_ins_0_1:
+omit_ratio: 0.015037593984962405
+split_ratio: 0.0
+merged_ratio: 0.022556390977443608
+correct_ratio: 0.9624060150375939
+expected run length: 3.3318972660435744 Voxel
+
+6200_32350_3650_7_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 81.40522711209199 Voxel
+
+6200_32350_3650_8_ins_0_1:
+omit_ratio: 0.09547738693467336
+split_ratio: 0.0
+merged_ratio: 0.010050251256281407
+correct_ratio: 0.8944723618090452
+expected run length: 3.4549179410885174 Voxel
+
+6200_32350_3650_9_ins_0_1:
+omit_ratio: 0.039603960396039604
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9603960396039604
+expected run length: 29.975481224630066 Voxel
+
+6200_33100_4150_1_ins_0_1:
+omit_ratio: 0.018691588785046728
+split_ratio: 0.0
+merged_ratio: 0.037383177570093455
+correct_ratio: 0.9439252336448598
+expected run length: 2.465929784904455 Voxel
+
+6200_33100_4150_10_ins_0_3:
+omit_ratio: 0.06569343065693431
+split_ratio: 0.0
+merged_ratio: 0.014598540145985401
+correct_ratio: 0.9197080291970803
+expected run length: 24.267161548840857 Voxel
+
+6200_33100_4150_11_ins_0_2:
+omit_ratio: 0.07894736842105263
+split_ratio: 0.0
+merged_ratio: 0.013157894736842105
+correct_ratio: 0.9078947368421053
+expected run length: 11.769101668154976 Voxel
+
+6200_33100_4150_12_ins_0_1:
+omit_ratio: 0.015151515151515152
+split_ratio: 0.0
+merged_ratio: 0.030303030303030304
+correct_ratio: 0.9545454545454546
+expected run length: 0.0 Voxel
+
+6200_33100_4150_13_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.030927835051546393
+correct_ratio: 0.9690721649484536
+expected run length: 0.0 Voxel
+
+6200_33100_4150_14_ins_0_1:
+omit_ratio: 0.03333333333333333
+split_ratio: 0.0
+merged_ratio: 0.03333333333333333
+correct_ratio: 0.9333333333333333
+expected run length: 0.0 Voxel
+
+6200_33100_4150_15_ins_0_2:
+omit_ratio: 0.06666666666666667
+split_ratio: 0.0
+merged_ratio: 0.013333333333333334
+correct_ratio: 0.92
+expected run length: 13.347657463001147 Voxel
+
+6200_33100_4150_16_ins_0_1:
+omit_ratio: 0.038461538461538464
+split_ratio: 0.0
+merged_ratio: 0.019230769230769232
+correct_ratio: 0.9423076923076923
+expected run length: 12.781162480030503 Voxel
+
+6200_33100_4150_17_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0392156862745098
+correct_ratio: 0.9607843137254902
+expected run length: 0.0 Voxel
+
+6200_33100_4150_18_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.029850746268656716
+correct_ratio: 0.9701492537313433
+expected run length: 0.0 Voxel
+
+6200_33100_4150_19_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 96.50087447141024 Voxel
+
+6200_33100_4150_2_ins_0_2:
+omit_ratio: 0.11320754716981132
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.8867924528301887
+expected run length: 49.83402908645292 Voxel
+
+6200_33100_4150_20_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0392156862745098
+correct_ratio: 0.9607843137254902
+expected run length: 0.0 Voxel
+
+6200_33100_4150_21_ins_0_1:
+omit_ratio: 0.03333333333333333
+split_ratio: 0.0
+merged_ratio: 0.03333333333333333
+correct_ratio: 0.9333333333333333
+expected run length: 0.0 Voxel
+
+6200_33100_4150_3_ins_0_2:
+omit_ratio: 0.05128205128205128
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9487179487179487
+expected run length: 21.04461026347304 Voxel
+
+6200_33100_4150_4_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 50.03922831251583 Voxel
+
+6200_33100_4150_5_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 66.09078965524823 Voxel
+
+6200_33100_4150_6_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 96.50087447141024 Voxel
+
+6200_33100_4150_7_ins_0_1:
+omit_ratio: 0.01834862385321101
+split_ratio: 0.0
+merged_ratio: 0.027522935779816515
+correct_ratio: 0.9541284403669725
+expected run length: 0.0 Voxel
+
+6200_33100_4150_8_ins_0_2:
+omit_ratio: 0.010869565217391304
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9891304347826086
+expected run length: 42.92379828054611 Voxel
+
+6200_33100_4150_9_ins_0_1:
+omit_ratio: 0.04225352112676056
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9577464788732394
+expected run length: 25.31226344476098 Voxel
+
+6200_34850_3900_1_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 60.13644209638068 Voxel
+
+6200_34850_3900_10_ins_0_1:
+omit_ratio: 0.04938271604938271
+split_ratio: 0.012345679012345678
+merged_ratio: 0.024691358024691357
+correct_ratio: 0.9135802469135802
+expected run length: 14.317110649184839 Voxel
+
+6200_34850_3900_11_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 90.65126758756331 Voxel
+
+6200_34850_3900_12_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.008333333333333333
+merged_ratio: 0.0
+correct_ratio: 0.9916666666666667
+expected run length: 54.48260958505164 Voxel
+
+6200_34850_3900_13_ins_0_1:
+omit_ratio: 0.13095238095238096
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.8690476190476191
+expected run length: 17.730729286643275 Voxel
+
+6200_34850_3900_14_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 88.99028459185988 Voxel
+
+6200_34850_3900_15_ins_0_1:
+omit_ratio: 0.041666666666666664
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9583333333333334
+expected run length: 54.96255513114766 Voxel
+
+6200_34850_3900_16_ins_0_1:
+omit_ratio: 0.12903225806451613
+split_ratio: 0.008064516129032258
+merged_ratio: 0.016129032258064516
+correct_ratio: 0.8467741935483871
+expected run length: 11.031808871578772 Voxel
+
+6200_34850_3900_17_ins_0_4:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 115.50014551355126 Voxel
+
+6200_34850_3900_18_ins_0_1:
+omit_ratio: 0.015625
+split_ratio: 0.0
+merged_ratio: 0.03125
+correct_ratio: 0.953125
+expected run length: 0.0 Voxel
+
+6200_34850_3900_19_ins_0_2:
+omit_ratio: 0.057692307692307696
+split_ratio: 0.0
+merged_ratio: 0.019230769230769232
+correct_ratio: 0.9230769230769231
+expected run length: 6.594458730910866 Voxel
+
+6200_34850_3900_2_ins_0_1:
+omit_ratio: 0.022222222222222223
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9777777777777777
+expected run length: 28.24527475645911 Voxel
+
+6200_34850_3900_2_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.046511627906976744
+correct_ratio: 0.9534883720930233
+expected run length: 0.0 Voxel
+
+6200_34850_3900_20_ins_0_5:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 75.99028459185988 Voxel
+
+6200_34850_3900_20_ins_0_3:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.01818181818181818
+correct_ratio: 0.9818181818181818
+expected run length: 0.0 Voxel
+
+6200_34850_3900_21_ins_0_4:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.018691588785046728
+correct_ratio: 0.9813084112149533
+expected run length: 27.742239489223863 Voxel
+
+6200_34850_3900_22_ins_0_3:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.03076923076923077
+correct_ratio: 0.9692307692307692
+expected run length: 0.0 Voxel
+
+6200_34850_3900_23_ins_0_1:
+omit_ratio: 0.020618556701030927
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.979381443298969
+expected run length: 68.1289584545376 Voxel
+
+6200_34850_3900_23_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 76.67244734666411 Voxel
+
+6200_34850_3900_24_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.02857142857142857
+merged_ratio: 0.0
+correct_ratio: 0.9714285714285714
+expected run length: 24.53920469509069 Voxel
+
+6200_34850_3900_25_ins_0_1:
+omit_ratio: 0.021052631578947368
+split_ratio: 0.0
+merged_ratio: 0.031578947368421054
+correct_ratio: 0.9473684210526315
+expected run length: 10.990055125543106 Voxel
+
+6200_34850_3900_26_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 100.50160342926934 Voxel
+
+6200_34850_3900_27_ins_0_2:
+omit_ratio: 0.0625
+split_ratio: 0.0
+merged_ratio: 0.017857142857142856
+correct_ratio: 0.9196428571428571
+expected run length: 12.294442960762286 Voxel
+
+6200_34850_3900_28_ins_0_4:
+omit_ratio: 0.022222222222222223
+split_ratio: 0.0
+merged_ratio: 0.022222222222222223
+correct_ratio: 0.9555555555555556
+expected run length: 8.307089040801504 Voxel
+
+6200_34850_3900_29_ins_0_4:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.037037037037037035
+correct_ratio: 0.9629629629629629
+expected run length: 0.0 Voxel
+
+6200_34850_3900_3_ins_0_3:
+omit_ratio: 0.03816793893129771
+split_ratio: 0.007633587786259542
+merged_ratio: 0.015267175572519083
+correct_ratio: 0.9389312977099237
+expected run length: 5.425651237792359 Voxel
+
+6200_34850_3900_30_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 94.13654896180186 Voxel
+
+6200_34850_3900_31_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 90.65126758756331 Voxel
+
+6200_34850_3900_32_ins_0_4:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.037037037037037035
+correct_ratio: 0.9629629629629629
+expected run length: 0.0 Voxel
+
+6200_34850_3900_33_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 115.37506090271009 Voxel
+
+6200_34850_3900_34_ins_0_4:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 115.50014551355126 Voxel
+
+6200_34850_3900_35_ins_0_2:
+omit_ratio: 0.019230769230769232
+split_ratio: 0.0
+merged_ratio: 0.028846153846153848
+correct_ratio: 0.9519230769230769
+expected run length: 15.751794478266333 Voxel
+
+6200_34850_3900_36_ins_0_2:
+omit_ratio: 0.0625
+split_ratio: 0.0
+merged_ratio: 0.017857142857142856
+correct_ratio: 0.9196428571428571
+expected run length: 12.294442960762286 Voxel
+
+6200_34850_3900_37_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.05
+correct_ratio: 0.95
+expected run length: 0.0 Voxel
+
+6200_34850_3900_37_ins_0_3:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 44.30629013730337 Voxel
+
+6200_34850_3900_38_ins_0_1:
+omit_ratio: 0.14285714285714285
+split_ratio: 0.0
+merged_ratio: 0.011904761904761904
+correct_ratio: 0.8452380952380952
+expected run length: 1.9878458958946117 Voxel
+
+6200_34850_3900_4_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.021505376344086023
+correct_ratio: 0.978494623655914
+expected run length: 0.0 Voxel
+
+6200_34850_3900_5_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.05128205128205128
+correct_ratio: 0.9487179487179487
+expected run length: 0.0 Voxel
+
+6200_34850_3900_5_ins_0_3:
+omit_ratio: 0.041237113402061855
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9587628865979382
+expected run length: 26.444820930603107 Voxel
+
+6200_34850_3900_6_ins_0_2:
+omit_ratio: 0.013888888888888888
+split_ratio: 0.0
+merged_ratio: 0.027777777777777776
+correct_ratio: 0.9583333333333334
+expected run length: 0.0 Voxel
+
+6200_34850_3900_7_ins_0_1:
+omit_ratio: 0.024193548387096774
+split_ratio: 0.016129032258064516
+merged_ratio: 0.016129032258064516
+correct_ratio: 0.9435483870967742
+expected run length: 11.557643097501153 Voxel
+
+6200_34850_3900_8_ins_0_1:
+omit_ratio: 0.06666666666666667
+split_ratio: 0.016666666666666666
+merged_ratio: 0.0
+correct_ratio: 0.9166666666666666
+expected run length: 53.12365867000426 Voxel
+
+6200_34850_3900_9_ins_0_1:
+omit_ratio: 0.058823529411764705
+split_ratio: 0.0
+merged_ratio: 0.014705882352941176
+correct_ratio: 0.9264705882352942
+expected run length: 0.0 Voxel
+
+6700_33350_4150_1_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.022222222222222223
+correct_ratio: 0.9777777777777777
+expected run length: 0.0 Voxel
+
+6700_33350_4150_10_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 87.52958276507415 Voxel
+
+6700_33350_4150_11_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.04081632653061224
+correct_ratio: 0.9591836734693877
+expected run length: 0.0 Voxel
+
+6700_33350_4150_12_ins_0_3:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.04081632653061224
+correct_ratio: 0.9591836734693877
+expected run length: 0.0 Voxel
+
+6700_33350_4150_13_ins_0_2:
+omit_ratio: 0.10112359550561797
+split_ratio: 0.0
+merged_ratio: 0.02247191011235955
+correct_ratio: 0.8764044943820225
+expected run length: 0.0 Voxel
+
+6700_33350_4150_14_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 41.744715427523765 Voxel
+
+6700_33350_4150_15_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.013888888888888888
+merged_ratio: 0.041666666666666664
+correct_ratio: 0.9444444444444444
+expected run length: 12.627510275527365 Voxel
+
+6700_33350_4150_16_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 92.03604389841348 Voxel
+
+6700_33350_4150_2_ins_0_1:
+omit_ratio: 0.01282051282051282
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9871794871794872
+expected run length: 41.51314593982771 Voxel
+
+6700_33350_4150_3_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 92.03604389841348 Voxel
+
+6700_33350_4150_4_ins_0_3:
+omit_ratio: 0.03333333333333333
+split_ratio: 0.0
+merged_ratio: 0.05
+correct_ratio: 0.9166666666666666
+expected run length: 20.00609665440989 Voxel
+
+6700_33350_4150_5_ins_0_2:
+omit_ratio: 0.036585365853658534
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9634146341463414
+expected run length: 34.12113619568071 Voxel
+
+6700_33350_4150_6_ins_0_1:
+omit_ratio: 0.01904761904761905
+split_ratio: 0.0
+merged_ratio: 0.01904761904761905
+correct_ratio: 0.9619047619047619
+expected run length: 0.0 Voxel
+
+6700_33350_4150_7_ins_0_2:
+omit_ratio: 0.07766990291262135
+split_ratio: 0.0
+merged_ratio: 0.009708737864077669
+correct_ratio: 0.912621359223301
+expected run length: 12.967232797128093 Voxel
+
+6700_33350_4150_8_ins_0_1:
+omit_ratio: 0.07017543859649122
+split_ratio: 0.0
+merged_ratio: 0.03508771929824561
+correct_ratio: 0.8947368421052632
+expected run length: 2.243895808308422 Voxel
+
+6700_33350_4150_9_ins_0_2:
+omit_ratio: 0.10112359550561797
+split_ratio: 0.0
+merged_ratio: 0.011235955056179775
+correct_ratio: 0.8876404494382022
+expected run length: 21.602913574346495 Voxel
+
+6700_34100_3900_1_ins_0_4:
+omit_ratio: 0.02127659574468085
+split_ratio: 0.0
+merged_ratio: 0.02127659574468085
+correct_ratio: 0.9574468085106383
+expected run length: 0.0 Voxel
+
+6700_34100_3900_10_ins_0_3:
+omit_ratio: 0.031007751937984496
+split_ratio: 0.0
+merged_ratio: 0.023255813953488372
+correct_ratio: 0.9457364341085271
+expected run length: 12.004579869524228 Voxel
+
+6700_34100_3900_11_ins_0_2:
+omit_ratio: 0.021505376344086023
+split_ratio: 0.0
+merged_ratio: 0.021505376344086023
+correct_ratio: 0.956989247311828
+expected run length: 17.37919313425318 Voxel
+
+6700_34100_3900_12_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.03508771929824561
+correct_ratio: 0.9649122807017544
+expected run length: 0.0 Voxel
+
+6700_34100_3900_13_ins_0_2:
+omit_ratio: 0.017699115044247787
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9823008849557522
+expected run length: 71.24213357892339 Voxel
+
+6700_34100_3900_14_ins_0_1:
+omit_ratio: 0.019801980198019802
+split_ratio: 0.0
+merged_ratio: 0.019801980198019802
+correct_ratio: 0.9603960396039604
+expected run length: 0.0 Voxel
+
+6700_34100_3900_15_ins_0_1:
+omit_ratio: 0.02830188679245283
+split_ratio: 0.0
+merged_ratio: 0.018867924528301886
+correct_ratio: 0.9528301886792453
+expected run length: 0.0 Voxel
+
+6700_34100_3900_16_ins_0_3:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.04
+correct_ratio: 0.96
+expected run length: 0.0 Voxel
+
+6700_34100_3900_17_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.02857142857142857
+correct_ratio: 0.9714285714285714
+expected run length: 0.0 Voxel
+
+6700_34100_3900_18_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.02666666666666667
+correct_ratio: 0.9733333333333334
+expected run length: 0.0 Voxel
+
+6700_34100_3900_19_ins_0_1:
+omit_ratio: 0.02
+split_ratio: 0.0
+merged_ratio: 0.02
+correct_ratio: 0.96
+expected run length: 0.0 Voxel
+
+6700_34100_3900_2_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 56.212474477737395 Voxel
+
+6700_34100_3900_20_ins_0_1:
+omit_ratio: 0.06666666666666667
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9333333333333333
+expected run length: 35.71211118023843 Voxel
+
+6700_34100_3900_21_ins_0_2:
+omit_ratio: 0.056338028169014086
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9436619718309859
+expected run length: 26.41936129077068 Voxel
+
+6700_34100_3900_22_ins_0_1:
+omit_ratio: 0.05319148936170213
+split_ratio: 0.010638297872340425
+merged_ratio: 0.0
+correct_ratio: 0.9361702127659575
+expected run length: 60.67000127991228 Voxel
+
+6700_34100_3900_23_ins_0_2:
+omit_ratio: 0.03225806451612903
+split_ratio: 0.0
+merged_ratio: 0.021505376344086023
+correct_ratio: 0.946236559139785
+expected run length: 16.959823545047517 Voxel
+
+6700_34100_3900_24_ins_0_1:
+omit_ratio: 0.06315789473684211
+split_ratio: 0.0
+merged_ratio: 0.021052631578947368
+correct_ratio: 0.9157894736842105
+expected run length: 4.8284520676406775 Voxel
+
+6700_34100_3900_25_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 87.01632205503074 Voxel
+
+6700_34100_3900_26_ins_0_2:
+omit_ratio: 0.05154639175257732
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9484536082474226
+expected run length: 28.577362955382544 Voxel
+
+6700_34100_3900_27_ins_0_1:
+omit_ratio: 0.020618556701030927
+split_ratio: 0.0
+merged_ratio: 0.020618556701030927
+correct_ratio: 0.9587628865979382
+expected run length: 16.636954615264923 Voxel
+
+6700_34100_3900_28_ins_0_3:
+omit_ratio: 0.017543859649122806
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9824561403508771
+expected run length: 69.15473436353288 Voxel
+
+6700_34100_3900_29_ins_0_2:
+omit_ratio: 0.020833333333333332
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9791666666666666
+expected run length: 46.84890699802666 Voxel
+
+6700_34100_3900_3_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 117.18570805670754 Voxel
+
+6700_34100_3900_30_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.03636363636363636
+correct_ratio: 0.9636363636363636
+expected run length: 0.0 Voxel
+
+6700_34100_3900_4_ins_0_2:
+omit_ratio: 0.013513513513513514
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9864864864864865
+expected run length: 53.50652794302249 Voxel
+
+6700_34100_3900_5_ins_0_1:
+omit_ratio: 0.10126582278481013
+split_ratio: 0.0
+merged_ratio: 0.02531645569620253
+correct_ratio: 0.8734177215189873
+expected run length: 0.0 Voxel
+
+6700_34100_3900_6_ins_0_4:
+omit_ratio: 0.04081632653061224
+split_ratio: 0.0
+merged_ratio: 0.01020408163265306
+correct_ratio: 0.9489795918367347
+expected run length: 14.79476569238325 Voxel
+
+6700_34100_3900_7_ins_0_3:
+omit_ratio: 0.013157894736842105
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9868421052631579
+expected run length: 45.08470144754788 Voxel
+
+6700_34100_3900_8_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.03508771929824561
+correct_ratio: 0.9649122807017544
+expected run length: 0.0 Voxel
+
+6700_34100_3900_9_ins_0_2:
+omit_ratio: 0.021505376344086023
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.978494623655914
+expected run length: 30.463227322254006 Voxel
+
+6950_33100_4150_1_ins_0_1:
+omit_ratio: 0.011764705882352941
+split_ratio: 0.0
+merged_ratio: 0.023529411764705882
+correct_ratio: 0.9647058823529412
+expected run length: 0.0 Voxel
+
+6950_33100_4150_10_ins_0_1:
+omit_ratio: 0.1450381679389313
+split_ratio: 0.0
+merged_ratio: 0.015267175572519083
+correct_ratio: 0.8396946564885496
+expected run length: 28.29283768570849 Voxel
+
+6950_33100_4150_11_ins_0_1:
+omit_ratio: 0.018018018018018018
+split_ratio: 0.0
+merged_ratio: 0.018018018018018018
+correct_ratio: 0.963963963963964
+expected run length: 0.0 Voxel
+
+6950_33100_4150_12_ins_0_1:
+omit_ratio: 0.00847457627118644
+split_ratio: 0.0
+merged_ratio: 0.025423728813559324
+correct_ratio: 0.9661016949152542
+expected run length: 0.0 Voxel
+
+6950_33100_4150_13_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 90.60065057693963 Voxel
+
+6950_33100_4150_14_ins_0_1:
+omit_ratio: 0.034722222222222224
+split_ratio: 0.0
+merged_ratio: 0.013888888888888888
+correct_ratio: 0.9513888888888888
+expected run length: 13.033518406876881 Voxel
+
+6950_33100_4150_15_ins_0_1:
+omit_ratio: 0.010869565217391304
+split_ratio: 0.010869565217391304
+merged_ratio: 0.021739130434782608
+correct_ratio: 0.9565217391304348
+expected run length: 15.824387567325486 Voxel
+
+6950_33100_4150_16_ins_0_1:
+omit_ratio: 0.04225352112676056
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9577464788732394
+expected run length: 43.63067035285678 Voxel
+
+6950_33100_4150_17_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.057971014492753624
+correct_ratio: 0.9420289855072463
+expected run length: 0.0 Voxel
+
+6950_33100_4150_18_ins_0_2:
+omit_ratio: 0.1827956989247312
+split_ratio: 0.0
+merged_ratio: 0.021505376344086023
+correct_ratio: 0.7956989247311828
+expected run length: 13.344245469768293 Voxel
+
+6950_33100_4150_19_ins_0_1:
+omit_ratio: 0.1485148514851485
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.8514851485148515
+expected run length: 22.437128046346203 Voxel
+
+6950_33100_4150_2_ins_0_2:
+omit_ratio: 0.07339449541284404
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.926605504587156
+expected run length: 24.402650030373763 Voxel
+
+6950_33100_4150_20_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.02631578947368421
+correct_ratio: 0.9736842105263158
+expected run length: 0.39378425925679433 Voxel
+
+6950_33100_4150_21_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.010416666666666666
+merged_ratio: 0.020833333333333332
+correct_ratio: 0.96875
+expected run length: 13.38475851587603 Voxel
+
+6950_33100_4150_22_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 69.3334303423675 Voxel
+
+6950_33100_4150_23_ins_0_2:
+omit_ratio: 0.043478260869565216
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9565217391304348
+expected run length: 23.779541832443513 Voxel
+
+6950_33100_4150_24_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.057971014492753624
+correct_ratio: 0.9420289855072463
+expected run length: 0.0 Voxel
+
+6950_33100_4150_25_ins_0_1:
+omit_ratio: 0.00847457627118644
+split_ratio: 0.0
+merged_ratio: 0.025423728813559324
+correct_ratio: 0.9661016949152542
+expected run length: 0.0 Voxel
+
+6950_33100_4150_26_ins_0_2:
+omit_ratio: 0.08256880733944955
+split_ratio: 0.0
+merged_ratio: 0.01834862385321101
+correct_ratio: 0.8990825688073395
+expected run length: 15.387888826765314 Voxel
+
+6950_33100_4150_3_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 111.81798275874704 Voxel
+
+6950_33100_4150_4_ins_0_1:
+omit_ratio: 0.11450381679389313
+split_ratio: 0.0
+merged_ratio: 0.022900763358778626
+correct_ratio: 0.8625954198473282
+expected run length: 12.231269648718175 Voxel
+
+6950_33100_4150_5_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.043478260869565216
+correct_ratio: 0.9565217391304348
+expected run length: 0.0 Voxel
+
+6950_33100_4150_6_ins_0_1:
+omit_ratio: 0.016129032258064516
+split_ratio: 0.0
+merged_ratio: 0.016129032258064516
+correct_ratio: 0.967741935483871
+expected run length: 2.396943648142878 Voxel
+
+6950_33100_4150_7_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 69.75177265095165 Voxel
+
+6950_33100_4150_8_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0136986301369863
+merged_ratio: 0.0410958904109589
+correct_ratio: 0.9452054794520548
+expected run length: 13.632872282970878 Voxel
+
+6950_33100_4150_9_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.03225806451612903
+correct_ratio: 0.967741935483871
+expected run length: 12.273757285656485 Voxel
+
+6950_34350_4150_1_ins_0_1:
+omit_ratio: 0.10810810810810811
+split_ratio: 0.0
+merged_ratio: 0.036036036036036036
+correct_ratio: 0.8558558558558559
+expected run length: 5.319662131871348 Voxel
+
+6950_34350_4150_10_ins_0_1:
+omit_ratio: 0.10256410256410256
+split_ratio: 0.0
+merged_ratio: 0.02564102564102564
+correct_ratio: 0.8717948717948718
+expected run length: 0.0 Voxel
+
+6950_34350_4150_11_ins_0_1:
+omit_ratio: 0.011235955056179775
+split_ratio: 0.0
+merged_ratio: 0.02247191011235955
+correct_ratio: 0.9662921348314607
+expected run length: 5.7675207929786705 Voxel
+
+6950_34350_4150_12_ins_0_2:
+omit_ratio: 0.042105263157894736
+split_ratio: 0.010526315789473684
+merged_ratio: 0.031578947368421054
+correct_ratio: 0.9157894736842105
+expected run length: 14.670314891785399 Voxel
+
+6950_34350_4150_13_ins_0_1:
+omit_ratio: 0.03296703296703297
+split_ratio: 0.0
+merged_ratio: 0.03296703296703297
+correct_ratio: 0.9340659340659341
+expected run length: 11.614009117664102 Voxel
+
+6950_34350_4150_14_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 111.91023032971333 Voxel
+
+6950_34350_4150_15_ins_0_3:
+omit_ratio: 0.030303030303030304
+split_ratio: 0.0
+merged_ratio: 0.020202020202020204
+correct_ratio: 0.9494949494949495
+expected run length: 16.959716545394624 Voxel
+
+6950_34350_4150_16_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.02247191011235955
+correct_ratio: 0.9775280898876404
+expected run length: 0.0 Voxel
+
+6950_34350_4150_17_ins_0_2:
+omit_ratio: 0.06521739130434782
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9347826086956522
+expected run length: 34.50878267776135 Voxel
+
+6950_34350_4150_18_ins_0_1:
+omit_ratio: 0.0273972602739726
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9726027397260274
+expected run length: 47.12180592316242 Voxel
+
+6950_34350_4150_19_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.03614457831325301
+correct_ratio: 0.963855421686747
+expected run length: 0.0 Voxel
+
+6950_34350_4150_2_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 82.74764390474058 Voxel
+
+6950_34350_4150_20_ins_0_1:
+omit_ratio: 0.0660377358490566
+split_ratio: 0.0
+merged_ratio: 0.02830188679245283
+correct_ratio: 0.9056603773584906
+expected run length: 13.755130211745806 Voxel
+
+6950_34350_4150_21_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 58.33312147291156 Voxel
+
+6950_34350_4150_22_ins_0_1:
+omit_ratio: 0.058823529411764705
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9411764705882353
+expected run length: 26.773277550944172 Voxel
+
+6950_34350_4150_23_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.02247191011235955
+correct_ratio: 0.9775280898876404
+expected run length: 0.0 Voxel
+
+6950_34350_4150_24_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.030303030303030304
+correct_ratio: 0.9696969696969697
+expected run length: 0.0 Voxel
+
+6950_34350_4150_25_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.02857142857142857
+correct_ratio: 0.9714285714285714
+expected run length: 0.0 Voxel
+
+6950_34350_4150_26_ins_0_1:
+omit_ratio: 0.039473684210526314
+split_ratio: 0.0
+merged_ratio: 0.02631578947368421
+correct_ratio: 0.9342105263157895
+expected run length: 0.0 Voxel
+
+6950_34350_4150_27_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.02631578947368421
+correct_ratio: 0.9736842105263158
+expected run length: 0.0 Voxel
+
+6950_34350_4150_3_ins_0_2:
+omit_ratio: 0.044444444444444446
+split_ratio: 0.0
+merged_ratio: 0.011111111111111112
+correct_ratio: 0.9444444444444444
+expected run length: 12.842792257278393 Voxel
+
+6950_34350_4150_4_ins_0_1:
+omit_ratio: 0.0410958904109589
+split_ratio: 0.0
+merged_ratio: 0.0273972602739726
+correct_ratio: 0.9315068493150684
+expected run length: 0.0 Voxel
+
+6950_34350_4150_5_ins_0_2:
+omit_ratio: 0.017543859649122806
+split_ratio: 0.0
+merged_ratio: 0.03508771929824561
+correct_ratio: 0.9473684210526315
+expected run length: 0.0 Voxel
+
+6950_34350_4150_6_ins_0_1:
+omit_ratio: 0.03225806451612903
+split_ratio: 0.0
+merged_ratio: 0.03225806451612903
+correct_ratio: 0.9354838709677419
+expected run length: 0.0 Voxel
+
+6950_34350_4150_7_ins_0_1:
+omit_ratio: 0.06451612903225806
+split_ratio: 0.0
+merged_ratio: 0.010752688172043012
+correct_ratio: 0.9247311827956989
+expected run length: 10.796281567551734 Voxel
+
+6950_34350_4150_8_ins_0_2:
+omit_ratio: 0.02247191011235955
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9775280898876404
+expected run length: 24.709207067046584 Voxel
+
+6950_34350_4150_9_ins_0_1:
+omit_ratio: 0.06578947368421052
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9342105263157895
+expected run length: 59.75527501184458 Voxel
+
+6950_34600_4150_1_ins_0_2:
+omit_ratio: 0.03125
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.96875
+expected run length: 41.527021406170164 Voxel
+
+6950_34600_4150_10_ins_0_1:
+omit_ratio: 0.030303030303030304
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9696969696969697
+expected run length: 31.928806253969814 Voxel
+
+6950_34600_4150_11_ins_0_2:
+omit_ratio: 0.058823529411764705
+split_ratio: 0.0
+merged_ratio: 0.023529411764705882
+correct_ratio: 0.9176470588235294
+expected run length: 1.525789893995764 Voxel
+
+6950_34600_4150_12_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 106.03798577104746 Voxel
+
+6950_34600_4150_2_ins_0_2:
+omit_ratio: 0.023622047244094488
+split_ratio: 0.0
+merged_ratio: 0.023622047244094488
+correct_ratio: 0.952755905511811
+expected run length: 0.0 Voxel
+
+6950_34600_4150_3_ins_0_3:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 102.40983981521896 Voxel
+
+6950_34600_4150_4_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 83.74351515852956 Voxel
+
+6950_34600_4150_5_ins_0_2:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 115.79267425343525 Voxel
+
+6950_34600_4150_6_ins_0_2:
+omit_ratio: 0.08571428571428572
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 0.9142857142857143
+expected run length: 29.493086053092494 Voxel
+
+6950_34600_4150_7_ins_0_1:
+omit_ratio: 0.03409090909090909
+split_ratio: 0.0
+merged_ratio: 0.011363636363636364
+correct_ratio: 0.9545454545454546
+expected run length: 11.246257093333249 Voxel
+
+6950_34600_4150_8_ins_0_3:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.023255813953488372
+correct_ratio: 0.9767441860465116
+expected run length: 0.0 Voxel
+
+6950_34600_4150_9_ins_0_1:
+omit_ratio: 0.0
+split_ratio: 0.0
+merged_ratio: 0.0
+correct_ratio: 1.0
+expected run length: 40.24677826053533 Voxel
+
+Average omit_ratio of total 575 is 0.028368463522840205
+Average split_ratio of total 575 is 0.000833610392366316
+Average merged_ratio of total 575 is 0.015217520567407031
+Average correct_ratio of total 575 is 0.9555804055173867
+Average expect run length of total 575 is 29.06234185307587 Voxel
