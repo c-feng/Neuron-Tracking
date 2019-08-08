@@ -1,0 +1,15 @@
+{
+    "tif": [
+        "1X10rand\\SD_004.tif",
+        "1X10rand\\SD_004_vis.tif",
+        "1x1glitch\\SD_004.tif",
+        "1x1glitch\\SD_004_vis.tif",
+        "1x3glitch\\SD_004.tif",
+        "1x3glitch\\SD_004_vis.tif",
+        "1x9\\SD_004.tif",
+        "1x9\\SD_004_vis.tif",
+        "1Xshort\\SD_004.tif",
+        "1Xshort\\SD_004_vis.tif"
+    ],
+    "json": []
+}
