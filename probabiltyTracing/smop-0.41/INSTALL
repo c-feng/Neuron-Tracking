@@ -1,0 +1,18 @@
+smop -- matlab to python compiler
+
+Installation from sources with pip
+==================================
+
+This is the preferred option, because pip takes
+care of everything -- finding the dowinload
+site, installing the dependences (numpy and
+networkx), etc.  If you don't have pip, this
+is the perfect time to install it.
+
+    $ pip install smop --user
+    $ tar zxvf smop.tar.gz
+    $ cd smop
+    $ pip install . --user
+
+If you use the --user option, don't forget to
+put your .local/bin into the search path (unix only).
