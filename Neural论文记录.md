@@ -21,4 +21,6 @@
 
 
 ### [6.Deep Reinforcement Learning for Active Breast Lesion Detection from DCE-MRI](https://cs.adelaide.edu.au/~gabriel/DRL_maicasEtAl.pdf)
-> 扩展deep Q-network检测乳腺病变(动态对比增强核磁共振图像), 
+> 扩展deep Q-network检测乳腺病变(动态对比增强核磁共振图像), ResNet加上强化学习的Q-Network。
+
+
