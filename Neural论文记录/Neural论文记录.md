@@ -10,7 +10,7 @@
 2. ### [VoxResNet: Deep Voxelwise Residual Networks for Volumetric Brain Segmentation](https://arxiv.org/abs/1608.05895)
     > 大脑分割, VoxResNet也是神经信号追踪使用的基础网络架构。
     
-    ![](./pics/VoxResNet.png)
+    ![](./pics/2/VoxResNet.png)
 
 3. ### [Efficient Parameter-free Clustering Using First Neighbor Relations](https://arxiv.org/abs/1902.11266)
     > 一种无需参数的分成聚类方法FINCH，利用邻接矩阵来寻找聚类关系
